@@ -1931,5 +1931,35 @@
         "drm_license_url": ""
       }
     ]
+  },
+  {
+    "name": "CANALES XXX +18",
+    "mode": false,
+    "lista": [
+      {
+        "name": "PLAYBOY",
+        "ico": "https://panelssh.com.ar/Img/playboy.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfogRYw1k7rrBBqWHhVux3zmmGipFOoUcEg2AzEDQC5sbQFCpOU4me0+EfTx270ybtL62JkrPgMWuKH+0DFs1JZ6",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDB/c1NKiUbU1/Z9Ec03jd2hKZ8pVQrxvAqVlfYFYBsMQ",
+        "prot": "1"
+      },
+      {
+        "name": "SEXTREME",
+        "ico": "https://panelssh.com.ar/Img/sextreme.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrOtTWl3saiURxV3+HEdD/NXAUeV5EGCUlikk8ubivcocUhCvIoYc/MfI0MxVKzyk/khB2wvLaUfZzwgAazrRG4",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDAcOHd08U0SOTcWNQS9qp238KoKmgbJdvnJ9JAyARZ1X",
+        "prot": "1"
+      },
+      {
+        "name": "VENUS",
+        "ico": "https://panelssh.com.ar/Img/venus.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfojLFhg1WvBrhWBgFm+Ct023cFVRozqop69iN0el0MsbRMbe1ppFGWqfcpZOYTxLwU=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDHNRuq/LSs/z7CBh/KHXOOduoj6mhb0EBJhHpE7lWI2A",
+        "prot": "1"
+      }
+    ]
   }
 ]
