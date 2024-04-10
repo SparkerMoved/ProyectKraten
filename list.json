@@ -1784,29 +1784,36 @@
     "mode": false,
     "lista": [
       {
-        "name": "TOM Y JERRY",
-        "ico": "https://static.wikia.nocookie.net/warner-bros-entertainment/images/5/5f/TomandJerryTitleCardc.jpg",
-        "uri": "Lkplus0qklETeYWxcZtkXjsJWrtg7T4hzoUcsBev8aBrXlottvSj9pvppyJMoLUxWLyI7twBx3Pj+2mSfXxw+MyjPgLHxcEEa8ynkPDVAGDBrDOJSGLzqW3F9AMB7cFgowc+13Gv+B3F7vaGSXzKGw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "EL CHAVO DEL OCHO",
-        "ico": "https://panelssh.com.ar/Img/elchavo.jpg",
+        "ico": "https://x.playerlatino.live/elchavodel8.png",
         "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXysNID4GZrt3J28ABs4C1+Q==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
+        "name": "DRAGON BALL",
+        "ico": "https://x.playerlatino.live/dragonball.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXRpBiKtUI8GL0z+7NYspxBQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "DRAGON BALL Z",
-        "ico": "https://panelssh.com.ar/Img/dragonball.jpg",
+        "ico": "https://x.playerlatino.live/dragonballz.png",
         "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXJQF0ds4gvmIkw1/WDFLlWA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
+        "name": "DRAGON BALL GT",
+        "ico": "https://x.playerlatino.live/dragonballgt.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXJHEJIZfssAM2NoVyhlpOkQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "DRAGON BALL SUPER",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/250px-Dragon_Ball_Super.png",
+        "ico": "https://x.playerlatino.live/dragonballsuper.png",
         "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXFqRKhBI+l5uZ9HT5sBP7BQ==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -1815,6 +1822,34 @@
         "name": "LOS SIMPSON",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
         "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXBOZGavIvMwQRUujnHz07oQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ALF",
+        "ico": "https://x.playerlatino.live/alf.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXO8o0YE4zDr5cY2SRZjMxXg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BOB ESPONJA",
+        "ico": "https://x.playerlatino.live/bobesponja.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXy18IqV0UaACOt3ndXIG+ig==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TOM Y JERRY",
+        "ico": "https://static.wikia.nocookie.net/warner-bros-entertainment/images/5/5f/TomandJerryTitleCardc.jpg",
+        "uri": "Lkplus0qklETeYWxcZtkXjsJWrtg7T4hzoUcsBev8aBrXlottvSj9pvppyJMoLUxWLyI7twBx3Pj+2mSfXxw+MyjPgLHxcEEa8ynkPDVAGDBrDOJSGLzqW3F9AMB7cFgowc+13Gv+B3F7vaGSXzKGw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CORAJE EL PERRO COBARDE",
+        "ico": "https://x.playerlatino.live/coraje.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXGs6CN3BzmyuMfULwr4dMPA==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
