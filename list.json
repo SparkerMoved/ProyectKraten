@@ -157,23 +157,9 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCAGVOY+jHYFSF2UMaVsMhwjXH5YRbLyyCyWUMjHxM1r0A=="
       },
       {
-        "name": "CANAL 7 NORTE TV",
-        "ico": "https://panelssh.com.ar/Img/canal7.png",
-        "uri": "VFMy6gBwLt3TAlfLWD74gL+j3S2l3QtdbbRClZnyMBvTebBrljC+nXlEDBsiq17pXaB2fX/7iJLZskhUYWAESA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "EL PALOMAR",
         "ico": "https://panelssh.com.ar/Img/palomar1.png",
         "uri": "VFMy6gBwLt3TAlfLWD74gEzqf1yysaOFkaGSvJ6pyLfoAO7KI6mD25kIHcciFamgQIiAIaaQJzPRHE4KgRAhNg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 5 TUCUMAN",
-        "ico": "https://panelssh.com.ar/Img/canal5tucuman.png",
-        "uri": "1wHlIjat18ELGg0xXrfh2B4bqdUmAFrbrOVTkjaR1uVgrfy2NnftTcncEDlt9Zmy",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -225,13 +211,6 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqjP8PdtNjF4Uni2QxpiwAIvAf3Z7s1WRN5shGPECqEwl1EEGHyzpsArxeTpaky9qL09Udl4qwgzX6g2wgINYtBtxBF6cGgyaIfTNqfvwxS1Q==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCC/Vrrc3jlSHs499hqaMbYU0tgn20R7QaJPpaeC26DFqA=="
-      },
-      {
-        "name": "CANAL 13 RIO CUARTO",
-        "ico": "https://panelssh.com.ar/Img/canal13riocuarto.png",
-        "uri": "l66g1HE1VtW+u5fKP786SgcahopItA3tJR093bSaibA+UM4WnwLvYwebnblGHKlk5oBV2WCDl5ioLoOOuAIspAP0zYH9AdP6RJxAT2SdOPY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       },
       {
         "name": "TELEFE SANTA FE",
@@ -304,16 +283,9 @@
         "drm_license_url": ""
       },
       {
-        "name": "CANAL 8 MENDOZA",
-        "ico": "https://panelssh.com.ar/Img/canal8mendoza.png",
-        "uri": "3fOAGvX7hlelqaxj4FmmObZ1U4elUrcsrbra9lZQefjomZ8NWRY1tYUy3q5H+L/hTdVd0Z+aZd7iigQG1OXfuw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "CANAL 4 JUJUY",
         "ico": "https://panelssh.com.ar/Img/canal4jujuy.png",
-        "uri": "qh3csy6adKjWpzqJDdj0cIu/UcWdZtVhq38wItZTt5Q2WjKr2JbrSbTg7qZCBjZtq/rF/AWd2tg5jvnqv0dVS3CiUMERaDY2C7zLtLsZddk=",
+        "uri": "qh3csy6adKjWpzqJDdj0cIu/UcWdZtVhq38wItZTt5R5H/kbPYZxhYcpRZew6K4Kfcf829y7FBqWOcfDoXqL0L3The8M0uJuU3iGEwtqfgQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -326,8 +298,8 @@
       },
       {
         "name": "SAN LUIS+",
-        "ico": "https://sanluismas.com/wp-content/uploads/2023/05/Logos_San-Luis.png",
-        "uri": "JRkv0+HJlq+RX/RUZEQdAt5CH1cb5l90zWPV/EhhOR+IVRe2nQovFfeR3XpCoJUkxM3Xk2kuRITCAYDq1iqHWOIHGBMnphiHpQr88Cacrq8=",
+        "ico": "https://sanluismas.com/wp-content/uploads/2024/03/logo-sl.webp",
+        "uri": "PZH9idXYQp/l2VYaDTXwBtEPqevaP8kojlpO1SvNIZQ/M5yELZh07gL45GpaI+tvwFj2JgQi53paE0fM3szpUDRJ+MdDaJr4fwweHzVnF3A=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -341,14 +313,7 @@
       {
         "name": "MULTIVISION SALTA",
         "ico": "https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png",
-        "uri": "+kzj0RpiIm3IncMupKgj8SFitHiERWKG3syHnZh8dNWqOsoD6CvtpT8K5H9QgoTTsTzYP++2XCiK6AUSHDWRcg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TVDOS SALTA",
-        "ico": "https://panelssh.com.ar/Img/tvdossalta.png",
-        "uri": "VbGic/1qr64W7Z3yZkbovg2a0ByBc0WMaYbONwJI+6qEB/77HdQDppektNCp0X8wHr4lUMNzE98Gp5hji7+B0Q==",
+        "uri": "B0ftmmJ2uxevNXAuhGM6MykBwnp4OJXtoRjtvpCyqNbo1PyyjY4fYt2++znUly2TmjBkdArqJWu5k/1AiQziMA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -356,13 +321,6 @@
         "name": "CANAL 7 SALTA",
         "ico": "https://panelssh.com.ar/Img/canal7salta.png",
         "uri": "VbGic/1qr64W7Z3yZkbovg2a0ByBc0WMaYbONwJI+6oxCcGKYNZ8PihQ+v6eHul2OGmi5mbO1JmaBwuJbvHuWg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL BLU SAN JUAN",
-        "ico": "https://panelssh.com.ar/Img/canalblusanjuan.png",
-        "uri": "VbGic/1qr64W7Z3yZkbovg2a0ByBc0WMaYbONwJI+6qTXkln+42YacAVJJvoX3ch9bMWmXqwkTjumutCkbeqdw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -444,13 +402,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "CIUDAD TV",
-        "ico": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/ciudad-tv.png",
-        "uri": "4r8ezkO+uU6A+JCpojlTxFjN9bpukz+KU4nBQW/Cxb9NVpZUK9/a05BNwE8JoMIiholDdMCRCF/NLxVNK816fg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "9 RESISTENCIA",
         "ico": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-9-resistencia.png",
         "uri": "u7yek0UOlK/rwgUL8voDbb9NLDR1EXxHd1jVR5UIyoVQHAhZtQvJV8IMxYKq0DaAAy44rw+9CLK/eCqWkv6/Cg==",
@@ -507,13 +458,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "UNRIO TV",
-        "ico": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unriotv.png",
-        "uri": "qTSdBzpd1ymo2l3Mx01FTxwNrPje705Xcgx/4PSelq/xa8545jYRMg9qtFohU1axKWQSkV4Q9NOzqxIb4uRpLfcrgCL4msF9w0774kGGjNg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "TVP PAMPEANA",
         "ico": "https://panelssh.com.ar/Img/TVP_PAMPEANA.png",
         "uri": "JRkv0+HJlq+RX/RUZEQdAhRIPnHPwdVO1ZTAiziBMKhRREg8DiuTWdydf9Y9WTU0X/FvHJUEOMvMmxFINayKmAZ5fXYF1/YBvq7nWg/mMb0=",
@@ -548,13 +492,6 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDMn03+x0jY814iE8XtqrcNkd94qTlSmvaiNUWhFHYOle"
       },
       {
-        "name": "TNT SPORTS (OPC2)",
-        "ico": "https://panelssh.com.ar/Img/tntsports11.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrnfEsC/LSeTUou2Z8diAfqgFbHmg3bhi4392ZR050KE8KZMQzHa3hR6k86EXxlsJYiwD7/d1lJ+BeR+8b+J6jZ",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDGf5IAsnoZAI3GmIsffuGS/HFNz/sdeRHwCGl/ioKPdN4Xw51UH97QtRV2FTarmo1iI9I4oVisUICDeT/xWWVHDsflmT5fELTeJBTIz0GlPv0DSS0Dfg9u+n8k2Lk6uWog=="
-      },
-      {
         "name": "ESPN",
         "ico": "https://panelssh.com.ar/Img/espn.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqiphe8SKrnoOiQqDFZVlytw4EFD/P5sPrp+rQbRR6iIX3Q5q/BwBGsLRQOK5d7MGuTp8Fa/QBjVQhucjrKMRH7",
@@ -576,8 +513,8 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDBZ+gyJP6B1yvU4jcFO3w4aOYv9zhWuJjtjKkhpUiswM"
       },
       {
-        "name": "ESPN EXTRA",
-        "ico": "https://panelssh.com.ar/Img/newespnextra1.png",
+        "name": "ESPN 4",
+        "ico": "https://panelssh.com.ar/Img/espn4.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqiphe8SKrnoOiQqDFZVlytDKji+fuOmIrrg0LHxUN1bO2BuqbJ7UmBLQNXXkD20G/QkcXFZEBI6NEmvHhW2r+S",
         "drm_scheme": "ClearKey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDBZ+gyJP6B1yvU4jcFO3w4ZTIqPq4SPnyG4OgqDUy5oR"
@@ -623,13 +560,6 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqVTu5jqd2RweAcHJ6xoibRgW38r4x67LfGL9tdicsmzIaR2F6l6OsZHlKmSoJt2hZ983k9Nc+pYPY5CG1Ukqrl",
         "drm_scheme": "ClearKey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDFdOpuB9cgXdCXWtaSP9vznsoD7oPwgKrlWFQu6TkoSc"
-      },
-      {
-        "name": "DIRECTV SPORTS MOTOR",
-        "ico": "https://panelssh.com.ar/Img/directvmotor.png",
-        "uri": "AZMlM6+eRwEC5M+x2/Txury5ZtOIju/OQh971N4kKBfRg1l3RxYiJeCjPntSXUi8jFKbPOWK0tUlHKZT/DngwJ9qNyBMN4fcojUyeUFuyfs=",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDCEmN5BzKq+RpiifYGFrEsNq170NFJbb7uqAZ4DtHkSY"
       },
       {
         "name": "VTV",
@@ -1105,25 +1035,11 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDIbvw1jbXTuHrgBKT43BOhwI2qOtIO0teEX+I2q+OeC2"
       },
       {
-        "name": "ISAT",
-        "ico": "https://panelssh.com.ar/Img/isat.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoUiAkHg744ePEcVIDX827vNPD8zNPKOnbixlgvy7/wv7VZutiPree0C4ZWk4Gi7Cc=",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDFEiPrOsjkHuRAWZE/dSKVnhrrCLl/Xlai47cSyfiL1q"
-      },
-      {
         "name": "A3 SERIES",
         "ico": "https://panelssh.com.ar/Img/a3series.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqdz/bFD3v3DK3bKDC+9H36Kq7xCrgkGZKvQryRAPmA5OehIT6tWuWfClMYnpIhzQt+d5wXMXslQfGdpRZf+ilT",
         "drm_scheme": "ClearKey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDEziOPmMIeDNONpzPL95w/mTpVgR9/pLH4zHihIbxNeo"
-      },
-      {
-        "name": "USA NETWORK",
-        "ico": "https://panelssh.com.ar/Img/usanetwork.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqjDamZEnIkNLLpqaPSOUUQTYyegSg6HikxqESzTMzw1E3bka4zIKvdtz/MmnRAS0c=",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDIb7boGs4PgCrooQws8kxt1ElCA2GspVfkdttQXX6g0m"
       },
       {
         "name": "COMEDY CENTRAL",
@@ -1397,25 +1313,11 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLSj88mMvDRHddOjsiJ9T+x8lInUabilVsXbeu3+5aTs"
       },
       {
-        "name": "GLITZ",
-        "ico": "https://panelssh.com.ar/Img/glitz.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqNfZY8GsANlHFYitSWF+N7w20eeeZoSaYQNiYY5vH5Aiw8W9RJlGm9om6NFzzixHw=",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDDuvoY72J+iuKghgxct/gB3JytYeA5BtrjUtMq2rsb6r"
-      },
-      {
         "name": "HOLA TV",
         "ico": "https://panelssh.com.ar/Img/holatv.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrzs12IzZ3ZC/k5qWT5yvdg31lk6wNmHh9cQMrb4++nPWWCtEVWjO/UTEvVCFnBaEBDzlrUglND5s1iNGm2XL6u",
         "drm_scheme": "ClearKey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDJlDnlHocWwNco5hU0kVne5lvzaAgFpvIDGtxnDhV1q2"
-      },
-      {
-        "name": "TRU TV",
-        "ico": "https://panelssh.com.ar/Img/trutv.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqhvxH4tzM+cuYdL6ML1kSVTiFgvb8Es4vGsQjqEg3exoefc7b1Efz8RV4cdpX2VDA=",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDIYIKVwyygtptWx4DmePcCdmfeC0soLw3ewiH53E/OR8"
       },
       {
         "name": "KZO ENTERTAINMENT",
@@ -1541,13 +1443,6 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoUv5oNzYJElX6JyxUTC6XdkRqiE/Qb5Q1OJdV4Uc9Sl+aFVTNFdPQwMhEsL1CKWXGbehkRBlx4sQ7k8C2LlFx0",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDFFaCJZbXZg4IGA6J19cbgvc19pWkNXDMcb36fAs369M"
-      },
-      {
-        "name": "MUCH MUSIC",
-        "ico": "https://panelssh.com.ar/Img/MUCH_MUSIC.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrDmgPfgA+a/mvmHj2IIY9GyOJ9unLfqsxtH09h3Os0Rz3bfYZLBb5xYedpPe/jMTE6nVglCAsXgeKdiF0hpM8Y",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDA86nJRR2gEsSz4c9K84RubiaSnhQ7Cg1yu6g6vRcG2e"
       }
     ]
   },
@@ -1805,13 +1700,6 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqOovM1e/6myBdwatCAjRh0aWcAAjK1qRaxqiU43kaki3P09xRLCVP50QmVlKwQZasQ1AwqBzHij71xNRo0ZXBV",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDG/vfBxRMiNiXklMH8kL5Lyk/P7e5S7nr/2Y17KjL1tP"
-      },
-      {
-        "name": "CENTRAL TV",
-        "ico": "https://panelssh.com.ar/Img/centraltv.png",
-        "uri": "ZIR93ZWYa3EHwPvtYutMYaox02Hzlo0oPVhuqXnLh2qabxKu+5EDvJFF98QYC5t5CItmIOIVRFergQR3dDsuHGfBUsqP1/sebFaJiP3XS5g=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       },
       {
         "name": "UNION TV",
