@@ -1424,11 +1424,32 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLIu3ilxMyuYdf6IWbmKSXe21y93M2cF2HQg58ZdF0VX"
       },
       {
-        "name": "MTV 00",
+        "name": "MTV 00s",
         "ico": "https://panelssh.com.ar/Img/mtv00.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfplNnP3xfay1oGTCPSfG732EpLc8gIJwMIlXtnc5CgKN+aQBX3s3tCym355K0aUELo=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLIu3ilxMyuYdf6IWbmKSXcN+rjGsUR6Mwltb9npNE4J"
+      },
+      {
+        "name": "MTV CLUB",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/505px-Club_MTV_2021_logo.svg.png",
+        "uri": "l7dxN650Z14T3Hm+/i64qOhznQwlIsx1fCpHlPxOE1ZdsbNJ0hYuBKN4a86GxQgR8s78P52zDpt52aoOEgUxGw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLIu3ilxMyuYdf6IWbmKSXdU9cjCdF0pL3fM4u9SyNu6"
+      },
+      {
+        "name": "MTV 80s",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png",
+        "uri": "l7dxN650Z14T3Hm+/i64qOhznQwlIsx1fCpHlPxOE1YNUmZ0je2rHtMihEUIcpxC4EQaywxrNu2+Tfuqibhsng==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLIu3ilxMyuYdf6IWbmKSXc/wtJqXNfsB6snltun4K9M"
+      },
+      {
+        "name": "MTV 90s",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/681px-MTV_90s_2022.svg.png",
+        "uri": "l7dxN650Z14T3Hm+/i64qOhznQwlIsx1fCpHlPxOE1ZQqYrvCdOwtruki9WT/8EAknfow1KB7mjaHHAqRgLuEQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLIu3ilxMyuYdf6IWbmKSXdwepKmjNrsxFFeZlsoquvf"
       },
       {
         "name": "VORTERIX",
