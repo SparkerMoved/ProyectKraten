@@ -1382,6 +1382,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "MUSIC TOP",
+        "ico": "https://www.canal26.com/images/open-graph/musictop_logo.png",
+        "uri": "+AlR3lkO2Nn7SOaJeeB97p1GlAeda3P+J6ML38HWwOzWBZ+FDXJNVQuy5TTaoUsf7zulOHwK3YavTlnT5VZVUw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "NICK MUSIC",
         "ico": "https://panelssh.com.ar/Img/nickmusic.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfp7fozUsdEn6ipm5mY4AfsQaacIs5n1ajy2tN2tHu/RB/iHaiVy6LtcJf9M0Od9UbR/0cxQZEdwEp76+e8Zirzd",
