@@ -213,6 +213,13 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCC/Vrrc3jlSHs499hqaMbYU0tgn20R7QaJPpaeC26DFqA=="
       },
       {
+        "name": "13 RIO CUARTO",
+        "ico": "https://panelssh.com.ar/Img/canal13riocuarto.jpg",
+        "uri": "qh7HjW3YFsReeBB/BFFK9HEjcU3SuOM9V9XBW4tUfO7mbqgALL1ZkTHef2tn5IlNuNExdJAZXtIQrgyHWffJ2XtVNoJKmlVcb/LymkPpo0MVuZIwBau6IfBv9jKzSPV3zTan8HOxeH+t3v+1vdh1+11svo0R6R8JKJNzU5ReGD0VT8YVmN9kB3jIKE5FqZOY",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "TELEFE SANTA FE",
         "ico": "https://panelssh.com.ar/Img/telefesantafe.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnz5krFUbe/j/nO5XEXkBzMTuoxvnKwnSnar4IiY7+ps4WXi55b35To6gdv93HeLzIC",
@@ -276,9 +283,23 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNxMmWpCUqaW7aFMJklK41eQWHMBpGZS/ilwpt0kibur"
       },
       {
+        "name": "CANAL 8 SAN JUAN",
+        "ico": "https://panelssh.com.ar/Img/canalochosanjuan.png",
+        "uri": "qh7HjW3YFsReeBB/BFFK9HEjcU3SuOM9V9XBW4tUfO7ySmVRjPvsOChIL8cSOCN5q+FlGBSVQvmTAkTXR342YjqkDozTqix28FIPrw8jr5G+kFVWR3KOSHvYs+K8S7m0Hxs3mBOVucjQmrwmW4VF7lXS4VJHW1f790PE1/ApiwpnWT9P5qP/os0r2NQhguE6",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "CANAL 9 DE MENDOZA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
         "uri": "WM9IPQoDngq1Dw59nG/HDpHGcHWL44OrgPuYQ2KWr17c9xc3UC+9x4gdQIwDdfBuX5lnPh61yY0oZM2V8U7otFojaepTQLS7v7KiguREOXf/O9/yCw8cXA3JVfrtzu90",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 7 MENDOZA",
+        "ico": "https://panelssh.com.ar/Img/sietemendoza.jpg",
+        "uri": "qh7HjW3YFsReeBB/BFFK9HEjcU3SuOM9V9XBW4tUfO7ySmVRjPvsOChIL8cSOCN53zmLHCb8Khim+jZY7H1dVQ782Zwwu41WES52v8LT5y5UKwlyXDa2bi05lisQQncnrA+291GMWwGBw1xLb6jgdFpar9F03kN+nIkqdNuxx1qm8gPc3lhM271yYtL027Ph",
         "drm_scheme": "",
         "drm_license_url": ""
       },
