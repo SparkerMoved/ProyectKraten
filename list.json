@@ -874,6 +874,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "USA NETWORK",
+        "ico": "https://panelssh.com.ar/Img/usanetwork.png",
+        "uri": "30j8MEUtX0dFiEUEw9xJ/oG6p/oIXZxw1yUAuobdJyr6IY9t9Boqq/JU5m/I6Tra2Jv2K6LJVXy+8vZGbeyMZA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "GOLDEN",
         "ico": "https://panelssh.com.ar/Img/golden.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweSALyOGHdpXlSm+pc9WOaJNeDSKM1HJGIlXallICOKD+9nyrFZ5ywgTB+ATDPww/c=",
@@ -1185,6 +1192,27 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoM2duOQ8HLdx8rSI39pdfJcPfTMHk+qWdDKJxxidASvReLy6zsroIjJXe+3vpMsWNpJZrg25LaQVAwNjAaJUpS",
         "drm_scheme": "ClearKey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLYQdOyrGf1cFkSkZrAtc8sRQY/UrBDTPBxq/IP5QExn"
+      },
+      {
+        "name": "CORAZON TV",
+        "ico": "https://panelssh.com.ar/Img/corazontv.png",
+        "uri": "WouuvUNrV50Ys7RLIZqSX9gtZC0a4PRMRZgp5PvCrU2X7GdxTRsQzZXV5t3UlxEHoESnU0EibjJvcPpCVAdvXNOkMkAObLJ5LBPXlVa8LTxaa4KHKp+YPOmInLWPo3FIJIIAdOeumDfE86If4yqG2j+DECj4OUIzgUGwssgUMt4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "NOVELAS INOLVIDABLES",
+        "ico": "https://panelssh.com.ar/Img/novelas_inolvidables.png",
+        "uri": "aOcmxmmbu1Y6RKSmzntHzmpmnAjwEkOrFsy5/7i3Oo+Dwq6/KSedZs26qgiMCdg0sR6F+ClnlrRuh8GNcEeVdQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANELA TELENOVELAS",
+        "ico": "https://panelssh.com.ar/Img/canela_telenovelas.png",
+        "uri": "JRkv0+HJlq+RX/RUZEQdAiDPKpxRMGKtzWDgpTl0EKj8mcE87PUKmaeChpLjaCBRt8OdAE9LncXY1ChYZ2kKJg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "KANAL D DRAMA",
