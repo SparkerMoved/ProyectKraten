@@ -478,6 +478,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "CLARO SPORTS",
+        "ico": "https://panelssh.com.ar/Img/clarosports.png",
+        "uri": "zrsJhvgFLWtvG068rXl6l5BQIOG5ml3LayeAI0zd46s80tzIOGYqv2gQ3wd1Bu7eruJjjSXj98bhtLj1XR+Ers0cFI2hjtx79aFujuwgSZ0=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDF0MDcT/qfFz70wnJnmRgDplbmfmOzFnSx7Uw7hPC5LQ"
+      },
+      {
         "name": "ESPN PREMIUM",
         "ico": "https://panelssh.com.ar/Img/espnpremium.png",
         "uri": "XEe+ZHN41HID+xO3pfI/qeO+FGtExLDUkRf3NoZYkM0yuNMx6jgazlaK0xJi5iNTplO/GOybVNiRZTC/ysK896tA7WNNyqDmtJEOKj40dUAZEpofj2CI7jw/of3n+dOJDGfUkSiFPJhsT7IhP/b1Pw==",
