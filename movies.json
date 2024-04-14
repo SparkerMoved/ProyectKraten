@@ -4,6 +4,62 @@
         "mode": false,
         "lista": [
           {
+            "name": "El pajaro loco se va de campamento (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzeneS4Yyx0SBl+Xc0HAHgdg9qmJdduMJA1n9eJFMQU7yxQKRLvzlz744GVsBcW/yFOiofsTwe12KhIIaBRmKTEYW",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Rescate imposible (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2fziP/Pt6KO/6dHudDTgjWSa6OnB4g9jfhVsEZa10EN0rIOD54jXLRVeg+vYdpuXs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Baghead: contacto con la muerte (2024)",
+            "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0St3uZflO6iP7mJqrkCs8OkvvAAAt8gQxmzizd6JsDEQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Fabricante de lagrimas (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/i91SgC0uQa3fb68foFS3zgaMUuD.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2bw3wA1fD7/nQaUkQbcHPQK2s2tb0OgGU173BN8z2VPXf8SH+I5T/ieU8YXn9rNeg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Musica (2024)",
+            "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1D/gq3svH1v41puaApyRbEBOpOSV4G52/ZTGZ0qNbtpg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Jade (2024)",
+            "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1z3CYWv3mdlRUWzRGGxRZiHBFPWR29529NPAYZzmhygA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Imaginario: juguete diabolico (2024)",
+            "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0F1/gsDjYW5Zjnaauqu+cXd5a4kr3550FN4NNw8OlFRQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Lisa frankenstein (2024)",
+            "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2AJAloDA9uzwIJSBTM8NMqwHY67OIey7qHnExjYlXp8SZAooEKsK0xxy+mj7U4hao=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "El duro (2024)",
             "ico": "https://image.tmdb.org/t/p/original/lXJK3E3EPcT2i7mev2ilHlTIvTR.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0Vw1Sj/xKAEVwnTmZkRWcEBuYlN7t47hh9z7EebWRwSw==",
@@ -20,7 +76,7 @@
           {
             "name": "Kung fu Panda 4 (2024)",
             "ico": "https://www.bizcochito.es/Films/Poster/tt21692408.webp",
-            "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzenLTvDfKEQmDuNSFI1WOXgMwIj8jDz1lvvUYlfdSo3I1A==",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2f4B6xinaJ1GtLQWZxCUfVViR5tnF7RWqNGM4V62JMMQFl0rKHOdDv+3ZBpEIUr4g=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
