@@ -1187,13 +1187,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "ADULT SWIM",
-        "ico": "https://panelssh.com.ar/Img/adult_swim.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoM2duOQ8HLdx8rSI39pdfJcPfTMHk+qWdDKJxxidASvReLy6zsroIjJXe+3vpMsWNpJZrg25LaQVAwNjAaJUpS",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLYQdOyrGf1cFkSkZrAtc8sRQY/UrBDTPBxq/IP5QExn"
-      },
-      {
         "name": "CANAL RCN",
         "ico": "https://panelssh.com.ar/Img/canal_rcn2.png",
         "uri": "tuzmfv7EMpDZ/uAC1KsBPJgcHsinGkfMbYEH+cuTU4rsNCHW03q0EsaVN/IOGsvG+yynQhUkvHR/+V4EDiTZMg==",
@@ -1234,20 +1227,6 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrw5xs9bKwVQq+m+uCcVdrzEPisczgyOvbXeUq0ypGKuDxmYY8i1DWmuWaNqOowCJI=",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDMn03+x0jY814iE8XtqrcNn5hOij6/EjmJFZ+w2B5mqH"
-      },
-      {
-        "name": "CANAL A",
-        "ico": "https://panelssh.com.ar/Img/canala.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnzpCCArWEQ/VZBk2DFCMvGzcEF7n1sCiQ196xjByllwmjMN0kUaD4LysXFij+qKEGP",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCB2C/92uSKC5FTaMIb4u5/L"
-      },
-      {
-        "name": "BRAVO TV",
-        "ico": "https://panelssh.com.ar/Img/newbravotv.png",
-        "uri": "XEe+ZHN41HID+xO3pfI/qeO+FGtExLDUkRf3NoZYkM1XraF+4bnAlhvU9TSigNtGvzeC9Jcakvgyg7c+1tWZeZ5MftnWKD9a84bKzCmokvw=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDCDKXlYd0gCq51nfVLIeUMHwC2n0yD1nSGVF1eB6HUwN"
       },
       {
         "name": "TELEVISA",
@@ -1304,6 +1283,27 @@
         "uri": "D9bObOKdNpvgw/F4b3dc7AIINPB7UDRz/k5lRX7USvlhzFoRHp5TuMaWrCzFMigKeXjXp22G0tjlGubXKk8imvvU5VHVAjwZN8cn/GKrNOo=",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "ADULT SWIM",
+        "ico": "https://panelssh.com.ar/Img/adult_swim.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoM2duOQ8HLdx8rSI39pdfJcPfTMHk+qWdDKJxxidASvReLy6zsroIjJXe+3vpMsWNpJZrg25LaQVAwNjAaJUpS",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLYQdOyrGf1cFkSkZrAtc8sRQY/UrBDTPBxq/IP5QExn"
+      },
+      {
+        "name": "CANAL A",
+        "ico": "https://panelssh.com.ar/Img/canala.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnzpCCArWEQ/VZBk2DFCMvGzcEF7n1sCiQ196xjByllwmjMN0kUaD4LysXFij+qKEGP",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCB2C/92uSKC5FTaMIb4u5/L"
+      },
+      {
+        "name": "BRAVO TV",
+        "ico": "https://panelssh.com.ar/Img/newbravotv.png",
+        "uri": "XEe+ZHN41HID+xO3pfI/qeO+FGtExLDUkRf3NoZYkM1XraF+4bnAlhvU9TSigNtGvzeC9Jcakvgyg7c+1tWZeZ5MftnWKD9a84bKzCmokvw=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDCDKXlYd0gCq51nfVLIeUMHwC2n0yD1nSGVF1eB6HUwN"
       },
       {
         "name": "CANAL LUZ",
