@@ -897,9 +897,9 @@
       {
         "name": "USA NETWORK",
         "ico": "https://panelssh.com.ar/Img/usanetwork.png",
-        "uri": "30j8MEUtX0dFiEUEw9xJ/oG6p/oIXZxw1yUAuobdJyr6IY9t9Boqq/JU5m/I6Tra2Jv2K6LJVXy+8vZGbeyMZA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "7aYY66kgfUd0PMmdN1hOu3Qskl7BZXF4YuHPDxr2KuN1qgN3wVmr8996kkYQsWG35SgXmK2wEm9tST5F47nZ7EJ5/hyAoaLg2eobMLyfhS8ws25Y8tFpHcFA1mvG2FRc",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNM7fmNrHHFnBzxYWjYVe10T3H+nTTju6RCzlJsUtvZX"
       },
       {
         "name": "GOLDEN",
