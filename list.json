@@ -4,13 +4,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "VIVO - MARIA BECERRA",
-        "ico": "https://panelssh.com.ar/Img/605.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkTNu3zQkQwEsJ5J5gsD9SmdyZ2/e8gjhTqUR0vXv3fxNrJ8LjKfTjRY0hN9e0uXPa",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDH9weBXN1dX9XPdcW+me9ySj5fXM7nnrMU+Sae8vRNBD"
-      },
-      {
         "name": "AMERICA TV",
         "ico": "https://panelssh.com.ar/Img/americatv.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrf9yO6NqoDTUnWFfa9jxxJeg/ZXekY1oFOkvkIuPXRNoHUfSRLEd9R4D/DI1EhUPFQN/jtb8VwFaL1W9e3s4yH",
@@ -511,6 +504,20 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqr3+kFBhYWSm5p2Mw3nhtJtvhSdGkTkukQ1ZtZ01DiNb+RkjOMt/6WyLt6vZrdxecl1ctPEKt3UFu781FUft5E",
         "drm_scheme": "ClearKey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDMn03+x0jY814iE8XtqrcNkd94qTlSmvaiNUWhFHYOle"
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "ico": "https://panelssh.com.ar/Img/espnpremiumop2.png",
+        "uri": "cY4rX63UZVnaxWLOaT3YMMQ0RT7OAdOcps5e7z8xpQtEsx3nHS2BYDDhGqPUClAaE7P5ycNamtNyF+gn1rdOLQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TNT SPORTS",
+        "ico": "https://panelssh.com.ar/Img/tntsportsop2.png",
+        "uri": "cY4rX63UZVnaxWLOaT3YMMQ0RT7OAdOcps5e7z8xpQt9FC2FrkTunZJsSdROBK5UQclF+hguwFsRw/9ay4B+lQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "ESPN",
@@ -1437,6 +1444,13 @@
     "name": "MUSICA",
     "mode": false,
     "lista": [
+      {
+        "name": "FLOW MUSIC",
+        "ico": "https://panelssh.com.ar/Img/605.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkTNu3zQkQwEsJ5J5gsD9SmdyZ2/e8gjhTqUR0vXv3fxNrJ8LjKfTjRY0hN9e0uXPa",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDH9weBXN1dX9XPdcW+me9ySj5fXM7nnrMU+Sae8vRNBD"
+      },
       {
         "name": "MUSIC TOP",
         "ico": "https://www.canal26.com/images/open-graph/musictop_logo.png",
