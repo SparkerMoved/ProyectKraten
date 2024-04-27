@@ -1222,6 +1222,20 @@
     "mode": false,
     "lista": [
       {
+        "name": "NOVELAS TURCAS",
+        "ico": "https://panelssh.com.ar/Img/novelas_turcas.png",
+        "uri": "JRkv0+HJlq+RX/RUZEQdAiDPKpxRMGKtzWDgpTl0EKj8mcE87PUKmaeChpLjaCBRJ2t1Fh57Vu+1Mf2KZbcJlA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TODO NOVELAS",
+        "ico": "https://panelssh.com.ar/Img/todo_novelas.png",
+        "uri": "EYwmZH9HmFGp05ZJOQOQp8nD9XFjDKVvnPd47Vpq2E8G7RsboBnRv/7HBu+rrusfib3j+z3kUw1g3fdackEL+mRXTom0hGjqjYVHOU1MRdILDMczclPIt6ASz0pX+7lfrzxyrXO8mzYKf7AcE0U9mb8nACNWKxxIz7cgw3C5KfQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "CANAL RCN",
         "ico": "https://panelssh.com.ar/Img/canal_rcn2.png",
         "uri": "tuzmfv7EMpDZ/uAC1KsBPJgcHsinGkfMbYEH+cuTU4rsNCHW03q0EsaVN/IOGsvG+yynQhUkvHR/+V4EDiTZMg==",
