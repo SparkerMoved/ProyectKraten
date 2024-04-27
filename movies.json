@@ -3194,14 +3194,14 @@
             "name": "SCARY MOVIE",
             "ico": "https://panelssh.com.ar/ImgPelis/scarymovie.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQRnMXzfYllsadrLvtP7tJSRUCbpe3zuUz78kY0Y8BeJi1QUAwiVpvfmpST+AC82oikmIpZY77C+8dSgCKlBF/czayOln1nIGIVGp3se+5rFw=",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOjP7S4u9Fjo+YsFK3bYewOQnfztIsnCak1EaQZNE7cX"
           },
           {
             "name": "¿...Y dónde están las rubias?",
             "ico": "https://panelssh.com.ar/ImgPelis/ydondeestanlasrubias.jpg",
             "uri": "ZVNwni4/y+oNApj/CehAVwj2UQqeNL8oLqQjwxojk9CrqEC4ozTkquAlwhn6TTMMR1TIP0hUVN2TJ94CqZr/knB70gQdir5DT/052XnZNbB14Lt8LRSknjUTumewUPyios+Zyge0dZDsaQhG5jZJrVyrn/XSPf8BOPihETdWz40mCUieO74tHewH78Kpc6Tr",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOjP7S4u9Fjo+YsFK3bYewPLwao3f+hmN17Ak8bRTSn6QBtza4nAdlmhya074PB2+A=="
           },
           {
@@ -4844,14 +4844,14 @@
             "name": "EL EXORCISTA LA VERSION QUE NUNCA HAS VISTO",
             "ico": "https://panelssh.com.ar/ImgPelis/elexorcista1.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQgqb17qy/f4+EnpIyIfwOg/ViGHpGknl4eC00DQIT7QtelxZVw2R26urDeNQTwhWUye7ELuESF/JYtcskDH95hzLSUf1zgl7Ok04m4jBIHC7i89mhEmwQRR6t0McphFbM",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOjP7S4u9Fjo+YsFK3bYewPAsviF2/TAeCRl4akt5YxFJaNEoY3i3MgYIGzP/VWS+Q=="
           },
           {
             "name": "EL EXORCISTA DEL PAPA",
             "ico": "https://panelssh.com.ar/ImgPelis/elexorcistadelpapa.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQfQRDov+YKPizGsDea+szE5dW6LOX3rSg9oz3OBxIVqkrR/EqissLaUG5v5HnoHmVzkmyl8u9ThspZJ08s5lqBZlgTNMPDgDs7W/cIPap5Ti4WaEzyfV5klmiKamfDZhF",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOjP7S4u9Fjo+YsFK3bYewN4lhZQx63jD8ReW08eaC360Xq7gcLo6IhKVSK+FBHtNA=="
           },
           {
@@ -6161,56 +6161,56 @@
             "name": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
             "ico": "https://panelssh.com.ar/ImgPelis/harry1.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQRJ6GVyMF7+JLEPb9Uaukw2IZhLeTsCRqP8442wuFEWMeSpY9dnKOof66mfORG/yHIwI/BrZXTv5UVCW8IqBkLczKFmFdZMaElCr9vNNG748ZCV/uhUuAMf+tKdu74JtW",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDONaOzqEbINvVbBXQWF38/E1fntSrUSFZBPD/gY1wOIw"
           },
           {
             "name": "HARRY POTTER Y LA CAMARA SECRETA",
             "ico": "https://panelssh.com.ar/ImgPelis/harry2.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQmh/rn28a/bIbs0sLHp6EJvQ03A+Jk85/kEeQ19cDajH4JdtT62wtrIsdc4EAevJfxs/9IrPPa9bgyPsVJwCgM7CfsOgY9ayZQYuL3qB8acKk6k3gi2U+SGwdHsnzqRJU",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDONaOzqEbINvVbBXQWF38/FMdYU/nWOinzZeCybauD4r"
           },
           {
             "name": "HARRY POTTER Y EL PRISIONERO DE AZKABAN",
             "ico": "https://panelssh.com.ar/ImgPelis/harry3.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQazj56VswSMAh/ctLQK7Lh+Pq9ca6CWSr+k92tUgW69o/iOcqp2EoGO5ojXL8SzrbZUQz4y9o6G5egx7KqtmHc0IGORka4dRHAOgZMrgY9wpszxcyi7ZNG/99c6Utnz9L",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDONaOzqEbINvVbBXQWF38/F+YlSiLngKtXTHiEgB6xb7"
           },
           {
             "name": "HARRY POTTER Y EL CALIZ DE FUEGO",
             "ico": "https://panelssh.com.ar/ImgPelis/harry4.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQ8iqKSrWWSIezTS63lkCmbuFWYksLmq8ATMDCDcX0AqA/cX2BjxdtmwvptV5WT+qBz+7JVQ+D8CqZ9PDg6WrWctdoZ873c0PQWFdaOyxPagRATZpRZj//ArQGzt7ClhQD",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDONaOzqEbINvVbBXQWF38/HmjcHpbaOSRlwGJg2ZSb2E"
           },
           {
             "name": "HARRY POTTER Y LA ORDEN DEL FENIX",
             "ico": "https://panelssh.com.ar/ImgPelis/harry5.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQnhakX86kDKzc2ofpxGALus5ElEMa0I2PMC0gfjdC16JtrZas2U4TPwSGOHHw6HsWw1I1sDnuCPHPgYtaYVk7i/9Rh3Nno6Ayw5/qJtcbToDJu1LoYkZ85E+xI+nR4mQZ",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDONaOzqEbINvVbBXQWF38/Fl6GOGvujLiAsERlVRFOAY"
           },
           {
             "name": "HARRY POTTER Y EL MISTERIO DEL PRINCIPE",
             "ico": "https://panelssh.com.ar/ImgPelis/harry6.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQiyILYyUFh4kI/ZjKMO4nUAifqnc+n4z5VfRg6k3MQ8+Ov2Y2rLFF7qchPkGw8iyUsP5A7a66vYDobXdY809eJpdYewB/8y/LKxGHeuW7ZSqRXgTepTNXpTC3LEkhfEL6",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDONaOzqEbINvVbBXQWF38/HbJygVxYm8ceSdzEcQXwLR"
           },
           {
             "name": "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE P1",
             "ico": "https://panelssh.com.ar/ImgPelis/harry7_parte1.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQKVMp4HMRax+uLSHL9lwSMW3T0bSl8lbd6RBiYSkrAxByQfStKcre3FcVIF0cYVYpCXF95p25zJ3QbZF6LuvJEhrv80l6XvPrtsw+qOaU/d/qzSMaYVPP7222WBFnWDSQ",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDONaOzqEbINvVbBXQWF38/G8Oyjj0yJ9JtdA/wUtASRJ"
           },
           {
             "name": "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE P2",
             "ico": "https://panelssh.com.ar/ImgPelis/harry7_parte2.jpg",
             "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQ0qJF0vK9oZU7oIQ8jlJSAYs2JrRxoHb2J2DEnpMDbRHaFZf26c+pPkCGwR76RfIjqGfuB0nkmTLqfoDmW+/1oDSKsxKUEEEN6rVPCNUdFVumVfXGesAmhfli5Dh0AJt/",
-            "drm_scheme": "ClearKey",
+            "drm_scheme": "clearkey",
             "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDONaOzqEbINvVbBXQWF38/ERVinT+m3Jim0NdfrZNXdx"
           }
         ]

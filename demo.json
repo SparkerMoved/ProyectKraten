@@ -909,6 +909,13 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNM7fmNrHHFnBzxYWjYVe10T3H+nTTju6RCzlJsUtvZX"
       },
       {
+        "name": "USA NETWORK LATAM",
+        "ico": "https://panelssh.com.ar/Img/usanetwork.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcZ5PhlZqp5zTrEsRNJK/O5YeY9pvFyaRJ2UNuYSdY6QwHRB/+r+bgqmyGdNM6iomUjaKnL4uBq1U+SOZd2wdj8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "1qop7R2rTLKVUGR78o+YShsmDW+sg+xDuq/Q58tN16+sC1qYTyeMkyfv8sxrcqGCcoGDbNdG1EzUsGKGvyg+AUFgXb+YeeVWC6YNPX58ZThCAWIOMXtynPxwL6Qwd0+R"
+      },
+      {
         "name": "GOLDEN",
         "ico": "https://panelssh.com.ar/Img/golden.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweSALyOGHdpXlSm+pc9WOaJr3rBg5DjUa9dh/7s5/kzFrUrno0Lam1PtvQ005ICCS0=",
@@ -1214,6 +1221,20 @@
     "name": "NOVELAS Y VARIEDADES",
     "mode": false,
     "lista": [
+      {
+        "name": "NOVELAS TURCAS",
+        "ico": "https://panelssh.com.ar/Img/novelas_turcas.png",
+        "uri": "JRkv0+HJlq+RX/RUZEQdAiDPKpxRMGKtzWDgpTl0EKj8mcE87PUKmaeChpLjaCBRJ2t1Fh57Vu+1Mf2KZbcJlA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TODO NOVELAS",
+        "ico": "https://panelssh.com.ar/Img/todo_novelas.png",
+        "uri": "EYwmZH9HmFGp05ZJOQOQp8nD9XFjDKVvnPd47Vpq2E8G7RsboBnRv/7HBu+rrusfib3j+z3kUw1g3fdackEL+mRXTom0hGjqjYVHOU1MRdILDMczclPIt6ASz0pX+7lfrzxyrXO8mzYKf7AcE0U9mb8nACNWKxxIz7cgw3C5KfQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "CANAL RCN",
         "ico": "https://panelssh.com.ar/Img/canal_rcn2.png",
