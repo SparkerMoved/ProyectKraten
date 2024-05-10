@@ -1243,13 +1243,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "CANAL RCN",
-        "ico": "https://panelssh.com.ar/Img/canal_rcn2.png",
-        "uri": "tuzmfv7EMpDZ/uAC1KsBPJgcHsinGkfMbYEH+cuTU4rsNCHW03q0EsaVN/IOGsvG+yynQhUkvHR/+V4EDiTZMg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "CORAZON TV",
         "ico": "https://panelssh.com.ar/Img/corazontv.png",
         "uri": "WouuvUNrV50Ys7RLIZqSX9gtZC0a4PRMRZgp5PvCrU2X7GdxTRsQzZXV5t3UlxEHoESnU0EibjJvcPpCVAdvXNOkMkAObLJ5LBPXlVa8LTxaa4KHKp+YPOmInLWPo3FIJIIAdOeumDfE86If4yqG2j+DECj4OUIzgUGwssgUMt4=",
@@ -1909,6 +1902,13 @@
     "name": "ALTERNATIVOS 24/7",
     "mode": false,
     "lista": [
+      {
+        "name": "LOS TRES CHIFLADOS",
+        "ico": "https://panelssh.com.ar/Img/los_tres_chiflados.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXCUknimuOVS9bkoexPa2MdQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "EL CHAVO DEL OCHO",
         "ico": "https://x.playerlatino.live/elchavodel8.png",
