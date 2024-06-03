@@ -4,6 +4,34 @@
         "mode": false,
         "lista": [
           {
+            "name": "Wanted man (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1cpE4Wqv3N8wmxHy0+16Oi95OR78lmVOk22Gxbfuj94A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Godzilla x kong: el nuevo imperio (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3aUgEp78yGFWf47xBBLvV/cERGT3oBd0el945Nho4nJT1BlpGAnf8cdYp2bb4YrQZop8QYzBGzIvIxs2etOAnA",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La madre de la novia (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/5LUy0JxMlCynStB2pCxTInwtjVx.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2jy+GYooSvpKGr3nbAZ+lxASrMPzbEsJ2Uo5pfZt/P2Ffw9tQpMPKeb8dduhufl5U=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Abigail (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3g0amMfXxvf2NPDT4Q0e49ez8XBchlQ8btcAryeAyOQQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Ghostbusters: Apocalipsis fantasma (2024)",
             "ico": "https://image.tmdb.org/t/p/original/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1ba/5oyVX4Q1BL73gp47Bl7lCdYYEM8GzLL1XHpX21dMhf2K9h6fZ+pzqUFUEsKTEzWEYL2OXKZttoG4pTmaB2",
@@ -394,6 +422,13 @@
         "name": "PELICULAS AÑO 2023",
         "mode": false,
         "lista": [
+          {
+            "name": "Lazos de vida (2023)",
+            "ico": "https://image.tmdb.org/t/p/original/uWv2mJaqnMJFGNRpCwg9UtbLg2i.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Lah4+GUGmYQPjmzLc4GZ5VnWTKVobUQz3VAEc1qNLbA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "Garra de hierro (2023)",
             "ico": "https://image.tmdb.org/t/p/original/rZ8j1LnAPxIwsGEN7oC7gOHUQK1.jpg",
