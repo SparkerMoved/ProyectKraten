@@ -4,6 +4,55 @@
         "mode": false,
         "lista": [
           {
+            "name": "Ghostbusters: Apocalipsis fantasma (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1ba/5oyVX4Q1BL73gp47Bl7lCdYYEM8GzLL1XHpX21dMhf2K9h6fZ+pzqUFUEsKTEzWEYL2OXKZttoG4pTmaB2",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Angeles inesperados (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/uhmbTYzE6iKQUwuSgQVPnrgyrBi.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3uH8AYNu63+ViddHh3Q+sXcj5iZaHR8UbmMP3tQ0ce/+dKlrfgeKAF7Zj7/ALRUsk=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La idea de ti (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/gDwozlXGEg1bvszDlfEMbLRvPgR.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI34L54FJH44OJ+SPzb44b/8DGxS2V138O1IZpJq2LBdSyvzWoJ3srJuIgDOIXR82ys=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Miller's Girl (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/bqxgqG4C4kOOUiJQwQc6xZOu3A3.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1TcZoMQ217hIQIB6AOVw2OYmP9ZJf6iv1fuJdv8xONitE0qSv/JdyhHbfsNBYi0gw=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "En esa direccion (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0p3PeK5fvWZSOF3G0prkda5ulRf8idSIcZ2Qkiq+MOcqRebNvPtjZJo90dC0mUYsg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Operacion esperanza: los niños perdidos en el amazonas (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0T52ZM1DRlYCf9Bk6RHoM2ziOAeqwAbGV5J2SQg3pfbIJvS76cmwiMW8WymdVtczYmrCZlhFViBgXlq4d2mZPES2sC00Sa53Dyu9eb3DduBg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Atrapados en lo profundo (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2zRG1Srldc45aWTIWdU+blS/wX2szqyq5c97OW6+9/JQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "City Hunter (2024)",
             "ico": "https://image.tmdb.org/t/p/original/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg",
             "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzemvyZ7bxpWSY9xJcY3d8mH2VUZODlUVIk+ONatYb9in8w==",
@@ -345,6 +394,13 @@
         "name": "PELICULAS AÑO 2023",
         "mode": false,
         "lista": [
+          {
+            "name": "Garra de hierro (2023)",
+            "ico": "https://image.tmdb.org/t/p/original/rZ8j1LnAPxIwsGEN7oC7gOHUQK1.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2oZS+p7mBxoT6+JD8yDwMVBEahXjwlVjhYmDHL+2fC8XtwuLdUCIXmDMGO94qiYmY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "Heroe por encargo (2023)",
             "ico": "https://image.tmdb.org/t/p/original/AbOgZFAKSrYfnfMHd4vUq61J0LV.jpg",
