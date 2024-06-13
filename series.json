@@ -4,6 +4,54 @@
     "mode": true,
     "lista": [
       {
+        "name": "GRISELDA (2024)",
+        "ico": "https://image.tmdb.org/t/p/original/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+        "temporada": [
+          {
+            "name": "01: La dama viene a la ciudad",
+            "ico": "https://image.tmdb.org/t/p/original/xxDH9CgYp5oVvtV0NxcWxOlXIfv.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG6PslAiwBYm9KCsvIOVgJQMMzzfxzmNnEk3JlWqNVUIyg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "02: Los blancos ricos",
+            "ico": "https://image.tmdb.org/t/p/original/7Z7qbB41AHpAgebhT9XB6VDx25R.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG6PslAiwBYm9KCsvIOVgJQMAh0ARVtUUh/psrEK+lAHpg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "03: Mutiny",
+            "ico": "https://image.tmdb.org/t/p/original/463RHPPJYe7v4Y3YrYcHyv0HYGq.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG6PslAiwBYm9KCsvIOVgJQMAux3ueedKNlKE099EkBIsQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "04: Gerencia intermedia",
+            "ico": "https://image.tmdb.org/t/p/original/ry7SLjjFi3BqLiJTgnGlscfpcu2.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG6PslAiwBYm9KCsvIOVgJQMA1avbFH77CWhGdRA0GxZZA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "05: paraíso perdido",
+            "ico": "https://image.tmdb.org/t/p/original/q32mLZhJnRuHjDRIJQ5OVaM3m9b.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG6PslAiwBYm9KCsvIOVgJQM48D9cwkr/MO7Pgk+KixeOQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "06: Adios, Miami",
+            "ico": "https://image.tmdb.org/t/p/original/eyuPr2Bx5P8l3SlWaFDcnxw2kPr.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG6PslAiwBYm9KCsvIOVgJQMsjNtiXKoPF2XixiKrJGUZQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "PEAKY BLINDERS",
         "ico": "https://image.tmdb.org/t/p/original/wMUNrwZmGKgFrclABHrRZD1jF49.jpg",
         "temporada": [
