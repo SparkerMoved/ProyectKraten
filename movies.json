@@ -4,6 +4,13 @@
         "mode": false,
         "lista": [
           {
+            "name": "Amigos imaginarios (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2iLW7gN7S773OC3IdrW+mVWFsQpQxok0ePn1C4kULojw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Intensa mente 2 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/4HEJdpcmTGm3BWWic31G4aCnuC6.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0kBRQQ68GoWdtQhGAi2P83slFJBjjzqzpdHmKPTiYI2B5FF//ZJuTQPlRKxQIAZ9Q=",
@@ -14,6 +21,34 @@
             "name": "Bad Boys hasta la muerte (2024)",
             "ico": "https://image.tmdb.org/t/p/original/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1h3IYdQuzIrYo0rfuUc21Rcc9PKzr1eyEddt6epFVjDCPXU0MM/Cd6jpET/xwWol8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Guerra civil (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/iCOQUVVaPqRuR3JqF71akguf6Mj.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1n52Wio7EGhPZcaFU6FkKSsizziw45jWCHBi5zovORpg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Winnie pooh 2 miel y sangre (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/17UmQl8TuDmHWGlcKeFIjnR8bJF.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0uZLsmLJt/iaTatXPlfkYHhnezhjE8jg3FqGbJobjBITC65DcuqvMgP6hjZvKpxVjY/X4GB/rQ3YiScUm9Jz8+",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Los extraños capitulo 1 (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/tnKmLDpSpJ3CfCav43z13fkeEnr.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2IlOxSG9YO6ig7gEWnhiqc73v4vLKVAHZ98asGzsYQ1Ioi+dOgcfVpaG2T8RyO9QU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Tarot (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/Adh7xmtgSIUGZBaMj9VLTmq2G8z.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1JtvCu+s6OiEPAXG8gGVPJpFDL5NfWuKS3Zoe+CYuqbQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
