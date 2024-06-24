@@ -3380,18 +3380,18 @@
         "mode": false,
         "lista": [
           {
-            "name": "SCARY MOVIE",
+            "name": "Scary movie (2000)",
             "ico": "https://panelssh.com.ar/ImgPelis/scarymovie.jpg",
-            "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQRnMXzfYllsadrLvtP7tJSRUCbpe3zuUz78kY0Y8BeJi1QUAwiVpvfmpST+AC82oikmIpZY77C+8dSgCKlBF/czayOln1nIGIVGp3se+5rFw=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOjP7S4u9Fjo+YsFK3bYewOQnfztIsnCak1EaQZNE7cX"
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0CwN81uFdfgKG/0k/s0jlfo4AUhOxifaerLVxoirhG/w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
           },
           {
-            "name": "¿...Y dónde están las rubias?",
+            "name": "¿...Y dónde están las rubias? (2004)",
             "ico": "https://panelssh.com.ar/ImgPelis/ydondeestanlasrubias.jpg",
-            "uri": "ZVNwni4/y+oNApj/CehAVwj2UQqeNL8oLqQjwxojk9CrqEC4ozTkquAlwhn6TTMMR1TIP0hUVN2TJ94CqZr/knB70gQdir5DT/052XnZNbB14Lt8LRSknjUTumewUPyios+Zyge0dZDsaQhG5jZJrVyrn/XSPf8BOPihETdWz40mCUieO74tHewH78Kpc6Tr",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOjP7S4u9Fjo+YsFK3bYewPLwao3f+hmN17Ak8bRTSn6QBtza4nAdlmhya074PB2+A=="
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2YbZ6vODoFQ6xGwcP8UelPvMCD4CTuT//ypWPeZX52yA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
           },
           {
             "name": "SOCIEDAD DE HONOR",
