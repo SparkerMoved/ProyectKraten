@@ -166,7 +166,7 @@
       {
         "name": "PANCTV TUCUMAN",
         "ico": "https://panelssh.com.ar/Img/panctvtucuman.png",
-        "uri": "VFMy6gBwLt3TAlfLWD74gNI+xRHS/FhRl5u6yUQuuFHf0Z9R6rzFVHehZKgDq67WQO4FuxT8nnib6RnTVjFOFw==",
+        "uri": "s2WLpQGr8EWeFnvt1qE5iR126+KaJDh/AX6c6IEnpgnF5cZE3f4WQdhhxs3bSSjYsLP6NMaAy3bwvSBBKwuKhg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -505,20 +505,6 @@
     "name": "DEPORTIVOS",
     "mode": false,
     "lista": [
-      {
-        "name": "DSPORTS",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "cW5EImTBGoKT8ZJ5bkPxDl90BS/NhEswYp/hy8G21jLlPovVcxTauZy3ZRcdKTZFtKVyFWYKmhR3RNV0bYouPA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS 2",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
-        "uri": "cW5EImTBGoKT8ZJ5bkPxDl90BS/NhEswYp/hy8G21jLlPovVcxTauZy3ZRcdKTZF2hKmpDcdIKfIsAznhqiN7A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
       {
         "name": "ESPN PREMIUM",
         "ico": "https://panelssh.com.ar/Img/espnpremium.png",
@@ -938,13 +924,6 @@
     "lista": [
       {
         "name": "USA NETWORK",
-        "ico": "https://panelssh.com.ar/Img/usanetwork.png",
-        "uri": "7aYY66kgfUd0PMmdN1hOu3Qskl7BZXF4YuHPDxr2KuN1qgN3wVmr8996kkYQsWG35SgXmK2wEm9tST5F47nZ7EJ5/hyAoaLg2eobMLyfhS8ws25Y8tFpHcFA1mvG2FRc",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNM7fmNrHHFnBzxYWjYVe10T3H+nTTju6RCzlJsUtvZX"
-      },
-      {
-        "name": "USA NETWORK LATAM",
         "ico": "https://panelssh.com.ar/Img/usanetwork.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcZ5PhlZqp5zTrEsRNJK/O5YeY9pvFyaRJ2UNuYSdY6QwHRB/+r+bgqmyGdNM6iomUjaKnL4uBq1U+SOZd2wdj8",
         "drm_scheme": "widevine",
