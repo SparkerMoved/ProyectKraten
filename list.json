@@ -506,6 +506,20 @@
     "mode": false,
     "lista": [
       {
+        "name": "DSPORTS",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+        "uri": "Yfy3uu80nHChKLIeoZR2OIqGD6VyYJ1EfpECiifB+ctPQu6ZIlPoXL+U5/07QiAF8YlPwesoGvvAwunz9pyvqM1SwKUfdDvqMxQdCxSbKK4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DSPORTS 2",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
+        "uri": "Yfy3uu80nHChKLIeoZR2OIqGD6VyYJ1EfpECiifB+ctPQu6ZIlPoXL+U5/07QiAFfjEo/PG/HeMK7mZNdiDCeewvqNfi+CE/Hp9KdnVWaPg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "ESPN PREMIUM",
         "ico": "https://panelssh.com.ar/Img/espnpremium.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwclQtrZKXmdhcTTa4s/PUkthNNGhjP/rK3sA058Ilb2XVtkDAUOxMk2+bMYhvkrZxPaTwuX9l4DI0IzFHUIYjwEsXZM/IHoRc4JrpZZbz1Ddg==",
