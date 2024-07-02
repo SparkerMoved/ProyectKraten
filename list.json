@@ -506,6 +506,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "EEUU VS URUGUAY",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoJfFya5o66LE2cVwwW/av+j1TePsNKLfPobIl0CMiWoKcpdFQp2yHWKhxowKexdxVjoeoMc2c82nbgU97Q+t1z",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDFJWYXU98XcFqCAxjYmY+bi9f7OSjxv7R05NOf1In7H9"
+      },
+      {
         "name": "DSPORTS",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
         "uri": "Yfy3uu80nHChKLIeoZR2OIqGD6VyYJ1EfpECiifB+ctPQu6ZIlPoXL+U5/07QiAF8YlPwesoGvvAwunz9pyvqM1SwKUfdDvqMxQdCxSbKK4=",
