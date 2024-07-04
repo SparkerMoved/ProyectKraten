@@ -4,6 +4,27 @@
         "mode": false,
         "lista": [
           {
+            "name": "Novata espacial (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/drXnPoX7sBlq2dqQ5zZkREiO6Hy.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnoIJFTKDbxBL+igEvtFMPYlXqAbyP2FUWBhuS12Oj+LG4HY9gNdES21fqfEPAMtm70=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Observados (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/okjbd9xyA9jGTzy7asVXW4o4FuL.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnpNdzWCHZ0Bzf8FQvZQUVYAH8jGXl7ctr6vO2fBTLQKpg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El ministerio de la guerra (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/yPNumPkIkv9lm51qpffVJEhtlC7.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnpzvgc41MOnLgZ0lbEgldjXU3WyxFCPMYdK1N+M1KOkli8duJnvNZ3u0Xm9YFLzhgEsW7gfwGMWm9m3x8xMt5x+",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Amigos imaginarios (2024)",
             "ico": "https://image.tmdb.org/t/p/original/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2iLW7gN7S773OC3IdrW+mVWFsQpQxok0ePn1C4kULojw==",
