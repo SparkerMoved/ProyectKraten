@@ -506,13 +506,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "ARGENTINA VS ECUADOR",
-        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnzgqfRzPWahPwTJa7FHrLWagK5EBjGBDJjZVc3ejxnW74=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDEbFY+diTXZDMRN6d2ltJdB+a0vENyTvlHacH/s1C++v"
-      },
-      {
         "name": "ESPN PREMIUM",
         "ico": "https://panelssh.com.ar/Img/espnpremium.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwclQtrZKXmdhcTTa4s/PUkthNNGhjP/rK3sA058Ilb2XVtkDAUOxMk2+bMYhvkrZxPaTwuX9l4DI0IzFHUIYjwEsXZM/IHoRc4JrpZZbz1Ddg==",
@@ -740,6 +733,20 @@
         "name": "TYC SPORT PLAY 10",
         "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
         "uri": "YXs++t4XcpyrtqCVTmhJyJOXMSPIQOacaoCtXmy+iwJ8BEV7QNgSmewt/Chu8By8yOkOJf5lWAhBVIQ4f+h13nTkhuEt8gPcoYs3wGQ5hwXFjaktrOkXqaiWjaxSJUkb",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TYC SPORT PLAY 11",
+        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "uri": "KAIHkOUud/LY2o9PyuJtKsxl2GWEe5qAP4hb3eo5zvGJ1v/wWlvX4APJ9nl2wUYz09K5FZCRs6jEDdYAX5SCi5uc62LeUGgW1lcZ4DYRlQEP/rRjRq6IFi+e87Mx5nm3",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TYC SPORT PLAY 12",
+        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "uri": "wJ0213XR5UZIRgitwowJtXVJD12JLPEfb4YY3TraTOwaioQ4HdmeJQm6YiiBDuG76G8syQDg+Z3p71fGC9QUOZfSNhyXg7Rb6HqSurSdEp+ClI3EQK7DmrRzgTy7Py39",
         "drm_scheme": "",
         "drm_license_url": ""
       }
