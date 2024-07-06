@@ -4,6 +4,20 @@
         "mode": false,
         "lista": [
           {
+            "name": "El imaginario (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/a3Hxt3UhpiyvX8qcO4vJpu0WThc.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnrmOwwbMGE0t6zrQGqSNBuwbnRREnDm3HcNwsR7iMykmA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Un detective suelto en hollywood (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/orA0cCdbJMuDtTHXA3EVCGlHhji.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnott008EAcPe63v/odYTu5jJf+3svsOGBoxQKzDXFig4AD3rG//DgPulfCQYB8+Z3jtpFS8GC6UY6u8LNWjOz9a",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Novata espacial (2024)",
             "ico": "https://image.tmdb.org/t/p/original/drXnPoX7sBlq2dqQ5zZkREiO6Hy.jpg",
             "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnoIJFTKDbxBL+igEvtFMPYlXqAbyP2FUWBhuS12Oj+LG4HY9gNdES21fqfEPAMtm70=",
