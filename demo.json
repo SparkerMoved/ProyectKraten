@@ -166,7 +166,7 @@
       {
         "name": "PANCTV TUCUMAN",
         "ico": "https://panelssh.com.ar/Img/panctvtucuman.png",
-        "uri": "VFMy6gBwLt3TAlfLWD74gNI+xRHS/FhRl5u6yUQuuFHf0Z9R6rzFVHehZKgDq67WQO4FuxT8nnib6RnTVjFOFw==",
+        "uri": "s2WLpQGr8EWeFnvt1qE5iR126+KaJDh/AX6c6IEnpgnF5cZE3f4WQdhhxs3bSSjYsLP6NMaAy3bwvSBBKwuKhg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -506,6 +506,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "EVENTOS 1",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweQTqHnFRG+eF+z3CkHcjf5kwocuIgYshR5GuOEGk7upRZCJeltJrdghrWrz8VrrwY=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNJfGHaUc49m8ilaM4up7jM49ONlZNxWsU1QO1Uv3Yv2"
+      },
+      {
         "name": "ESPN PREMIUM",
         "ico": "https://panelssh.com.ar/Img/espnpremium.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwclQtrZKXmdhcTTa4s/PUkthNNGhjP/rK3sA058Ilb2XVtkDAUOxMk2+bMYhvkrZxPaTwuX9l4DI0IzFHUIYjwEsXZM/IHoRc4JrpZZbz1Ddg==",
@@ -595,6 +602,13 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoJfFya5o66LE2cVwwW/av+j1TePsNKLfPobIl0CMiWoKcpdFQp2yHWKhxowKexdxVjoeoMc2c82nbgU97Q+t1z",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDFJWYXU98XcFqCAxjYmY+bi9f7OSjxv7R05NOf1In7H9"
+      },
+      {
+        "name": "TYC SPORTS INTERNACIONAL",
+        "ico": "https://panelssh.com.ar/Img/tycsports.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwe7AceldLK3Q5lp2ICLmkn+BZmDuiCm48wqS/blLc+oQTkzG+hFxPTvzw+FCmMN5WNuVGSk01vM04vE+fUiyrTV",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDFJWYXU98XcFqCAxjYmY+bixMY9RvfZ/rdEbVI+8pXiVg9THJzSwGwxTE+jiXgbegw=="
       },
       {
         "name": "TYC SPORTS HD",
@@ -726,6 +740,20 @@
         "name": "TYC SPORT PLAY 10",
         "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
         "uri": "YXs++t4XcpyrtqCVTmhJyJOXMSPIQOacaoCtXmy+iwJ8BEV7QNgSmewt/Chu8By8yOkOJf5lWAhBVIQ4f+h13nTkhuEt8gPcoYs3wGQ5hwXFjaktrOkXqaiWjaxSJUkb",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TYC SPORT PLAY 11",
+        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "uri": "KAIHkOUud/LY2o9PyuJtKsxl2GWEe5qAP4hb3eo5zvGJ1v/wWlvX4APJ9nl2wUYz09K5FZCRs6jEDdYAX5SCi5uc62LeUGgW1lcZ4DYRlQEP/rRjRq6IFi+e87Mx5nm3",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TYC SPORT PLAY 12",
+        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "uri": "wJ0213XR5UZIRgitwowJtXVJD12JLPEfb4YY3TraTOwaioQ4HdmeJQm6YiiBDuG76G8syQDg+Z3p71fGC9QUOZfSNhyXg7Rb6HqSurSdEp+ClI3EQK7DmrRzgTy7Py39",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -925,16 +953,9 @@
       {
         "name": "USA NETWORK",
         "ico": "https://panelssh.com.ar/Img/usanetwork.png",
-        "uri": "7aYY66kgfUd0PMmdN1hOu3Qskl7BZXF4YuHPDxr2KuN1qgN3wVmr8996kkYQsWG35SgXmK2wEm9tST5F47nZ7EJ5/hyAoaLg2eobMLyfhS8ws25Y8tFpHcFA1mvG2FRc",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcZ5PhlZqp5zTrEsRNJK/O5YeY9pvFyaRJ2UNuYSdY6QwHRB/+r+bgqmyGdNM6iomUjaKnL4uBq1U+SOZd2wdj8",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNM7fmNrHHFnBzxYWjYVe10T3H+nTTju6RCzlJsUtvZX"
-      },
-      {
-        "name": "USA NETWORK LATAM",
-        "ico": "https://panelssh.com.ar/Img/usanetwork.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcZ5PhlZqp5zTrEsRNJK/O5YeY9pvFyaRJ2UNuYSdY6QwHRB/+r+bgqmyGdNM6iomUjaKnL4uBq1U+SOZd2wdj8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "1qop7R2rTLKVUGR78o+YShsmDW+sg+xDuq/Q58tN169f+e8IlAO+C4qWQqy7+EAXJ3lPGDSNh3zZkMg1x69iITYZ4Q8ONvjuGOYupUn+aQSRifepDqB6EzgHnM1abKdK"
       },
       {
         "name": "GOLDEN",
@@ -1207,6 +1228,13 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfpsrxUcPtBPXanKh5NDnZYIDY0JeGfUYZ70eJv5E3CaAor28bKBT5DbQHVSi/DrYfL0JD951ozXc3t3TYmpyFm2",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOQ3XwtqBlgoTH6UAvNQn8cNkX5AeVfs6KC5NBjkXiY3"
+      },
+      {
+        "name": "NATGEO PANREGIONAL",
+        "ico": "https://panelssh.com.ar/Img/newnatgeo.png",
+        "uri": "DttVLHaVLJgb5xCkNfqm87hR5kOm6nRu/cIKWbZDDlFT3O9z56bJSckwLgVAVCqlaBUNkK3BXQPzmvcQ/KHlF02gyaCGAK3dBASpKxABg2c=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOQ3XwtqBlgoTH6UAvNQn8fe1IEmJQaSC5QoNAkjOTLp"
       },
       {
         "name": "ANIMAL PLANET",
@@ -1909,6 +1937,27 @@
     "name": "ALTERNATIVOS 24/7",
     "mode": false,
     "lista": [
+      {
+        "name": "BILLY Y MANDY",
+        "ico": "https://panelssh.com.ar/Img/billyymandy.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXKuk8+sVNsyVT5loxsCwm9A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ED, EDD Y EDDY",
+        "ico": "https://panelssh.com.ar/Img/edyedy.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXLrVPQyYwNv4z4FhREHMLvg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LOS CHICOS DEL BARRIO",
+        "ico": "https://panelssh.com.ar/Img/loschicosdelbarrio.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXsfgRIWqizP0rca3xyVihpA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "MR. BEAN",
         "ico": "https://panelssh.com.ar/Img/mr_bean.png",

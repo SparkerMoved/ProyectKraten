@@ -506,14 +506,7 @@
     "mode": false,
     "lista": [
       {
-        "name": "Brasil vs Uruguay",
-        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweQTqHnFRG+eF+z3CkHcjf5kwocuIgYshR5GuOEGk7upRZCJeltJrdghrWrz8VrrwY=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNJfGHaUc49m8ilaM4up7jM49ONlZNxWsU1QO1Uv3Yv2"
-      },
-      {
-        "name": "Colombia vs Panama",
+        "name": "EVENTOS 1",
         "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweQTqHnFRG+eF+z3CkHcjf5kwocuIgYshR5GuOEGk7upRZCJeltJrdghrWrz8VrrwY=",
         "drm_scheme": "clearkey",
@@ -1944,6 +1937,27 @@
     "name": "ALTERNATIVOS 24/7",
     "mode": false,
     "lista": [
+      {
+        "name": "BILLY Y MANDY",
+        "ico": "https://panelssh.com.ar/Img/billyymandy.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXKuk8+sVNsyVT5loxsCwm9A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ED, EDD Y EDDY",
+        "ico": "https://panelssh.com.ar/Img/edyedy.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXLrVPQyYwNv4z4FhREHMLvg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LOS CHICOS DEL BARRIO",
+        "ico": "https://panelssh.com.ar/Img/loschicosdelbarrio.png",
+        "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXsfgRIWqizP0rca3xyVihpA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "MR. BEAN",
         "ico": "https://panelssh.com.ar/Img/mr_bean.png",
