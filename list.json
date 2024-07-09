@@ -4,6 +4,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "TEST CANAL",
+        "ico": "https://panelssh.com.ar/Img/americatv.png",
+        "uri": "OivmhNg64OY8OW4D+jneoM9LY2JmoQWov5hNK/vOPPc65+SLeQb2v/I9gWEIG0ez0T4BmdyuIckXSYILNmWVmw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDAOTpDgz/s7v+7Saei3dr+l8sQndvePxsCaOPaws53va"
+      },
+      {
         "name": "AMERICA TV",
         "ico": "https://panelssh.com.ar/Img/americatv.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrf9yO6NqoDTUnWFfa9jxxJeg/ZXekY1oFOkvkIuPXRNnU3FsNWQvknnxgtpi+9H9Zf3idnq4nUm1L9dZ5/kFpy",
