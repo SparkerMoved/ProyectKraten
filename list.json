@@ -958,6 +958,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "CINE LATINO",
+        "ico": "https://panelssh.com.ar/Img/cine_latino.png",
+        "uri": "Y+ohEi9P7fudMMlucU553EsPxZt6qyDyT3OSbbD6yVuyeMB2GTrfb33u1rM4sCO2lbema8fRzqGRh2CU5G8sOQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDEcKKq49/BheF6XVssNu7pNqLjPUTOesZnUa0QPZgG5u"
+      },
+      {
         "name": "USA NETWORK",
         "ico": "https://panelssh.com.ar/Img/usanetwork.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcZ5PhlZqp5zTrEsRNJK/O5YeY9pvFyaRJ2UNuYSdY6QwHRB/+r+bgqmyGdNM6iomUjaKnL4uBq1U+SOZd2wdj8",
