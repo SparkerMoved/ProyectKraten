@@ -506,27 +506,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "Argentina vs Canada",
-        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnzgqfRzPWahPwTJa7FHrLWagK5EBjGBDJjZVc3ejxnW74=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDEbFY+diTXZDMRN6d2ltJdB+a0vENyTvlHacH/s1C++v"
-      },
-      {
-        "name": "Argentina vs Canada 2",
-        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrjNtJ9w+0p77ZXI1IfkWpGx9PoxNXFq1jokPUueR6b21tNh/QASn/mGgUH24OHpd9ySasoFlUyAsP2rgR+KjFj",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNxMmWpCUqaW7aFMJklK41ezemNJE+3YppnemkBVEeJW"
-      },
-      {
-        "name": "Argentina vs Canada 3",
-        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoJfFya5o66LE2cVwwW/av+j1TePsNKLfPobIl0CMiWoKcpdFQp2yHWKhxowKexdxVjoeoMc2c82nbgU97Q+t1z",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDFJWYXU98XcFqCAxjYmY+bi9f7OSjxv7R05NOf1In7H9"
-      },
-      {
         "name": "ESPN PREMIUM",
         "ico": "https://panelssh.com.ar/Img/espnpremium.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwclQtrZKXmdhcTTa4s/PUkthNNGhjP/rK3sA058Ilb2XVtkDAUOxMk2+bMYhvkrZxPaTwuX9l4DI0IzFHUIYjwEsXZM/IHoRc4JrpZZbz1Ddg==",
@@ -804,6 +783,13 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfo/JhH6o+IiEnLivfANEsAcxu0qt1cVU22FIKB8atYDbELU30CwKpiJnL4PZaMmID/7PniYfIY7ogTGLT8qFtaZ",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDF76T+JrYqHd+mNYQ0AVtrd0aCvpA1MRCbEBUj+X+MnnxyyqiRSH1yc09XwKA+kTuw=="
+      },
+      {
+        "name": "CARTOON NETWORK",
+        "ico": "https://panelssh.com.ar/Img/cartoonnetwork.png",
+        "uri": "MbDg22Xz+KmmfpV8i4CN1XMURHMzmUSCsbsAS0xGCD8hH3H6kEGdX6128F0ggVIuII0Yzwy8K6TPiEpnROBOSw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDCK5wimDfqk8+jL+ye5ZA9hG0Y3GWiZJ+CEyN9V5Yd5X"
       },
       {
         "name": "DISCOVERY KIDS",
