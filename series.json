@@ -4,6 +4,19 @@
     "mode": true,
     "lista": [
       {
+        "name": "EL ZORRO (2024)",
+        "ico": "https://image.tmdb.org/t/p/original/3NYCvY6TEgjbJc9xYrgH98qNeMy.jpg",
+        "temporada": [
+          {
+            "name": "T1:E1 Presentando al señor zorro",
+            "ico": "https://image.tmdb.org/t/p/original/h0w7gT4isqOb9vGkWN1Q8rXabi6.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnoszuqjtt32D7YrTUtrPJ4AGKGwQRG9fyF+5Jw+qMTtIw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "GRISELDA (2024)",
         "ico": "https://image.tmdb.org/t/p/original/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
         "temporada": [
