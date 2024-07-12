@@ -8,9 +8,37 @@
         "ico": "https://image.tmdb.org/t/p/original/3NYCvY6TEgjbJc9xYrgH98qNeMy.jpg",
         "temporada": [
           {
-            "name": "T1:E1 Presentando al señor zorro",
+            "name": "1. Presentando al señor zorro",
             "ico": "https://image.tmdb.org/t/p/original/h0w7gT4isqOb9vGkWN1Q8rXabi6.jpg",
             "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnoszuqjtt32D7YrTUtrPJ4AGKGwQRG9fyF+5Jw+qMTtIw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "2. El pasadizo secreto del zorro",
+            "ico": "https://image.tmdb.org/t/p/original/h0w7gT4isqOb9vGkWN1Q8rXabi6.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnoszuqjtt32D7YrTUtrPJ4AGtSmnjo1vqEVPIYhjnjpVA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "3. El zorro cabalga a la mision",
+            "ico": "https://image.tmdb.org/t/p/original/h0w7gT4isqOb9vGkWN1Q8rXabi6.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnoszuqjtt32D7YrTUtrPJ4A54K2buffnvVhAaeS7hBkEQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "4. El fantasma de la mision",
+            "ico": "https://image.tmdb.org/t/p/original/h0w7gT4isqOb9vGkWN1Q8rXabi6.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnoszuqjtt32D7YrTUtrPJ4A0nH22F8HbSHb5wqgIBI4cw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "5. El romance del zorro",
+            "ico": "https://image.tmdb.org/t/p/original/h0w7gT4isqOb9vGkWN1Q8rXabi6.jpg",
+            "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnoszuqjtt32D7YrTUtrPJ4AhKY26D+F2JvJ2c9txOdRgQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           }
