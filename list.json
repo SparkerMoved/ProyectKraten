@@ -4,7 +4,7 @@
     "mode": false,
     "lista": [
       {
-        "name": "AMERICA TV1",
+        "name": "AMERICA TV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/americatv.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrf9yO6NqoDTUnWFfa9jxxJeg/ZXekY1oFOkvkIuPXRNnU3FsNWQvknnxgtpi+9H9Zf3idnq4nUm1L9dZ5/kFpy",
         "drm_scheme": "clearkey",
@@ -505,6 +505,34 @@
     "name": "DEPORTIVOS",
     "mode": false,
     "lista": [
+      {
+        "name": "Argentina vs Colombia",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrjNtJ9w+0p77ZXI1IfkWpGx9PoxNXFq1jokPUueR6b21tNh/QASn/mGgUH24OHpd9ySasoFlUyAsP2rgR+KjFj",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTogi+R+I2PQTJDKOnlk/BmS+Fr7KeoCkxkh4Z9Gxzbpaw=="
+      },
+      {
+        "name": "Argentina vs Colombia",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnzgqfRzPWahPwTJa7FHrLWagK5EBjGBDJjZVc3ejxnW74=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpPdqGyonoKBg9E++UxgTfCXfMoimjVWXsBYHCP4M5Y2Q=="
+      },
+      {
+        "name": "Argentina vs Colombia",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoJfFya5o66LE2cVwwW/av+j1TePsNKLfPobIl0CMiWoKcpdFQp2yHWKhxowKexdxVjoeoMc2c82nbgU97Q+t1z",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqAUQtski7V6D4c+smH9ekzymQFW55qRHtxxfFNb7Y/Bg=="
+      },
+      {
+        "name": "Argentina vs Colombia",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweQTqHnFRG+eF+z3CkHcjf5kwocuIgYshR5GuOEGk7upRZCJeltJrdghrWrz8VrrwY=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqb5aMsDzIED6fqtmS/r4d/ptl2X4AC6mZ8BjlR7YzzHQ=="
+      },
       {
         "name": "ESPN PREMIUM",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
