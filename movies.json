@@ -6158,6 +6158,33 @@
         ]
     },
     {
+      "name": "SAGA EL PLANETA DE LOS SIMIOS",
+      "mode": false,
+      "lista": [
+        {
+          "name": "El planeta de los simios 3 (1971)",
+          "ico": "https://image.tmdb.org/t/p/original/uemtl40JlPbk72kbvblmjZQUXCl.jpg",
+          "uri": "XvdxRfzpRuBUZmwU/GvTCGbxyNv8eqo5pbS2iQttb3ePDdHYlHergH4Rwx0B7H+46gdnpI+MuzF5C/ks7Jt5ySUWqg1lMd40UU61mHnCeAVZi/4By2I4+nTNJJLlZ3Ws",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "El planeta de los simios 2 (1970)",
+          "ico": "https://image.tmdb.org/t/p/original/2fxR8ufBjvG6yPRpdCw0I8q8j2M.jpg",
+          "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnr34rshdr0lL99UGKMmt1o8Y5iEbh95eWfeKlMbcc4m17zs/SXYgGSOLBRomDUqCCq/HpwUmmG1IcF2lXLdAzSd",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "El planeta de los simios (1968)",
+          "ico": "https://image.tmdb.org/t/p/original/6tZTnv7dGQrTdgZrTgvlVDy9WmN.jpg",
+          "uri": "rX/7cbjp/8yoisc+/Wjmu2RHmbq2d5sZkRQ3A3DLmnr34rshdr0lL99UGKMmt1o8Y5iEbh95eWfeKlMbcc4m1wd2OoM/03P2ZYfY+JdUR2Y33UaOAbVFyoh58MDWKkSN",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        }
+      ]
+    },
+    {
       "name": "SAGA RAPIDOS Y FURIOSOS",
       "mode": false,
       "lista": [
