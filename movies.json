@@ -4,6 +4,20 @@
         "mode": false,
         "lista": [
           {
+            "name": "Un lugar en silencio dia uno (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/cn98j9pmANXsdyoQhYhDp85zEwq.jpg",
+            "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSwWZOhip4hUqXWk5uVq4zInmDAVZ3n20AFaDcQfySPMtXtfs9KNAOZUd2H8JogoJS8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Amor mentiras y sangre (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/yEQKiZOVzVZquN7R6BRyY4n6JET.jpg",
+            "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSzkV27TF6ZKil65tUz1vt7KWxLWDdkLBPCUYcPikjUmXc2u5On6Q1OTaBxSPf3tKSU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Deadpool & Wolverine (2024)",
             "ico": "https://image.tmdb.org/t/p/original/AbCqLVv7r3hts1rsHKd9uuHxHwi.jpg",
             "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSxxTf6HkIuiXLrM9ro3RX9S4SZ3exfrgZ6a6m0cKc5Jv4NSS7nrNTFjPjqEaeXt97I=",
