@@ -1226,6 +1226,47 @@
     "mode": true,
     "lista": [
       {
+        "name": "Los simpson temporada 6",
+        "ico": "https://image.tmdb.org/t/p/original/goKtfMZgnGBUXscU1iHtvDPNDpj.jpg",
+        "temporada": [
+          {
+            "name": "01. Bart de oscuridad",
+            "ico": "https://image.tmdb.org/t/p/original/iSNNSrsde7kHLoZQTufeGzNg9A2.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMryh4MqV+Ef1Ku9YvSRDfNQppO2cETGndZ85VUEDqzpZM=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "02. La rival de lisa",
+            "ico": "https://image.tmdb.org/t/p/original/c1nMJaXXrj0LhqZ5htcNfStmFUL.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrSAGAmbZyVDzv+pvLfbdXSO+oVLPByHl9TyGvSDHAPGg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "03. Romanticismo",
+            "ico": "https://image.tmdb.org/t/p/original/pyvCKDJzwgUmEUMkfx5CQMIbC63.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrCQ/vAsfRtQHX0Oj5lrkAZjo/5ASKLHDoTGpYDP3RaPo=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "04. Rascapiquilandia",
+            "ico": "https://image.tmdb.org/t/p/original/p3ilqhwjmdiL5Cr09zSO4iud2Yb.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrHN7bYGApetBjbjUF+EVVIqXD6VSORTIVSPayi3J5phQ=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "05. Bob vuelve a las andadas",
+            "ico": "https://image.tmdb.org/t/p/original/8KoFSWkImPUXp0TTIqCw6Lz3UgP.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrwkL5jZ81kf6U/uaMRb3R+6SBOlQZxQ3gA2w5losAQ10=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "RICK AND MORTY",
         "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
         "temporada": [
