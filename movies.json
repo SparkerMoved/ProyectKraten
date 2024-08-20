@@ -4,6 +4,34 @@
         "mode": false,
         "lista": [
           {
+            "name": "Jackpot: Loteria mortal (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/6vVXMy9WqZQXYBHuNueAm4qc0jh.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrrXocviepk7Tya3iWXGOrgarOF1fMDCNdiIN/j34JaxPby252V+QqzMHLxNDvYjHW",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La otra cara de la luna (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/fCXTOb7J99UJUsYNddDwiO6dxQm.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrQv5CqjF5lieQSmIN3Hc6eFZmGX4xyxPu7Ny5dlSAkxVQS6sLzAT6DG77fdIh67bS",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Exhuma: La tumba del diablo (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/2FnYFdfW8LR13gokzR61ial5iO1.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrX4xQ1VT/w6//aE/4PP9EcsVbKiEFYU/OX+5Pb5m/wTFAJyZ4Ih4N5sTLy0H096yV",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Vi el brillo del televisor (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/3AvLBac3KejQ1cO0d183t4rALua.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrCy8NaX+2L3g3DkTTfgQmo/FAiXO9ws2RCJDxLxpaFFdkezHI0EiptxC92Nxvwu8n",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Misiones cruzadas (2024)",
             "ico": "https://image.tmdb.org/t/p/original/eM0dIjnUmv4UFdy6vxTantBbXTW.jpg",
             "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSzBfDpYvtNLuc/sJJpJtOt0PaalWHujqEoEzBcsmkwqPw==",
