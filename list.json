@@ -506,20 +506,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "Boca vs Cruzeiro",
-        "ico": "https://resources-us.yinzcam.com/csf/logos/sudamericana-logo_es.png",
-        "uri": "l7dxN650Z14T3Hm+/i64qOhznQwlIsx1fCpHlPxOE1ZrvGQrR9KIBOSke5lyzgEM8dCXyBBBj8S2Vz4m+KbFyg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDeaFglU3Tt3nxjTpLmMWiowXd0FM6beDKJshLlLiyASdp/VxVUFWINcZJFctOH7ZSax4x2PNTKUD/67ByhMt6jTJtk/b0+lVYVqeymUJwNpILoTJJDYdM2xtVWbcjAVwxA=="
-      },
-      {
-        "name": "Boca vs Cruzeiro",
-        "ico": "https://resources-us.yinzcam.com/csf/logos/sudamericana-logo_es.png",
-        "uri": "idb/hwPp7pz83VKjdLZ9aeKOMs/K+f3K3bEsSo+FYfZZkl0CcJ+QN9b9ra0Hos1N2FuDCbjKwXzFUUCT8uF+gw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "ESPN PREMIUM",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwclQtrZKXmdhcTTa4s/PUkthNNGhjP/rK3sA058Ilb2XVtkDAUOxMk2+bMYhvkrZxPaTwuX9l4DI0IzFHUIYjwEsXZM/IHoRc4JrpZZbz1Ddg==",
