@@ -4,6 +4,20 @@
         "mode": false,
         "lista": [
           {
+            "name": "Harold y su crayon magico (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/6bx3BaI3Lhj86nRaGFNAcjisBbY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrFaWSZuEVPyr4DqeqjoO35FHx50hVRVJ2XxLM7PnC/CjVqw8CHb44W4vGjJU4iG80",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Tipos de gentileza (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrxLPuDdxLpk92jLtOJtuAT+TU8r3AcugwBi6n/rzdcno=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Romper el circulo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/4c3IdUFnS8qd3qrMol1b3Rq5MqF.jpg",
             "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSxFDRp3QhZzFdL1XB4xD+b7Z5w4UWcwqagJuFbfjT0gRA==",
