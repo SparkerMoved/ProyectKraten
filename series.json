@@ -1,5 +1,59 @@
 [
   {
+    "name": "SE VA IR AGREGANDO MAS",
+    "mode": true,
+    "lista": [
+      {
+        "name": "Loki (2021)",
+        "ico": "https://image.tmdb.org/t/p/original/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "ico": "https://image.tmdb.org/t/p/original/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrIOwQRQ2D+u3bgiZ7Qy6nWeynQpHhB1JM/S3+pKvUcDU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 2",
+            "ico": "https://image.tmdb.org/t/p/original/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrQ96ywfyYnkn7APjVQfC7uhaEKAjjnrF4ClMRlEhIkPg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 3",
+            "ico": "https://image.tmdb.org/t/p/original/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMreCJBJWaDRCoDwfVE2xFpVNKlzXwlF1fPBq66OWqxJwQ=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 4",
+            "ico": "https://image.tmdb.org/t/p/original/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrTfUcB3Br3nMTuBgmgRY+Wx4s9yV36LUednJJYNRtBKE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 5",
+            "ico": "https://image.tmdb.org/t/p/original/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrTKOwP+uI1CtxAmQcA3RFtj/r/4+c3AaVwwGWi2p1A/o=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 6",
+            "ico": "https://image.tmdb.org/t/p/original/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMr5jRQi3Gw/g0h2qNofPCOodSgKiXjcnH2R5QqC1N/tqs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "SERIES",
     "mode": true,
     "lista": [
