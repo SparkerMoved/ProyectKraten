@@ -4,6 +4,75 @@
     "mode": true,
     "lista": [
       {
+        "name": "Wandavision (2021)",
+        "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrzQq4XcYUCrB2nTfAjnXEzWWIXA9wffoFA78FafoO8Bo=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 2",
+            "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrOkhbxcR0sVbBQNNHFzczWghjlMNw2s2zEDMgr2MlW5w=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 3",
+            "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMryNZR9OuVlNzoV3nyJUG8dX/M0QjWEpVM4DqWGl77IeI=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 4",
+            "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrb04B5aX65ocnPc/94Z5NeH5AnhpJN9mq34aAnGY7X0Y=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 5",
+            "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMr2zuGxCt3OwJUNATe/m+ejAA50vPq+4QvXbfou5vUPso=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 6",
+            "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMr5ZjvxjwBOLgd1+ULDkkU0r/XmGKKAI2KKhQgjNyCRxg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 7",
+            "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrcqUBYhpKyuOxvyrLOi25L8X6O6UqdvqwGorsg21XjTo=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 8",
+            "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrGxZnTkyb5KC5PDFiVVYNydIAHup9LXnJpsSP5saqcsE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 9",
+            "ico": "https://www.themoviedb.org/t/p/original/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrlqGdeInSrgPpMEcoY1i3Bs90YdvMZDkBPgl1QBhKMXk=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "Loki (2021)",
         "ico": "https://image.tmdb.org/t/p/original/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
         "temporada": [
