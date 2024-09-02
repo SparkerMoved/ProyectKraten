@@ -4,6 +4,20 @@
         "mode": false,
         "lista": [
           {
+            "name": "La Trampa (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/oY9SRUcRqdrjyINFoGewobSP7FB.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N++y57aLWWQv14YJ3HSSBh3KMgvWIJPmt9yN+d5GwMZmBQxiKsGNNQCJiiajv9ysWe",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "The killer (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+ywNdbW1ncDBmVNzrfz/LvQhK2rzSYvgFPXabwJ+PkGviGW/l/Xw+kQySp+L+HQbL",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Alien: Romulus (2024)",
             "ico": "https://image.tmdb.org/t/p/original/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrpc1W4q5ClRcjGvIjQh3w3AkbH7idJbz8cA3qrcpT218zPbIMz6JwNG0h9UMoshRt",
