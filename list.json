@@ -1952,6 +1952,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "LOS SIMPSON",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
+        "uri": "aCIV6Gy5Q6k4Gra7IOWq+Ia0ZAimzzhMS4Xuei7CXSnHCYojmO3MckO/PUEfVQ8FL1hV+HtRbBAkGlMiDwBq4w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "BILLY Y MANDY",
         "ico": "https://panelssh.com.ar/Local/ext/Img/billyymandy.png",
         "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXKuk8+sVNsyVT5loxsCwm9A==",
