@@ -750,6 +750,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "ZOOMOO",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/zoomoo.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUs3VFM4tI+8QjCon5OXFhch6SGP/yZbIy8kdk2z40EChHNAVnT3QAoJVSCVlsuSdtA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpgYK3pXpZ92OWGZOKh7sAMSXId0d8Vb18xMTR2LpSRyg=="
+      },
+      {
         "name": "PLIM PLIM TV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/plimplim_tv.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoZN6Kzo14HdOHE/qfu5Cb9+FVtDtTRDJtJq9qZH5fzXLtYN5zbbfBipA2Z6JnVLTMMFYG13nBHj3WVL7IglNBV",
