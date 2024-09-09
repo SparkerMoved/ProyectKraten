@@ -958,6 +958,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "DPELICULA",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/dpelicula.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUvAalw7/XDYKWwe8s8vuQX63IhTiLqD9t6XearuDvHTS2enOsTrtv5B/d/pK8GXcqSAZ4n4ECJySR3Et8T5+rzo",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTofxyXkWJm9U/Ei7sPiMlLSnVnZeGZvwAcgCDET4blDjg=="
+      },
+      {
         "name": "CINE PREMIUM",
         "ico": "https://panelssh.com.ar/Local/ext/Img/cine_premium.png",
         "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsFw5gt/Qc+DSeFo8GYcpK148fltykTxIO0z9Tnrs5CTMT/PVkjROTnRflMcOufyfsIAEcibOe2kSkNKMd4PLrE",
