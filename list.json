@@ -506,11 +506,25 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9td7NTEyHqmhVNxU6C98xPyA=="
       },
       {
+        "name": "ESPN PREMIUM",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsdXJdkmUZk66s94MbBjccuD9k/zvnbcW3wtexY1FAYxBNETveD+uej9ENitkkhWWA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9tYD8O3C7XWJ3Njz3LplnSOlGzJtq2Wa5nNPYjcfBxjg4="
+      },
+      {
         "name": "TNT SPORTS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/tnt_sports_2024.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcJHb4zxCTHshv8ccztqRst+9UCtkc5OuHFXgYsbkMnBycX9KzarO+Ipl2ugfi174hxPQSfHfpzxDwNgav6Crrn",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqSZrPW22z0Eg1SBJr/s5dT92ycBlMIWwXg4mv8oPt92A=="
+      },
+      {
+        "name": "TNT SPORTS",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/tnt_sports_2024.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUuosWmVKUYG0CQ4feUd3FVAkd7Ncp7AslQ7uV7hfdtCB739fwa2syK8ZfX/8K/vrJk=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqSZrPW22z0Eg1SBJr/s5dTwSXdwSr2mstsuOlo4Kvayg=="
       },
       {
         "name": "ESPN",
