@@ -750,6 +750,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "CANAL INFANTIL",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/canal_infantil.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUu5aBmks7lyhNhy/qwRAw3S6cp2ymRSwdCNutZlIqL3iD6Q45OdmCNjBZF/4SdYdHuojrM1p9qPsVv2yT0WqF86",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpmkL+DQXXgxR/PgJ9jUS6JiFGA7hOTiZV5zOlNKDtmdQ=="
+      },
+      {
         "name": "ZOOMOO",
         "ico": "https://panelssh.com.ar/Local/ext/Img/zoomoo.png",
         "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUs3VFM4tI+8QjCon5OXFhch6SGP/yZbIy8kdk2z40EChHNAVnT3QAoJVSCVlsuSdtA=",
