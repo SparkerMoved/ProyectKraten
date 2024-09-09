@@ -958,6 +958,27 @@
     "mode": false,
     "lista": [
       {
+        "name": "CINE PREMIUM",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/cine_premium.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsFw5gt/Qc+DSeFo8GYcpK148fltykTxIO0z9Tnrs5CTMT/PVkjROTnRflMcOufyfsIAEcibOe2kSkNKMd4PLrE",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrRLdtSRz/zRpvvsmmE4V/LCjqZGd6kyr70lh3SepkQbw=="
+      },
+      {
+        "name": "CINE HISPANO",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/cine_hispano.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsFw5gt/Qc+DSeFo8GYcpK13bC3u2WGrWjRC6Y5Wn0hsgmhTgAYuGpoWF4m+3UlkhrL634slmmKNOepIEZC3URX",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqO4AVZe3fMR8FSB9amE7k6m0w+MZqnzcQkvS/722XraQ=="
+      },
+      {
+        "name": "CINE FAMILIAR",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/cine_familiar.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsFw5gt/Qc+DSeFo8GYcpK1i02xNgogN5xuJQzv/ukhKEdmgX2v7AOwG0VJJ5fUzfkFLAXKgMpbQcsdCgE7AVRn",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo05EGO+kGertig/qsS7NKBrtgmeZPYIv/F+7TnlBF0nQ=="
+      },
+      {
         "name": "IVC",
         "ico": "https://panelssh.com.ar/Local/ext/Img/ivc.png",
         "uri": "csfhq11XuXExsDh9L5FHdAfnJwQHWNHhJ6as4AFOxFeDh4Hqv9zes/y+VdJli6ey",
