@@ -1578,6 +1578,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "TELEHIT MUSICA",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/telehit_musica.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUv3t7v3Aow1stLwcuZwJsH0pgxNyliYKYUx297VZ92ZiQsFQP33LjrhcYu2KhH0gNA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqBfD6S2C4icliHGXp5F2XJKGm9wf9HvsVbfERrxzf62g=="
+      },
+      {
         "name": "BILLBOARD AR",
         "ico": "https://panelssh.com.ar/Local/ext/Img/billboard.png",
         "uri": "H7CJIbsacaqU+ywyW9hSuCFGMdmVWfGY525rblpKxcTDNMRsix+mPcugVH0WYRHMZCkw+H+0YE8Y1B8e7j/55o8bG0oivrchZ8vXuKS9fg0=",
