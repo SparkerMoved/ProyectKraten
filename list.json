@@ -499,6 +499,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "EVENTO NOCHE UFC",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/noche_ufc.png",
+        "uri": "izm67d9eluncpwFhcYdp8V/BPVOYHJ5nhh/oHWGp4Q8jwblnwbkbr079OIWYu+iEEcAPBWMcO8eCZpMZ6KhRk5VO6IL1KhihylN28UPcdnBzYY+saXX8xG7QKkXC1LglraAbzSpZqb4rzPZMp3Vge1RTp67UC8eqJzhMEcBnWus=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDcCmExexGt/Oj1ee00HLQYFM/sDTZ1wTtjIpyV2f4gP95vsN32MVlgQ/Qfq022Ee31cPEOm9uAnTzXvzwNjNhQPT6/x0bsPO1bHMCydqHMA/qpQPcLgMWJsaDQrIJtNt7A=="
+      },
+      {
         "name": "CLARO SPORTS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/claro_sports.png",
         "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsj4h3TLFBFz0rTQHniIGgQgbR9z5FrNRu4pMOUOmcr4zJo+t7+PYeoJ+pAshgbj9zXtUMBOnKaWDsqTd9cRCGy",
