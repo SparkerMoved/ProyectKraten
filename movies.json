@@ -4,6 +4,20 @@
         "mode": false,
         "lista": [
           {
+            "name": "Agente cinturon negro (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/kKViCTk38mPsK5wOOUJeLxAm3TI.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+oVJoQ/v5AhM0u+du3iVwviMI3l6AuW8x4pRm+V/b2XHsiv3K7SIcI3RY0cUHacTS",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Los Feos (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+lvzIBE+TICDrRJ+59WzjBzXXFmvE4hsFP1mHYFn7QcxnDrgcRXatZos1D3wCzkdr",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Disco Ibiza locomia (2024)",
             "ico": "https://image.tmdb.org/t/p/original/beLbZExOZ64LzbqJbbbjhlqbezi.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+FjAG35oaMx3sj//jKwc0J2018SZ7N4ydKoGNyP8qHjg2NzrtRMVPGjzOLoXltDGA",
