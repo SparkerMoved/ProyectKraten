@@ -2079,132 +2079,181 @@
         ]
       },
       {
-        "name": "EL ENCARGADO",
+        "name": "EL ENCARGADO (completa)",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
         "temporada": [
           {
-            "name": "T01 E01: UN PROYECTO PELIGROSO",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E01: Un proyecto peligroso",
+            "ico": "https://image.tmdb.org/t/p/original/3eHeemEgpAlejTgXR7RVo4s4YcS.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZUaEeDX3kCICOP0OofErOpw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E02: UNA ACCION SOLIDARIA",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E02: Una acción solidaria",
+            "ico": "https://image.tmdb.org/t/p/original/kpAxYSvrQKoXBxAlvZdfgrLn1UT.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZhyaoIxtP4/hWFlOqg0VeJg==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E03: UNA TURISTA EN BUENOS AIRES",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E03: Una turista en Buenos Aires",
+            "ico": "https://image.tmdb.org/t/p/original/mLmbcFxry5MXVrybRX5KMDKNUUB.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZGsTD5gLpY+fnqQJPY51D8g==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E04: UNA AMANTE PARA ZAMBRANO",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E04: Una amante para Zambrano",
+            "ico": "https://image.tmdb.org/t/p/original/pKkv4ml7j1KK5f8qzSLY6aUI5wl.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZ3AS/9Jy3+jGGulgKmS/H3w==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E05: VISITA SORPRESA",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E05: Visita sorpresa",
+            "ico": "https://image.tmdb.org/t/p/original/zqYkvC8ScHoMDxdzogQNvZ4YWms.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZrfeH3v5tt67ttpZxNT1Cnw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E06: CHOFER NOCTURNO",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E06: Chofer nocturno",
+            "ico": "https://image.tmdb.org/t/p/original/jshj96355PiWGKjty58a3tHi1y5.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZ2ecELXyarLT251lavVN02Q==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E07: ACOMPAÑANTE TERAPEUTICO",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E07: Acompañante terapéutico",
+            "ico": "https://image.tmdb.org/t/p/original/un92utVKCYatxJsLz6QNwlFQcwQ.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZ/5YfANlXdk0OKxAtTc9Wbw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E08: SOBOTAJE EN LA SALA DE MAQUINAS",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E08: Sabotaje en la sala de máquinas",
+            "ico": "https://image.tmdb.org/t/p/original/fVrrRnKbf7gdlNu0M278D0LUvAt.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZt0ATT5w1FzywFTxkS808kQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E09: EL OCUPA DEL 58",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E09: El ocupa del 5B",
+            "ico": "https://image.tmdb.org/t/p/original/bNzeumBM6eHwzt2aPgQge5rpjSQ.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZrmZSPXczRid1qrNsAbTKhA==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E10: LA HORA DE LA VERDAD",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E10: La hora de la verdad",
+            "ico": "https://image.tmdb.org/t/p/original/ymbGozVvI11iAcafY8z4TR11m8u.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZVI3v96C+iqzuLQQ1usuWUA==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T01 E11: EL AVE FENIX",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "name": "T01 E11: El ave fénix",
+            "ico": "https://image.tmdb.org/t/p/original/vihwcQd067BvD2CeII5gNuuPWyD.jpg",
             "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG7S2KmTilR6XJAad3cZDoHZJ7IeDC/+XCEYfCNbyF497w==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T02 E01: La convencion",
-            "ico": "https://image.tmdb.org/t/p/original/gF1aLxGUxhZAa0KdSvoUhZqqKX5.jpg",
+            "name": "T02 E01: Una mujer solidaria",
+            "ico": "https://image.tmdb.org/t/p/original/gfNIzBH1CRYDPjNnfNYVWljKgWe.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+Jr4lem1E2eplxDC0IrnbTomqLiyeuQaGKI8S5VvYTkVTZptmx2TOGwcT3b38fcG4",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T02 E02: Soluciones integrales basurto",
-            "ico": "https://image.tmdb.org/t/p/original/wobxle1rb6HfshAasa0QIMErGJI.jpg",
+            "name": "T02 E02: Una alianza inesperada",
+            "ico": "https://image.tmdb.org/t/p/original/5CK8IPA8WqmChkCxK0zMXrdR3sd.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+Jr4lem1E2eplxDC0IrnbTnC6WV10vViXvlIsMnokIWmW0ShN24/A6nBbys2EzvI5",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T02 E03: Y bueh...",
-            "ico": "https://image.tmdb.org/t/p/original/a0VpJ3Lj0Vt3AvUcbmnGdwKDNob.jpg",
+            "name": "T02 E03: Un pequeño susto",
+            "ico": "https://image.tmdb.org/t/p/original/ybJF3xN3bnNmy8DiAsZ6C9UnQP6.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+Jr4lem1E2eplxDC0IrnbTkPdkDqdPXlcwbZqolc2uRpMemh73g+nfx6Wa1BUfGyk",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T02 E04: Otra oportunidad",
-            "ico": "https://image.tmdb.org/t/p/original/nolE4MsDwDmmj3wO3aa7IRuzdoE.jpg",
+            "name": "T02 E04: El último adiós",
+            "ico": "https://image.tmdb.org/t/p/original/AcuWyvYyEIfJg35cZCZYJeAi64N.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+Jr4lem1E2eplxDC0IrnbTq33sOfUaOZ5/y0USPdjWBPxj/PE9SoRr3XgbxUCoHi5",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T02 E05: Un beso en los labios",
-            "ico": "https://image.tmdb.org/t/p/original/6hYAeyWGvbYuzGXhFOE3KLKGHO4.jpg",
+            "name": "T02 E05: Allanamiento sorpresa",
+            "ico": "https://image.tmdb.org/t/p/original/ze9XDTC1WXIhFc7xfzsb3xufvme.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+Jr4lem1E2eplxDC0IrnbTnjsUCLnGa0YRmUWnq/TqibtOd4mwbMtg+KYcW+FhXfT",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T02 E06: Portericidio",
-            "ico": "https://image.tmdb.org/t/p/original/nJ2cJwTOKl0rTbRYinBlC7S8Y0p.jpg",
+            "name": "T02 E06: Junta médica",
+            "ico": "https://image.tmdb.org/t/p/original/yqkZOWmOzItq1YI5IpFKMUwIdoV.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+Jr4lem1E2eplxDC0IrnbTl229XouTvtlZLZ/yYRQ8f2mITAsjDD5HlsYMm0W2Zq1",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "T02 E07: Eliseo versus el estado nacional argentino",
-            "ico": "https://image.tmdb.org/t/p/original/cPw5s5VbdBHp4uqzt4BAbMwElKz.jpg",
+            "name": "T02 E07: Aceitunas para todos",
+            "ico": "https://image.tmdb.org/t/p/original/ovBD1g9JMPe9McTgHtp3g8KI9eO.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+Jr4lem1E2eplxDC0IrnbTmsNsSgKvEu3zozGcv2xIrF25BY125rDDecASf/WRkRD",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "T03 E01: La convencion",
+            "ico": "https://image.tmdb.org/t/p/original/gF1aLxGUxhZAa0KdSvoUhZqqKX5.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+89oPOrENq61b2wr7tpWHbiB99vQhaEQEczJ9WZXDS7ud9pbzwUHvqk9y/YqkGWeY",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "T03 E02: Soluciones integrales basurto",
+            "ico": "https://image.tmdb.org/t/p/original/wobxle1rb6HfshAasa0QIMErGJI.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+89oPOrENq61b2wr7tpWHbge2/BWjK1LHFuT+KgxzcY7RnTcGAkkyWuSsKo5SDJUA",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "T03 E03: Y bueh...",
+            "ico": "https://image.tmdb.org/t/p/original/a0VpJ3Lj0Vt3AvUcbmnGdwKDNob.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+89oPOrENq61b2wr7tpWHbmsBwKJJoVecnQ2NoR8ciBhr67Vpkq5j1tY/2ZsQoyfF",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "T03 E04: Una segunda oportunidad",
+            "ico": "https://image.tmdb.org/t/p/original/nolE4MsDwDmmj3wO3aa7IRuzdoE.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+89oPOrENq61b2wr7tpWHbjksvNaaywOfAHYEcYpKKY1Gy4VCqPHqot45jMEt0air",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "T03 E05: Piquito",
+            "ico": "https://image.tmdb.org/t/p/original/6hYAeyWGvbYuzGXhFOE3KLKGHO4.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+89oPOrENq61b2wr7tpWHbkuTAzxVuHwaqLVObwNwm3Yhzw7e6OmmAGXinCGaNF41",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "T03 E06: Portericidio",
+            "ico": "https://image.tmdb.org/t/p/original/nJ2cJwTOKl0rTbRYinBlC7S8Y0p.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+89oPOrENq61b2wr7tpWHbrTEo3nxJYl3XVTfZMM1wmA/X8g0idN8IljWfxgviJyO",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "T03 E07: Eliseo versus el estado nacional argentino",
+            "ico": "https://image.tmdb.org/t/p/original/cPw5s5VbdBHp4uqzt4BAbMwElKz.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+89oPOrENq61b2wr7tpWHbnMa0knwKEvz7zsM/b3d75BPYzEKjwYOwGQZTNk2wrrJ",
             "drm_scheme": "",
             "drm_license_url": ""
           }
