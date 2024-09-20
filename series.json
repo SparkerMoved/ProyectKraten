@@ -4,6 +4,26 @@
     "mode": true,
     "lista": [
       {
+        "name": "Agatha en todas partes (2024)",
+        "ico": "https://image.tmdb.org/t/p/original/uJtbzOAFZDR2CHSA87Xqdh6FZCY.jpg",
+        "temporada": [
+          {
+            "name": "01: Buscas el sendero",
+            "ico": "https://image.tmdb.org/t/p/original/3z20ffSwTbEfEKt5gfmx0Rm3ZDR.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+ZsprfbbVrr4LP7F58E93awkccAaUVMGR+KTjZBjslytvNQqIOaGMjXt+MBU+brdy",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "02: Circulo de fe / La puerta quiero ver",
+            "ico": "https://image.tmdb.org/t/p/original/oLRSJcNLRaLUgVohjcMzFL9ybG7.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+ZsprfbbVrr4LP7F58E93a1ephsrXJscmNNdL83r25QEPr+S+uV4S2JsunkNoNic1",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "El chapo (Completa)",
         "ico": "https://image.tmdb.org/t/p/original/2ClXk4PoOGmkk676y4q6T26GJOb.jpg",
         "temporada": [
