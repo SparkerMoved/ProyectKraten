@@ -11,13 +11,13 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9td7NTEyHqmhVNxU6C98xPyA=="
       },
       {
-        "name": "TEST 2",
+        "name": "TEST 2 REFE",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
         "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5g0i43J9o7VcG6HAww7lWCTJrP5upDZ0vsy2Ts/lgAiqs5q808+UokMI/c4pgqhVlUw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNO2jeoIVCds3t5o41VlXAxQOVh77P71bV+K/V1aEDpm",
-        "referer": "https://latamvosliveclarovideo.akamaized.net",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
+        "referer": "https://www.clarovideo.com/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "TEST CANAL 3",
@@ -29,12 +29,12 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
       },
       {
-        "name": "TEST CANAL 4",
+        "name": "TEST CANAL 4 REFE",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
         "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5g85Jhx49Q8ZdINDQXVmJjnTGMbH3cF/41f3h9nslQK55aIwCQprcLkMVZcOgPbdZCg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDGikkLjIk1qwJZrbHFfFDAePE2OLYh3Y5nb4WghvBomw",
-        "referer": "https://latamvosliveclarovideo.akamaized.net/",
+        "referer": "https://www.clarovideo.com/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
       },
       {
