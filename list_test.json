@@ -510,13 +510,13 @@
         "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
-        "name": "CLARO SPORTS",
+        "name": "CLARO SPORTS TESTTT",
         "ico": "https://panelssh.com.ar/Local/ext/Img/claro_sports.png",
         "uri": "zFfmAGDL9picS1nxiyaLasFr+UUrtalAVRxrg+/kHEOA7Ovoa73RFANBYL/9+uhCzdqpCecUERXPbU+iuDQ6M1+a4K9URbTlvqUzZ6NGMc5FwDMmpgAenVFzueuLYWDt",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo0/LZjdDyFP9xGeAmjdVp31n78DLiBwXiMT521IaSEfg==",
         "referer": "https://player.sensa.com.ar",
-        "useragent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "ESPN",
