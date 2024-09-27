@@ -20,13 +20,22 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
       },
       {
-        "name": "TEST CANAL 1",
+        "name": "TEST CANAL 3",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
-        "uri": "9coGmjIJBMd7Q0jT0cQXAB0Fmmm42sVp90iXGQNqmKeOymxaeWaVMC8UbP68w9wg",
-        "drm_scheme": "",
-        "drm_license_url": "",
-        "referer": "",
-        "user_agent": "Lavf/57.71.101"
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K0UOP9FgvZDvgafNbnCu+EDs4xLuJdsz+GDsaufJr/S39fmk+3RDZm6Hly/SQJrQk0=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLIdPGNyIBas8f80VW3knmzO5Fx/+EInmq3rBs2Z+Sr+",
+        "referer": "https://nowtv.express.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
+      },
+      {
+        "name": "TEST CANAL 3",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://panelssh.com.ar/test2.json",
+        "referer": "https://nowtv.express.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
       },
       {
         "name": "TEST CANAL 1",
