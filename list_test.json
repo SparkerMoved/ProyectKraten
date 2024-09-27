@@ -20,21 +20,21 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
-        "name": "TEST CANAL 3",
+        "name": "NOWTV TEST CANAL",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
         "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K0UOP9FgvZDvgafNbnCu+EDs4xLuJdsz+GDsaufJr/S39fmk+3RDZm6Hly/SQJrQk0=",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLIdPGNyIBas8f80VW3knmzO5Fx/+EInmq3rBs2Z+Sr+",
         "referer": "https://nowtv.express.com.ar/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
+        "user_agent": ""
       },
       {
-        "name": "CLARO TEST CANAL",
+        "name": "CLARO TEST CANAL 1",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
         "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5g85Jhx49Q8ZdINDQXVmJjnTGMbH3cF/41f3h9nslQK55aIwCQprcLkMVZcOgPbdZCg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDGikkLjIk1qwJZrbHFfFDAePE2OLYh3Y5nb4WghvBomw",
-        "referer": "https://d3kzwqwnq1f7tq.cloudfront.net/",
+        "referer": "d3kzwqwnq1f7tq.cloudfront.net",
         "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"
       },
       {
