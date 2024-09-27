@@ -516,7 +516,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo0/LZjdDyFP9xGeAmjdVp31n78DLiBwXiMT521IaSEfg==",
         "referer": "https://player.sensa.com.ar",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "useragent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "ESPN",
