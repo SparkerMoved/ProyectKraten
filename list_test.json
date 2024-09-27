@@ -1,5 +1,45 @@
 [
   {
+    "name": "CANALES TEST",
+    "mode": false,
+    "lista": [
+      {
+        "name": "ESPN PREMIUM",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwclQtrZKXmdhcTTa4s/PUkthNNGhjP/rK3sA058Ilb2XVtkDAUOxMk2+bMYhvkrZxPaTwuX9l4DI0IzFHUIYjwEsXZM/IHoRc4JrpZZbz1Ddg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9td7NTEyHqmhVNxU6C98xPyA=="
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsdXJdkmUZk66s94MbBjccuD9k/zvnbcW3wtexY1FAYxBNETveD+uej9ENitkkhWWA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9tYD8O3C7XWJ3Njz3LplnSOlGzJtq2Wa5nNPYjcfBxjg4=",
+        "referer": "https://player.sensa.com.ar",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TEST CANAL 1",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "9coGmjIJBMd7Q0jT0cQXAB0Fmmm42sVp90iXGQNqmKeOymxaeWaVMC8UbP68w9wg",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "referer": "",
+        "user_agent": "Lavf/57.71.101"
+      },
+      {
+        "name": "TEST CANAL 1",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/293",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "referer": "",
+        "user_agent": "Lavf/57.71.101"
+      }
+    ]
+  },
+  {
     "name": "ARGENTINA",
     "mode": false,
     "lista": [
