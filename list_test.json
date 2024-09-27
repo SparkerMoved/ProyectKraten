@@ -29,6 +29,15 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
       },
       {
+        "name": "TEST CANAL 4",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5g85Jhx49Q8ZdINDQXVmJjnTGMbH3cF/41f3h9nslQK55aIwCQprcLkMVZcOgPbdZCg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDGikkLjIk1qwJZrbHFfFDAePE2OLYh3Y5nb4WghvBomw",
+        "referer": "https://latamvosliveclarovideo.akamaized.net/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+      },
+      {
         "name": "TEST CANAL 3",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
         "uri": "https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd",
