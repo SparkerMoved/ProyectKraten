@@ -54,6 +54,24 @@
         "drm_license_url": "",
         "referer": "",
         "user_agent": "Lavf/57.71.101"
+      },
+      {
+        "name": "AE CLARO CANAL",
+        "ico": "https://x.playerlatino.live/ae.png",
+        "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5gwD200N5yKnk6aNcgHZbCVmrAfKmaMv8o/XSlK/xa4PxQT97rAKBHuWJjTkd1FMW/Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLUsxE2gL0A9WVF7e33OKvw=",
+        "referer": "",
+        "user_agent": "Accept: */*\\r\\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36\\r\\n"
+      },
+      {
+        "name": "AE CLARO CANAL LIMPIO",
+        "ico": "https://x.playerlatino.live/ae.png",
+        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(AE_MUNDO_HD)/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://panelssh.com.ar/ae.json",
+        "referer": "",
+        "user_agent": "Accept: */*\\r\\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36\\r\\n"
       }
     ]
   },
