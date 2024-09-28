@@ -4,14 +4,14 @@
     "mode": false,
     "lista": [
       {
-        "name": "ESPN PREMIUM",
+        "name": "ESPN PREMIUM FLOW",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwclQtrZKXmdhcTTa4s/PUkthNNGhjP/rK3sA058Ilb2XVtkDAUOxMk2+bMYhvkrZxPaTwuX9l4DI0IzFHUIYjwEsXZM/IHoRc4JrpZZbz1Ddg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9td7NTEyHqmhVNxU6C98xPyA=="
       },
       {
-        "name": "DPELICULA",
+        "name": "DPELICULA SENSA TV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/dpelicula.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjU5tZVot3Oj8jsRdg3gw1IrmxsQ1BVNvWhr6J9u8O7Mc33gANZ3DlJM67t8AajTiM=",
         "drm_scheme": "clearkey",
@@ -27,7 +27,7 @@
         "referer": "https://nowtv.express.com.ar/"
       },
       {
-        "name": "AE CLARO CANAL",
+        "name": "AE CLARO TV",
         "ico": "https://x.playerlatino.live/ae.png",
         "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5gwD200N5yKnk6aNcgHZbCVmrAfKmaMv8o/XSlK/xa4PxQT97rAKBHuWJjTkd1FMW/Q==",
         "drm_scheme": "clearkey",
