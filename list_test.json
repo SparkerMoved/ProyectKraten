@@ -11,40 +11,20 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9td7NTEyHqmhVNxU6C98xPyA=="
       },
       {
-        "name": "TEST 2 REFE",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
-        "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5g0i43J9o7VcG6HAww7lWCTJrP5upDZ0vsy2Ts/lgAiqs5q808+UokMI/c4pgqhVlUw==",
+        "name": "DPELICULA",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/dpelicula.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjU5tZVot3Oj8jsRdg3gw1IrmxsQ1BVNvWhr6J9u8O7Mc33gANZ3DlJM67t8AajTiM=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNO2jeoIVCds3t5o41VlXAxQOVh77P71bV+K/V1aEDpm",
-        "referer": "https://www.clarovideo.com/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTofxyXkWJm9U/Ei7sPiMlLSnVnZeGZvwAcgCDET4blDjg==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
-        "name": "NOWTV TEST CANAL",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "name": "TYC SPORTS NOWTV",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/tycsports.png",
         "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K0UOP9FgvZDvgafNbnCu+EDs4xLuJdsz+GDsaufJr/S39fmk+3RDZm6Hly/SQJrQk0=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLIdPGNyIBas8f80VW3knmzO5Fx/+EInmq3rBs2Z+Sr+",
-        "referer": "https://nowtv.express.com.ar/",
-        "user_agent": ""
-      },
-      {
-        "name": "CLARO TEST CANAL 1",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
-        "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5g85Jhx49Q8ZdINDQXVmJjnTGMbH3cF/41f3h9nslQK55aIwCQprcLkMVZcOgPbdZCg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDGikkLjIk1qwJZrbHFfFDAePE2OLYh3Y5nb4WghvBomw",
-        "referer": "d3kzwqwnq1f7tq.cloudfront.net",
-        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"
-      },
-      {
-        "name": "TEST CANAL 3",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
-        "uri": "https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "https://panelssh.com.ar/test2.json",
-        "referer": "https://nowtv.express.com.ar/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqltzkOyybhoSJRlwHG7dynWQdPMnDTxqiKywFk6Q1/Og==",
+        "referer": "https://nowtv.express.com.ar/"
       },
       {
         "name": "AE CLARO CANAL",
@@ -52,31 +32,8 @@
         "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5gwD200N5yKnk6aNcgHZbCVmrAfKmaMv8o/XSlK/xa4PxQT97rAKBHuWJjTkd1FMW/Q==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLUsxE2gL0A9WVF7e33OKvw=",
-        "referer": "",
+        "referer": "https://www.clarovideo.com/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
-      },
-      {
-        "name": "AE CLARO CANAL LIMPIO",
-        "ico": "https://x.playerlatino.live/ae.png",
-        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(AE_MUNDO_HD)/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "https://panelssh.com.ar/ae.json",
-        "referer": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
-      },
-      {
-        "name": "CANAL CON USER AGENT",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
-        "uri": "9coGmjIJBMd7Q0jT0cQXAB0Fmmm42sVp90iXGQNqmKeOymxaeWaVMC8UbP68w9wg",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL CON USER AGENT 2",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
-        "uri": "9coGmjIJBMd7Q0jT0cQXAB0Fmmm42sVp90iXGQNqmKc3zbloGslsttxr3acAtkW2",
-        "drm_scheme": "",
-        "drm_license_url": ""
       }
     ]
   },
