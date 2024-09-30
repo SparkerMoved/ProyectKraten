@@ -750,6 +750,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "KIDOO",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/kidoo.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcTpXlquQDC06cvLoglvxliKuZClhLXRW9PgiCkMjgrP6atlk6zgn+xA5KZl2i2l40=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp8IvzRNrfEncl5mxWpXwJeJY+pMC7XMxF3SqWeU+4frg=="
+      },
+      {
         "name": "ZOOMOO",
         "ico": "https://panelssh.com.ar/Local/ext/Img/zoomoo.png",
         "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUs3VFM4tI+8QjCon5OXFhch6SGP/yZbIy8kdk2z40EChHNAVnT3QAoJVSCVlsuSdtA=",
