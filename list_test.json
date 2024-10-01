@@ -4,11 +4,19 @@
     "mode": false,
     "lista": [
       {
-        "name": "IZZIGO Limpio",
+        "name": "IZZIGO UNIVERSAL",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
-        "uri": "https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd",
+        "uri": "https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_url": "https://raw.githubusercontent.com/SparkerMoved/ProyectDescargas/refs/heads/main/izzigo.json",
+        "drm_license_url": "https://raw.githubusercontent.com/SparkerMoved/ProyectDescargas/refs/heads/main/izzigo2.json",
+        "referer": "https://www.izzigo.tv/"
+      },
+      {
+        "name": "IZZIGO UNIVERSAL",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "u5QELgzf9N1tIeRGw5nFiC3nzozPRycE+qsowQ/dii2FC31N+NkKUpKg0vytsfgV5A1gRwz/T3uuDF5apMVwP1eNvCnxWOiPPQfGAfQAfVo=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "pnb7Iva3cQSi8xeKxLDmEmyBh1BzLNwf8YocT+BBLWRnJ0rhRGaCOC+wn4BpgWhzlDnVwQicW0dOWuCvWGwV+36wnSZ08W0qTkS2kAJ1VTz+ABG2Hl992wnEmofvhiFX",
         "referer": "https://www.izzigo.tv/"
       },
       {
