@@ -777,18 +777,20 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp8IvzRNrfEncl5mxWpXwJeJY+pMC7XMxF3SqWeU+4frg=="
       },
       {
-        "name": "ZOOMOO",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/zoomoo.png",
-        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUs3VFM4tI+8QjCon5OXFhch6SGP/yZbIy8kdk2z40EChHNAVnT3QAoJVSCVlsuSdtA=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpgYK3pXpZ92OWGZOKh7sAMSXId0d8Vb18xMTR2LpSRyg=="
-      },
-      {
         "name": "CANAL INFANTIL",
         "ico": "https://panelssh.com.ar/Local/ext/Img/canal_infantil.png",
-        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUu5aBmks7lyhNhy/qwRAw3S6cp2ymRSwdCNutZlIqL3iD6Q45OdmCNjBZF/4SdYdHuojrM1p9qPsVv2yT0WqF86",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLejic9jyAW/zR0ec3hvwlqUlgSaSYyJs5vZhQurckNqym+4n9P05EVfN2SMp/0fq6+pUBxyKl3mHTrfKLem0zucAa",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpmkL+DQXXgxR/PgJ9jUS6JiFGA7hOTiZV5zOlNKDtmdQ=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpmkL+DQXXgxR/PgJ9jUS6JiFGA7hOTiZV5zOlNKDtmdQ==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "ZOOMOO",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/zoomoo.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLejhn7dMXnHip7M9Fpk6KD+isPe1B489DpgE9QlqlNGhqf+QGoH6/OBTtNDjHn5UdqBc=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpgYK3pXpZ92OWGZOKh7sAMSXId0d8Vb18xMTR2LpSRyg==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "PLIM PLIM TV",
@@ -987,37 +989,34 @@
       {
         "name": "CINE PREMIUM",
         "ico": "https://panelssh.com.ar/Local/ext/Img/cine_premium.png",
-        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsFw5gt/Qc+DSeFo8GYcpK148fltykTxIO0z9Tnrs5CTMT/PVkjROTnRflMcOufyfsIAEcibOe2kSkNKMd4PLrE",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLejigRS2KSovF6MWgG5CvyqAKT9VZGBVbQCyEA5tbkPTNapng4b5OenphhVlr13DdJNk=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrRLdtSRz/zRpvvsmmE4V/LCjqZGd6kyr70lh3SepkQbw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrRLdtSRz/zRpvvsmmE4V/LCjqZGd6kyr70lh3SepkQbw==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "CINE HISPANO",
         "ico": "https://panelssh.com.ar/Local/ext/Img/cine_hispano.png",
-        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsFw5gt/Qc+DSeFo8GYcpK13bC3u2WGrWjRC6Y5Wn0hsgmhTgAYuGpoWF4m+3UlkhrL634slmmKNOepIEZC3URX",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLejhcNvRcsFQAXfdt+V05S/omqb/NlIMgxnj7s53FdgB/cJL4PfUa78lE6eA0atBNhMY=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqO4AVZe3fMR8FSB9amE7k6m0w+MZqnzcQkvS/722XraQ=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqO4AVZe3fMR8FSB9amE7k6m0w+MZqnzcQkvS/722XraQ==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "CINE FAMILIAR",
         "ico": "https://panelssh.com.ar/Local/ext/Img/cine_familiar.png",
-        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUsFw5gt/Qc+DSeFo8GYcpK1i02xNgogN5xuJQzv/ukhKEdmgX2v7AOwG0VJJ5fUzfkFLAXKgMpbQcsdCgE7AVRn",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLejjru5q/uV+qAtPpAZMyzn1ppG3r4mHEgZk3cNrxjYigzYp/VyfWCkFOnOHlDdijo74=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo05EGO+kGertig/qsS7NKBrtgmeZPYIv/F+7TnlBF0nQ=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo05EGO+kGertig/qsS7NKBrtgmeZPYIv/F+7TnlBF0nQ==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "DPELICULA",
         "ico": "https://panelssh.com.ar/Local/ext/Img/dpelicula.png",
-        "uri": "IY/wxVLCG96GTpA7KXshvnluGLKUx8eX8NBNVxmvguUBnOgHpHLCfHwHZZ3FFy/6gyOSmf9bF6K6Nslw/0l+a/ksHfTiiLBeqKzTZRTafb3SR7tRIwfbM0m3Dh3CuTjI",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTofxyXkWJm9U/Ei7sPiMlLSnVnZeGZvwAcgCDET4blDjg=="
-      },
-      {
-        "name": "DPELICULA TEST",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/dpelicula.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjU5tZVot3Oj8jsRdg3gw1IrmxsQ1BVNvWhr6J9u8O7Mc33gANZ3DlJM67t8AajTiM=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTofxyXkWJm9U/Ei7sPiMlLSnVnZeGZvwAcgCDET4blDjg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTofxyXkWJm9U/Ei7sPiMlLSnVnZeGZvwAcgCDET4blDjg==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "IVC",
@@ -1050,9 +1049,10 @@
       {
         "name": "GOLDEN EDGE",
         "ico": "https://panelssh.com.ar/Local/ext/Img/golden_edge.png",
-        "uri": "IY/wxVLCG96GTpA7KXshvnluGLKUx8eX8NBNVxmvguXLuLQeM1/lAgprMRkMGevR19oKK9nDYm6zClWmaYGXK4T4kW8gqihQtvEP2s2flw+tzm7i55fDgMxH4uXKZnDq",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmhCiWC46XyA3Hj0/YR6olJKA50pte4UKfPeTjSnY/HCktK8CxhIVOVWi9Xx1BgJXHE=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpGRqh+BjDDY/YjqiQmyO1MjfQ8zl6IdCSeBfIk5AC20w=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpGRqh+BjDDY/YjqiQmyO1MjfQ8zl6IdCSeBfIk5AC20w==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "DHE",
@@ -1245,9 +1245,10 @@
       {
         "name": "LOVE NATURE",
         "ico": "https://panelssh.com.ar/Local/ext/Img/love_nature.png",
-        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUvXwIqYpO3HVJeqpNmgyNMRgl1hd/Q1KxpZMMWk9EGJnT40OWFPFHDyp6b8UZRJWxg=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5ERYpIG3ML+rbTXDrCVFvYm4vSD4LWMHMrGygKGsPlT5A==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqA40VcK+1WByf52nXNJ50mYbFaC2vXzmjmh1oIKNcB2g=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqA40VcK+1WByf52nXNJ50mYbFaC2vXzmjmh1oIKNcB2g==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "HISTORY",
@@ -1593,16 +1594,18 @@
       {
         "name": "TELEHIT MUSICA",
         "ico": "https://panelssh.com.ar/Local/ext/Img/telehit_musica.png",
-        "uri": "+/YcpTlU12BHvOmlXNiL4rdOM4Gjl2plsGxZby6APUv3t7v3Aow1stLwcuZwJsH0pgxNyliYKYUx297VZ92ZiQsFQP33LjrhcYu2KhH0gNA=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjG8XhV4748ADfQGrWSYOXbZ0UCTSIj3aiVExgBSV9OFdax8y/bEYjc4SdT4iV4YjM=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqBfD6S2C4icliHGXp5F2XJKGm9wf9HvsVbfERrxzf62g=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqBfD6S2C4icliHGXp5F2XJKGm9wf9HvsVbfERrxzf62g==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "BILLBOARD AR",
         "ico": "https://panelssh.com.ar/Local/ext/Img/billboard.png",
-        "uri": "H7CJIbsacaqU+ywyW9hSuCFGMdmVWfGY525rblpKxcTDNMRsix+mPcugVH0WYRHMZCkw+H+0YE8Y1B8e7j/55o8bG0oivrchZ8vXuKS9fg0=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmgy+j6/3S6IOeWeC6wfXLBO2esGr0ynPrhnf29tsllXIGl+btdo4I2MwtU4FFO6DXg==",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "FLOW MUSIC",
