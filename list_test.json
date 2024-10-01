@@ -4,6 +4,22 @@
     "mode": false,
     "lista": [
       {
+        "name": "IZZIGO Limpio",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://raw.githubusercontent.com/SparkerMoved/ProyectDescargas/refs/heads/main/izzigo.json",
+        "referer": "https://www.izzigo.tv/"
+      },
+      {
+        "name": "IZZIGO",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "QluTlnD3e8w+Ly3FPtzHQPDfGk0XDwqX1x+pnJgpEa33msL+Ijd1kGG6FdwMgG5ufgsv9OsLpfXUaZfLubwb0HilBxPQpqau38DsqvAQ91g=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "pnb7Iva3cQSi8xeKxLDmEmyBh1BzLNwf8YocT+BBLWRnJ0rhRGaCOC+wn4BpgWhzlDnVwQicW0dOWuCvWGwV+36wnSZ08W0qTkS2kAJ1VTztBSOnm/ZK3+kJFMAg0LOW",
+        "referer": "https://www.izzigo.tv/"
+      },
+      {
         "name": "ESPN PREMIUM FLOW",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwclQtrZKXmdhcTTa4s/PUkthNNGhjP/rK3sA058Ilb2XVtkDAUOxMk2+bMYhvkrZxPaTwuX9l4DI0IzFHUIYjwEsXZM/IHoRc4JrpZZbz1Ddg==",
