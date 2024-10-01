@@ -4,12 +4,22 @@
     "mode": false,
     "lista": [
       {
-        "name": "IZZIGO UNIVERSAL",
+        "name": "IZZIGO HBO FAMILY",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
-        "uri": "https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd",
+        "uri": "https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_url": "https://raw.githubusercontent.com/SparkerMoved/ProyectDescargas/refs/heads/main/izzigo2.json",
-        "referer": "https://www.izzigo.tv/"
+        "drm_license_url": "https://panelssh.com.ar/izzigotest.json",
+        "referer": "https://www.izzigo.tv/",
+        "user_agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+      },
+      {
+        "name": "IZZIGO HBO FAMILY",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
+        "uri": "1rSRFzaw0dFhCxyET2zl7JGLlwrfuTiCNqRsHWdpuKsCLaydqfzsk6Y8+eHw+QcRzt9av0nvQXzRkmYRg6GrQfg6/NyDYntwYnxZpp13ptU=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDEqnsv4t7A/M4dzHRcM0UJ4F1BUWR0W0lDzNiDtHP9sV",
+        "referer": "https://www.izzigo.tv/",
+        "user_agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
       },
       {
         "name": "IZZIGO UNIVERSAL",
