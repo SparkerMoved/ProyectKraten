@@ -766,6 +766,26 @@
     ]
   },
   {
+    "name": "EVENTOS EN VIVO",
+    "mode": false,
+    "lista": [
+      {
+        "name": "MLS",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/mls.png",
+        "uri": "X+q8VngVAXNBLOdflCm30lZejnLxTS+F5g86PoTFTfPGep4ZmhTLYccZKKUb6D1a+JWWBqJdhYTzPEwBeufIrA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MLS",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/mls.png",
+        "uri": "X+q8VngVAXNBLOdflCm30lZejnLxTS+F5g86PoTFTfO5AJocY/Dkism9LMk6rEZ4Fal23BKhTkDwp1A5x8uQXA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
     "name": "INFANTILES",
     "mode": false,
     "lista": [
