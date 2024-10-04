@@ -4,6 +4,69 @@
         "mode": false,
         "lista": [
           {
+            "name": "Instintos asesinos (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/wIDulcEDrbW5tLaAHIUqODaTGG6.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk2cGGkXoFH6WopCaqQjDXIemAuBU4Zc7fehEGQq4V9ttGO+ScQEV8q8e+meJxLQyTiXaU0cugHaejeaTPTRFkXL",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Deadpool & Wolverine (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk2cGGkXoFH6WopCaqQjDXIemAuBU4Zc7fehEGQq4V9ttKrNriLE4+Ldgm3nRWAqBwIpM628/cKUxkCBc6RFhG01",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Parano-IA (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/bWcHlNhi4dMopJmDWxfo3HYqviB.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk2cGGkXoFH6WopCaqQjDXIemAuBU4Zc7fehEGQq4V9ttEY9+sZ0VhVo1A87r/dtGWdBOrdt1ZRfCN0+imtqCLQi",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Rez ball (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/eISIK4fuUJ56gT5pT4FxUmXpoTd.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk2cGGkXoFH6WopCaqQjDXIemAuBU4Zc7fehEGQq4V9ttDXZz9WyDzb/O/G6dwu2Oeza85hr6+F6ClksMCTtgjth",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Lobos (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/3uXwaubXNZmbhJ1qSYdink7y0RD.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk2cGGkXoFH6WopCaqQjDXIemAuBU4Zc7fehEGQq4V9ttFRuHLugHrFr7A77a68zZLfv7lUvYSq/p6Tia0QUO34N",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Sol de justicia (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/jC0ciJhQXTP26D2Dht3Mf2dAVHL.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk2cGGkXoFH6WopCaqQjDXIemAuBU4Zc7fehEGQq4V9ttPFOk1kdavm393wjlsaeN1YsWksouwNpwLGARgunVIUW",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Corrupcion en Bangkok: Entre el cielo y el infierno (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk2cGGkXoFH6WopCaqQjDXIemAuBU4Zc7fehEGQq4V9ttPojeS5yeLwLAJ8vugokxHW+lHLapI229tp0eDEdHG9l",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "MaXXXine (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk2cGGkXoFH6WopCaqQjDXIemAuBU4Zc7fehEGQq4V9ttLgQzyDi5fBR91QqKnaXZLO5RGrd1hklOmZdwtnXlWvg",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Borderlands (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk2cGGkXoFH6WopCaqQjDXIemAuBU4Zc7fehEGQq4V9ttAimZfU4nHg/V8Pl+zLNPBv1f81ji1jF9JB39avzia5D",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Parpadea dos veces (2024)",
             "ico": "https://image.tmdb.org/t/p/original/a4o3f9dmxB9TyFNMncvwspSoVLJ.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+2+ry549R7kMpJtCmDRkc7/ZXiyR2KDdCrAbVnMPQ4/kycvgUEiz/RBSJRzjzLHAr",
