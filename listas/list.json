@@ -1433,6 +1433,14 @@
       {
         "name": "NOVELISIMA",
         "ico": "https://panelssh.com.ar/Local/ext/Img/novelisima1.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5HyKQ3lrppHX6uYGb8DYZ8Rb0fiuMgJ6i/Hv4roKbSsVA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpNY6C62hHzaKns5rVPef/BCMXYXT0s0yFv39fYgawg9A==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "NOVELISIMA",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/novelisima1.png",
         "uri": "7GxEaLVZxOD8KikDzlUedLOf9HkiPp9ASBW0GDVy0f6lu762HYBZl/E8iFjtvtUju3cvDnWj9S+Nwdr2c0RoDqxocFWno+2JP48+Az5YsvJWbpZ4NdJPTadrvX7IJhqT",
         "drm_scheme": "",
         "drm_license_url": ""
