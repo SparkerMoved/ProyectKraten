@@ -1481,11 +1481,12 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpS4Hcr/dYvMWyCcGausXgNXtRIDSnIDBj2LlTd/N4wXg=="
       },
       {
-        "name": "TLNOVELAS (OPC2)",
+        "name": "TLNOVELAS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/tlnovelasnew.png",
-        "uri": "D9bObOKdNpvgw/F4b3dc7AIINPB7UDRz/k5lRX7USvlhzFoRHp5TuMaWrCzFMigKeXjXp22G0tjlGubXKk8imvvU5VHVAjwZN8cn/GKrNOo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmijQw9Ex5VQ+wO6XxzgLRRjPLFYNhvAw66FZ3PPnO0Ix8qgz5zcuyj90WHMwNuP5Xw=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpS4Hcr/dYvMWyCcGausXgNdKU25qxbeUEoOOVgvFmxHw==",
+        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
         "name": "ADULT SWIM",
