@@ -4,6 +4,62 @@
         "mode": false,
         "lista": [
           {
+            "name": "Beetlejuice Beetlejuice (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvEoNZZiJ6IEZcAwbV1jgQ0ozIbmoYKXMZXOSC86sHlKd2JnCFMGCjBC9XzNYr2eW4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El cuervo (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/uUUx4kN6uCvXnjGWOv79gUBxdYE.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtcpI0KW4dZ2sH/bAMcPdtdiDofQb+AbdQifnPYXOrYzg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Lo que hay dentro (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/2L1V2JAni8Uw7hVHIodTNOl5TZA.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtaHIopkjDVxlqSSfcE9L1rnZNrfKdXM9XdsFxb7F/zcg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El hoyo 2 (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/jHGgM019xAoy62cKZtDmTxvQlUY.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuiKX5DH6GHW1aRyDJx0EPfj5FY22U00SEAlYKXMStBGQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La casa de los despojos (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/1th6jd7Dn5Ipftlrk81DmIFAJ5c.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuLHPXfB9bqv4yADcWFiVDca/ZIegW6dI/7mJsxui3O9c1PWiEdiCN5DLYlusSSR8c=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Aguanta la respiracion (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/pLxy9uzUZOjj6TTAzxhBJayPZT7.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtfcvc0sag5xxHN+DqBuF6PTsCvelc+vYcmMovYvFx7g5uv2o0mSFZtE9siFMD0ZaU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El misterio de Salem's Lot (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUv1W2FHzijVt/vUQDW5fMuSbDeNmsAecRLq+YQYBDQXfhUV6/XGWe961OMMD2vXTB4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "No ables con extraños (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuchSS7fE1/UgAUKRYIrVSefQMvXZ3cduz8l4/XGqoHbb3x+Lfk/m9yg/bMkTBGpfk=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Instintos asesinos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/wIDulcEDrbW5tLaAHIUqODaTGG6.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUthDUGul2B4oxoca3DWRGfIgj2VgSGBokjjbHzhgkEr+Q==",
