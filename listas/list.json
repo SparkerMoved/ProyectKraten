@@ -786,6 +786,14 @@
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-J701M Build/PPR1.180610.011)"
       },
       {
+        "name": "KRATEN TEST",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/kraten_eventos.png",
+        "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5g85Jhx49Q8ZdINDQXVmJjnTGMbH3cF/41f3h9nslQK55aIwCQprcLkMVZcOgPbdZCg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "9coGmjIJBMd7Q0jT0cQXAHj50n6iBP8XDwjk5VIkuG7Sj5iqGoQMD/LXdVe7w896",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
+      },
+      {
         "name": "MLS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/mls.png",
         "uri": "X+q8VngVAXNBLOdflCm30lZejnLxTS+F5g86PoTFTfPGep4ZmhTLYccZKKUb6D1a+JWWBqJdhYTzPEwBeufIrA==",
