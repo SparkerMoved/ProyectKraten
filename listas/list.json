@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "ARGENTINA 🇦🇷",
     "mode": false,
     "lista": [
       {
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "name": "INTERIOR DE ARGENTINA",
+    "name": "INTERIOR DE ARGENTINA 🇦🇷",
     "mode": false,
     "lista": [
       {
@@ -474,7 +474,7 @@
     ]
   },
   {
-    "name": "DEPORTIVOS",
+    "name": "DEPORTIVOS ⚽",
     "mode": false,
     "lista": [
       {
@@ -766,7 +766,7 @@
     ]
   },
   {
-    "name": "EVENTOS EN VIVO",
+    "name": "EVENTOS EN VIVO ⚽",
     "mode": false,
     "lista": [
       {
@@ -814,7 +814,7 @@
     ]
   },
   {
-    "name": "INFANTILES",
+    "name": "INFANTILES 🎠",
     "mode": false,
     "lista": [
       {
@@ -1095,7 +1095,7 @@
     ]
   },
   {
-    "name": "CINE",
+    "name": "CINE 🎬",
     "mode": false,
     "lista": [
       {
@@ -1351,7 +1351,7 @@
     ]
   },
   {
-    "name": "CULTURALES",
+    "name": "CULTURALES 🌍",
     "mode": false,
     "lista": [
       {
@@ -1477,7 +1477,7 @@
     ]
   },
   {
-    "name": "NOVELAS Y VARIEDADES",
+    "name": "NOVELAS Y VARIEDADES 📚",
     "mode": false,
     "lista": [
       {
@@ -1709,7 +1709,7 @@
     ]
   },
   {
-    "name": "MUSICA",
+    "name": "MUSICA 🎶",
     "mode": false,
     "lista": [
       {
@@ -1829,7 +1829,7 @@
     ]
   },
   {
-    "name": "TELEVISION INTERNACIONAL",
+    "name": "TELEVISION INTERNACIONAL 🌍",
     "mode": false,
     "lista": [
       {
@@ -1996,7 +1996,7 @@
     ]
   },
   {
-    "name": "PARAGUAY",
+    "name": "PARAGUAY 🇵🇾",
     "mode": false,
     "lista": [
       {
@@ -2100,7 +2100,7 @@
     ]
   },
   {
-    "name": "URUGUAY",
+    "name": "URUGUAY 🇺🇾",
     "mode": false,
     "lista": [
       {
@@ -2162,23 +2162,9 @@
     ]
   },
   {
-    "name": "ALTERNATIVOS 24/7",
+    "name": "ALTERNATIVOS 24/7 ⌚",
     "mode": false,
     "lista": [
-      {
-        "name": "EL ZORRO",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/el_zorro.png",
-        "uri": "aCIV6Gy5Q6k4Gra7IOWq+DJbaInpOTNnlURXihqifnZ5qrb6g73X+8PhF1jsU/Eu",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS SIMPSON",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
-        "uri": "aCIV6Gy5Q6k4Gra7IOWq+DJbaInpOTNnlURXihqifnb3HcrRCAjPzBWIgkyfC8fu",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
       {
         "name": "BILLY Y MANDY",
         "ico": "https://panelssh.com.ar/Local/ext/Img/billyymandy.png",
@@ -2294,7 +2280,7 @@
     ]
   },
   {
-    "name": "CANALES XXX +18",
+    "name": "CANALES XXX +18 🔞",
     "mode": false,
     "lista": [
       {
