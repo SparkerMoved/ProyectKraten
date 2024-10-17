@@ -777,21 +777,18 @@
         "drm_license_url": ""
       },
       {
-        "name": "KRATEN EVENTOS d",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/kraten_eventos.png",
-        "uri": "9coGmjIJBMd7Q0jT0cQXAB0Fmmm42sVp90iXGQNqmKdkGfdsAaB4gQoqeEA11UGA",
+        "name": "CAMPEONATO URUGUAYO",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Campeonato_uruguayo_logo.png",
+        "uri": "X+q8VngVAXNBLOdflCm30lZejnLxTS+F5g86PoTFTfP8EgTgDzA7PQr5S23U2h13PUN5nWOdDFp/mhYdrQqD5A==",
         "drm_scheme": "",
-        "drm_license_url": "",
-        "referer": "https://v3.playerlatino.live",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-J701M Build/PPR1.180610.011)"
+        "drm_license_url": ""
       },
       {
-        "name": "KRATEN TEST",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/kraten_eventos.png",
-        "uri": "QpmUcoRf/D85BA8aGZCc8LrevcpD4qLgYA6/J6TlBrXQBjnJCs8yL1tN7G3vMF1y16BmzPXvBliPPWaascd5g85Jhx49Q8ZdINDQXVmJjnTGMbH3cF/41f3h9nslQK55aIwCQprcLkMVZcOgPbdZCg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "9coGmjIJBMd7Q0jT0cQXAHj50n6iBP8XDwjk5VIkuG7Sj5iqGoQMD/LXdVe7w896",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
+        "name": "CAMPEONATO URUGUAYO",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Campeonato_uruguayo_logo.png",
+        "uri": "Gd5vdt4nE3wdcZ5Eudmcw4pqv2Y3bH44P3cdeBr5wXSQDlwJn/dWATN7CfKeBwiA",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "MLS",
