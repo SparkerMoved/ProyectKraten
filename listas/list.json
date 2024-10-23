@@ -810,6 +810,22 @@
         "uri": "X+q8VngVAXNBLOdflCm30lZejnLxTS+F5g86PoTFTfO5AJocY/Dkism9LMk6rEZ4Fal23BKhTkDwp1A5x8uQXA==",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "CANAL DE PRUEBA",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/kraten_eventos.png",
+        "uri": "hxw+QlEu7xic1D4/OzsxS+jIYFFT8i3ffme+U3M0VarZjVPzl3DLePwbPyiEtEu9qDwfGALhI9pUB6qRN4gxwsVBzfs5J0AivA7YPrePCX1lGPPzXKBHVkSRkgQuT2bHaoQsDBipUgd6q2WXaulkRDj1k69xiYvgTqqaNDCsUa4=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTroas9tS1Vb1e3lFR/bJh/PTMHZVf/Z3DuVIZm/vmmYQg==",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "CANAL DE PRUEBA 2",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/kraten_eventos.png",
+        "uri": "hxw+QlEu7xic1D4/OzsxS+jIYFFT8i3ffme+U3M0VarZjVPzl3DLePwbPyiEtEu9qDwfGALhI9pUB6qRN4gxwsVBzfs5J0AivA7YPrePCX2OqDkJT74KZOH2m2BwDbKX0Nm8z4Ih6cUu0fy59bwX3d+Fw/KOgLie3YX0VKIk56E=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTroas9tS1Vb1e3lFR/bJh/POEMSZAEvqT5hePCxcPtK1g==",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   },
