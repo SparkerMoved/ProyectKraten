@@ -4,6 +4,34 @@
         "mode": false,
         "lista": [
           {
+            "name": "Ahi afuera (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/gNtVxOAmBD42TBwFfN52fDa56XZ.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUt4+FLkBwyklmI5zaPs8UtVhNMRTAvdWCQWsKDGp/GEOg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Fuera de las sombras (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/rKTRkFyhRtd9Nm25GBlyEJzt9TZ.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsl5tTXRW+lp3bHKMlPY66N/aahV+6kFmJG8pO2ZsSGeIeOObJPUUiJdhrCNuoQ/pQ=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Hermanos (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/4LiZlaqMMd6TQhTUfgLn4VfD5zo.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUs9y5PZ2WttX1lWOCiLL0c0wy/WwRICt5XHcHLJen/DWw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Contaminados por el miedo (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/uE8sz63PFf3exD9WvmW26lONVqA.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUt8lQdNe27Y+7Cm8uZgXCKoLisKXW6AIqEoUOnpi91BTunft2MSIIehh3cBgMFk+wI=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Robot salvaje (2024)",
             "ico": "https://image.tmdb.org/t/p/original/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUulL2BZ2X5XGM0/YDJZj4XfGVBfmJornxNnZTHs5NbDNQ==",
