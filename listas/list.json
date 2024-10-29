@@ -1558,7 +1558,8 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5HyKQ3lrppHX6uYGb8DYZ8Rb0fiuMgJ6i/Hv4roKbSsVA==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpNY6C62hHzaKns5rVPef/BCMXYXT0s0yFv39fYgawg9A==",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "NOVELISIMA",
