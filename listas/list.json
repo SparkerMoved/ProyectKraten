@@ -1128,6 +1128,15 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLejigRS2KSovF6MWgG5CvyqAKT9VZGBVbQCyEA5tbkPTNapng4b5OenphhVlr13DdJNk=",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrRLdtSRz/zRpvvsmmE4V/LCjqZGd6kyr70lh3SepkQbw==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "CINE PREMIUM",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/cine_premium.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLejigRS2KSovF6MWgG5CvyqAKT9VZGBVbQCyEA5tbkPTNapng4b5OenphhVlr13DdJNk=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrRLdtSRz/zRpvvsmmE4V/LCjqZGd6kyr70lh3SepkQbw==",
         "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
       },
       {
