@@ -2703,6 +2703,13 @@
         "mode": false,
         "lista": [
           {
+            "name": "Pone a Francella (2001)",
+            "ico": "https://image.tmdb.org/t/p/original/eB9B55lFN5aBJysh9COMqKNYI2l.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDjzXlsvAmFJVHzkGwxIgXYYjifNVs4xAvn005CGGByE0LlKUxO9C/FCklVZyTo6tpg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "La nona (1979)",
             "ico": "https://github.com/MAXPLAYTV/mov/releases/download/ARG/IMG.NONA.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrswreVV6uxkdln6TvwbC4khsQNptcPY0WWO9TRvYnIl0=",
@@ -2899,30 +2906,30 @@
             "drm_license_url": ""
           },
           {
-            "name": "Bañeros II: La playa loca (1989)",
+            "name": "Bañeros 2: La playa loca (1989)",
             "ico": "https://image.tmdb.org/t/p/original/uHLEeoM9jwqDRkOSpeb2SWpsFVp.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDjzXlsvAmFJVHzkGwxIgXYZx3M1CI61s3LKaUCfrVRd+c+6BlYGXRFQatDhhEofLTFHJzYI1roipxbJqWtrJXD8=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "BAÑEROS 3",
-            "ico": "https://m.media-amazon.com/images/M/MV5BYmViN2EyMDYtZjM2Ni00ZDM0LTg4MzEtZGNjMjRmYWZmZTBmXkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_FMjpg_UX1000_.jpg",
-            "uri": "681Eojqs0kkbTJPmeYReDmj7haI8K3g9dvdsDQ76T/O4+vGp/NrVeIrxaZKEBc3VCtESZluPtW1RsIQbTBv6lihOzCERb/mKvy3fyDoreds=",
+            "name": "Bañeros 3: todopoderosos (2006)",
+            "ico": "https://image.tmdb.org/t/p/original/dFzOIeaUNHgR9c2au4ySVTQVxxU.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDjzXlsvAmFJVHzkGwxIgXYZXXZzmJKb9HE4AvAWNcLsO8oMNo78syRDsfrpuw0QPpCkzRmCCwmsPOsrZqbADN/4=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "BAÑEROS 4",
-            "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/7/w1280/n1sGv1pi5KNlsWfKcsQSK5oM0rU.jpg",
-            "uri": "681Eojqs0kkbTJPmeYReDmj7haI8K3g9dvdsDQ76T/MgYW3aRTvqefgYJu7WFO84sEGQioQ1tARlfof2iumRnXvp4nityV34ujg4qXZqyIQ=",
+            "name": "Bañeros 4: Los rompeolas (2014)",
+            "ico": "https://image.tmdb.org/t/p/original/nBSxogLnVjeOBivLYAYuo6OAsO4.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDjzXlsvAmFJVHzkGwxIgXYZx3M1CI61s3LKaUCfrVRd+nFpgs6oW++j6wAJ72KoGFra+aYAT0TFqwRrYyPCD+Jc=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "BAÑEROS 5",
-            "ico": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/05/30192149/Baneros5.jpg",
-            "uri": "681Eojqs0kkbTJPmeYReDmj7haI8K3g9dvdsDQ76T/N9AoCzagd2XKOsWtPyPinaBg3zshS2MJrwNRvHAP5ww0KtD3Z/iKnGUe6eB0oNLUU=",
+            "name": "Bañeros 5: Lentos y cargosos (2018)",
+            "ico": "https://image.tmdb.org/t/p/original/wZESAWVUJKHZpY9JnLBYRJyJMJa.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDjzXlsvAmFJVHzkGwxIgXYZx3M1CI61s3LKaUCfrVRd+0fDro9kY6DiM1uYugNx04QyCEYxqXg79IiKG0QLH23Q=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
