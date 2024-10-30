@@ -4,6 +4,13 @@
         "mode": false,
         "lista": [
           {
+            "name": "El asesino del juego de citas (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/sXGZGy6fQIdmOFwOhY4xfqQlHI8.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvcDUMLp2s2H7Dr2nAzcsJ0QhC9H1oFY0g9aIeVaJ50sI5QiGw0Yc0vz/lN3xuyRp0=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Ahi afuera (2024)",
             "ico": "https://image.tmdb.org/t/p/original/gNtVxOAmBD42TBwFfN52fDa56XZ.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUt4+FLkBwyklmI5zaPs8UtVhNMRTAvdWCQWsKDGp/GEOg==",
@@ -2857,13 +2864,6 @@
             "drm_license_url": ""
           },
           {
-            "name": "9 REINAS",
-            "ico": "https://img.mundifrases.com/images/thumb_movie-nueve-reinas.233x330_q95_box-0,1,239,356.jpg",
-            "uri": "681Eojqs0kkbTJPmeYReDsiwq2o9XYAqQyBHzfAtOUhE/nBTgLA2fJHmvWrPjycXvMynDapaijxIFTNadbZbVQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
             "name": "EL MISMO AMOR LA MISMA LLUVIA",
             "ico": "https://m.media-amazon.com/images/I/71q1hNoOXML._SL1211_.jpg",
             "uri": "Znx5wmLfvMtvEf/+VuftOSi0KXrGlptiV/oDvfo7Yn5PHdOCvHIcSzAQd8enXzl5s6idFGoELJetHwTCccRkXHKOQn0/60fCWo8iHf0lNK6+nnVcdrZaXPxBdARq4Olp",
@@ -2892,16 +2892,16 @@
             "drm_license_url": ""
           },
           {
-            "name": "BAÑEROS 1",
-            "ico": "https://m.media-amazon.com/images/M/MV5BOWMyM2E3NzUtNmYyOC00NmMxLWEwNTUtOTUxMGUzOGY0MDI3XkEyXkFqcGdeQXVyMzU1ODUxOTk@._V1_FMjpg_UX1000_.jpg",
-            "uri": "681Eojqs0kkbTJPmeYReDmj7haI8K3g9dvdsDQ76T/NwXAd9Lay0FFY6uoNK9RGR6hIaQpI7eIMMcUtgxKC01PaVIPwzyAxFmwnCJT+yXGA=",
+            "name": "Los bañeros mas locos del mundo (1987)",
+            "ico": "https://image.tmdb.org/t/p/original/xjPOihkqOPvPRPOetT6QH7lUtit.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzelfS6ROXYkkgBNn2PbEp9c9r4HB6EMINEPOo5uBcrLIwkFt2TO5BXXWe5BT4fIBEYk=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "BAÑEROS 2",
-            "ico": "https://image.tmdb.org/t/p/w500/uHLEeoM9jwqDRkOSpeb2SWpsFVp.jpg",
-            "uri": "681Eojqs0kkbTJPmeYReDmj7haI8K3g9dvdsDQ76T/PP51Qx2BiLTnV1rlq/jloTwZw7tfxrwer7GUqzxTO4KxdU2Nezxxy8qmkufrryQvU=",
+            "name": "Bañeros II: La playa loca (1989)",
+            "ico": "https://image.tmdb.org/t/p/original/uHLEeoM9jwqDRkOSpeb2SWpsFVp.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDjzXlsvAmFJVHzkGwxIgXYZx3M1CI61s3LKaUCfrVRd+c+6BlYGXRFQatDhhEofLTFHJzYI1roipxbJqWtrJXD8=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
