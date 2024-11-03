@@ -4,6 +4,27 @@
         "mode": false,
         "lista": [
           {
+            "name": "Guason 2: Folie à Deux (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/ApA7Rr7VxaVE0B3x6VjzCVDhjWe.jpg",
+            "uri": "kdTAKr7DoqKrCpswatQc+rAE5AUQQNi+EmTCkDQPr+kXtKrL/zPopzzto1g2cBlbuTRiAAGhwV/zkxx+ROFYIbCTy2CmR8iGQedyxHa+aMI=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Hellboy: The Crooked Man (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+            "uri": "kdTAKr7DoqKrCpswatQc+rAE5AUQQNi+EmTCkDQPr+lhADHFAUNZYGs46d9kNyfxQ15QPjhvJW+uHKArjlSSCr4cWXrQpHee6KRq6+7Sh7c=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Jack en la caja maldita 3 (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/uHfddXNm1pOZDn4D8ttsZi1jcgT.jpg",
+            "uri": "kdTAKr7DoqKrCpswatQc+rAE5AUQQNi+EmTCkDQPr+mvgDGFCf/xrh2ZMiqcH+4P3Bvc2YD0ZQLGLsH8CLbjgt6fV4pVyUQ0QLB626pD6MivztpG5YfStZ0pRpTULvAt",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "El asesino del juego de citas (2024)",
             "ico": "https://image.tmdb.org/t/p/original/sXGZGy6fQIdmOFwOhY4xfqQlHI8.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvcDUMLp2s2H7Dr2nAzcsJ0QhC9H1oFY0g9aIeVaJ50sI5QiGw0Yc0vz/lN3xuyRp0=",
