@@ -2204,6 +2204,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "DORA LA EXPLORADORA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Dora_la_exploradora.png",
+        "uri": "q2h4ByaTW9LMzPPIv2ZmfSxGLVcUFIey3/Fb/7GTLwHN2Mrt14ArcI0LX9mgMrfqZLs2Vn90NlpXfwgh9f0ps6g3ijfGwuoaGHZgx3yaN86r13XlZty1hCe84+Psfq1YicUy4jJqhsB8UAMFBVYlyOwoAdyCNyiN1Qz8jfBWkYU3bL54yf5hb2BLFMfppIsNOj7xWgFx9B5F2nyBcTnlVwm9yb9Kt4EBMOjET7U3leo5FPDyx2AYoNEWiloq8NoXE3TZX5ey4XbIyB080npsJCnOuUuMAN3Qv3fC2ZakD65PI6qf1kG6nxlJ/EioKir/+x62u/hABU7R9GHB1RlQaAPZH0Gj20pXXRY+ZPp8D30=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "BILLY Y MANDY",
         "ico": "https://panelssh.com.ar/Local/ext/Img/billyymandy.png",
         "uri": "98gngPPT6aMzvVESYiPJlTBj+ZHl7D5qYUWUlLWCZDBkt3Xy1B9n38b/PoO3IrRz/bUqKJtc+9tUIjsHHWn+qCnaFRpgL8sp0Z5d/moFIIbqzIBSQnLF8AChFovWQtcXKuk8+sVNsyVT5loxsCwm9A==",
