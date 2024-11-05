@@ -5555,9 +5555,16 @@
         "mode": false,
         "lista": [
           {
+            "name": "Jack en la caja maldita 3 (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/uHfddXNm1pOZDn4D8ttsZi1jcgT.jpg",
+            "uri": "kdTAKr7DoqKrCpswatQc+rAE5AUQQNi+EmTCkDQPr+mvgDGFCf/xrh2ZMiqcH+4P3Bvc2YD0ZQLGLsH8CLbjgt6fV4pVyUQ0QLB626pD6MivztpG5YfStZ0pRpTULvAt",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Exorcismo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/wMjVDPOOZ1KPllcKat7dZTQRhOp.jpg",
-            "uri": "vyfGcsDFWL7qYHr0OJgHs1tPiuiuRUEkVATPjBhEtk0r8x2PwYATPd1FbKMfi+N+RT5YL1TGruURLgfdJvG4+xauYyg6RtyXuGj7iY8livQMLjBxzDo6YBqh7s47dF1K",
+            "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSw3/AtVRvsWaiGRzvQ0HBNOVZ0s91iHt3BsGcL3hCEGnA==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
@@ -5619,29 +5626,29 @@
           },
           {
             "name": "Las musas del diablo (2017)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2023/04/kKjinCoWFHkztF64Vx1L2lwcJI3-211x300.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/kKjinCoWFHkztF64Vx1L2lwcJI3.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3+/5N59Qc5Aa/hH5z9we6uad4fud4cUxrNaw8kVkGrLQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La masacre de texas 3 (1990)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2024/01/gCMEnRU8CLiA81FNdx9ToBTrNem-200x300.jpg",
-            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMr0VXiCurKPGnn9EiOv1PIdqTRhDcnmLpbl+JmMrHgFAJBdtyu/BI1x2y3zxUV/jam",
+            "ico": "https://image.tmdb.org/t/p/original/sJB7UOlPLS4B9SVnhHJ8ZB1Mgw2.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7h1axRi774TgmzlVchGipdzfztbxctZ8X8KviAHQKkgQyuBxBkgipkl9yrxFXxjqac8YfEffEcGDI1Si00wLBgM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La masacre de texas 2 (1986)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2024/01/l5LDUW8fYdDR5B1yJimZ1bAhqCl-200x300.jpg",
-            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrDhXg9cd5P9EfPgSLzR7AcjOO+jXbvHyd2JoRDRaZBlGm5QnQyHZKFBIKMx7qB8GH",
+            "ico": "https://image.tmdb.org/t/p/original/l5LDUW8fYdDR5B1yJimZ1bAhqCl.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7h1axRi774TgmzlVchGipdzfztbxctZ8X8KviAHQKkgQEuSN+lnNfIteeoKtXnsbBeYibQAl0Vnm71XIsKFbVa8=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La masacre de texas (1974)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2022/04/fOqMcW2TYN0WReTDpds93rkAYpR-200x300.jpg",
-            "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrap2fcncuTWBQnEu7iAVnySFilha+3podC5XqVcO8uugIsTUnFRMj7nL9g7LEnEpA",
+            "ico": "https://image.tmdb.org/t/p/original/ay277gNPHFkXOfLiky4L5vMLBbJ.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7h1axRi774TgmzlVchGipdzfztbxctZ8X8KviAHQKkgQcJRzhcdJuC0O/ZDgfAOLWj+S0kIczvQfTi5LZaGTxdk=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
@@ -5654,188 +5661,167 @@
           },
           {
             "name": "La leyenda del jinete sin cabeza (1999)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2023/10/sEsDyXI4LTjS0RmlUehHUGI7Xny-200x300.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/7DgCv4sOScbIo99VPcTXk7C4UQD.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0v4CQGXornsgFR86U4w0ez/67eOvajfS6aJB1n2wpkwcSxLJTn3GmUwuLwGcdAI0+J5xvnn84WjDNYej7NbNUY",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Halloween 4: El regreso de Michael Myers (1988)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2023/10/dajbRAwMb2hLGrTQwOHeCc6ouPR-200x300.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2DlLBoXobNfDTOu+DyBRDGT2EEXXwO2wTx1vQ8Jr4+jQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Halloween III: El imperio de las brujas (1982)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2023/10/e5ljbU8azw2SY8qV19E67wJ2UGv-200x300.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/e5ljbU8azw2SY8qV19E67wJ2UGv.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2DlLBoXobNfDTOu+DyBRDGgGD97eIh60VQTtZHBZ+5fQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Halloween II (1981)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2023/10/gL3dPbbZInWn4U9jd87uoFGOdot-200x300.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/sN6WKKXWuxNHb94kX1HuX4T49hs.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2DlLBoXobNfDTOu+DyBRDG8V9worIs2kteEH91pm6w0w==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Halloween (1978)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2023/10/cuXoYbXLUYt1KXxsCnn0zF09rGY-207x300.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2DlLBoXobNfDTOu+DyBRDG60YOzPPG9XX7RcdCeNPoOw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Pesadilla en el Infierno (2018)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2023/10/ma9gY6OikBev8MsMaeA6h2EIdGo-200x300.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/vXShR2BUCXB73iRcABk8SvG6FHJ.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0atV/emAj5TK3WpiuYu/8qfouUrIIL76SmQn0XvlA7PR3BBNbmcGdNkEdwveB9YMA=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La morgue (2016)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2023/11/La-morgue-200x300.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/nHg0MwBAiaLP4ueKHexLuTkwaLD.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3oXh+O9SJchDZnZSPhoKCMI+X+QFVcnuEZi7hYKsXELWhpOzq/eHToYOnpgjuJN9g=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La masacre de Texas (2022)",
-            "ico": "https://hackstore.fo/wp-content/uploads/2024/01/2VnuxwgdMBEgVO7VKvkW6nmYfaM-200x300.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/2VnuxwgdMBEgVO7VKvkW6nmYfaM.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2qpvjQRocJ9fez3Oamykjr6zqQYLUI6qbjIY+Zrv9milA7PDxQrfbCgqXVC1QVuaI=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "Stephen king ESO",
-            "ico": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBjYoPxdK3DfpCASEFk8eZX-Ko4JzWWdl1AfaV0o70UlqdsGp3",
+            "name": "Stephen king ESO (1990)",
+            "ico": "https://image.tmdb.org/t/p/original/czBXZstIBN4yvAFTofICtXZv8uX.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1v9ILTeD/IY1YHnDPJvZx8",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "EL EXORCISTA",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/elexorcista_1.jpg",
-            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1fp4le4LzHF8LfRJErx0gCdQykT2v6XWgaMBmDWHk9jQ==",
+            "name": "El exorcista (1973)",
+            "ico": "https://image.tmdb.org/t/p/original/kLvwboUfLrQbbbYZvWuLsJkptuf.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1/8Kx5A7aPmQ2mD1kmO+PuNbUczGNE0wi4yhA0hqUI1A==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "EL EXORCISTA LA VERSION QUE NUNCA HAS VISTO",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/elexorcista1.jpg",
-            "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQgqb17qy/f4+EnpIyIfwOg/ViGHpGknl4eC00DQIT7QtelxZVw2R26urDeNQTwhWUye7ELuESF/JYtcskDH95hzLSUf1zgl7Ok04m4jBIHC7i89mhEmwQRR6t0McphFbM",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOjP7S4u9Fjo+YsFK3bYewPAsviF2/TAeCRl4akt5YxFJaNEoY3i3MgYIGzP/VWS+Q=="
-          },
-          {
-            "name": "EL EXORCISTA DEL PAPA",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/elexorcistadelpapa.jpg",
-            "uri": "aN3Y9GFY3W4GjEyNxo+8vC0v2cnFW9RakTaKYQCzB5jsbGE/gevHjMFoRmESrXaQfQRDov+YKPizGsDea+szE5dW6LOX3rSg9oz3OBxIVqkrR/EqissLaUG5v5HnoHmVzkmyl8u9ThspZJ08s5lqBZlgTNMPDgDs7W/cIPap5Ti4WaEzyfV5klmiKamfDZhF",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOjP7S4u9Fjo+YsFK3bYewN4lhZQx63jD8ReW08eaC360Xq7gcLo6IhKVSK+FBHtNA=="
-          },
-          {
-            "name": "INSIDIOUS LA PUERTA ROJA",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/insidious_la_puerta_roja.jpg",
-            "uri": "681Eojqs0kkbTJPmeYReDozKmhE0cpft3sSdElel/HdWnDhRAvOdgtzGCfQg2UsttI+gb4TfTt55By/kmx8Bqq6eB6l5+LPyPSu3hvqiclw=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "LOS EXTRAÑOS 2023",
+            "name": "Los extraños (2023)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/los_extraños.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2IlOxSG9YO6ig7gEWnhiqcMAQkoUwrQvh8ZScTnRaxZw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "OFRENDA AL DEMONIO 2022",
+            "name": "Ofrenda al demonio (2022)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/ofrenda_al_demonio.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3I47VnV2/Isp6WPZypzJfADKgc6TQ7GVNIdI/xxmjFESXf3COQFsEfHiRgE8SyUOw=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "RESURRECCION 2022",
+            "name": "Resurreccion (2022)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/resurreccion.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2v3Nc1OxSbiMLSOADt/xaFkplrtVhHHLX3y0ygtAU5xw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "SONRIE 2022",
+            "name": "Sonrie (2022)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/sonrie_2022.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2EPaMedhh0fiICsJrfOtQkrAilwoP3Zz/d62VSxzstXQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "TERROR EN AMITYVILLE",
+            "name": "Terror en amityville (1979)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/terror_en_amityville.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2QrJpd+rf9mv4xuxG/a64yYo6xhfJu0m3JipEpojD/Cey+g+r4SU4sYJsg8EfBBjY=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "AMANECER DE LOS MUERTOS 2004",
+            "name": "Amanecer de los muertos (2004)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/amanecer_de_los_muertos.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0IJdwvoFnWwwrs6C8AtI6Ws02vZ973EJduz9H01pklaUnpcUEnKBKdRtiyddrJ0F0=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "NOCHE DE LOS MUERTOS VIVIENTES 2021",
+            "name": "Noche de los muertos vivientes (2021)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/noche_de_los_muertos_vivientes.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1yHIDO48Sptz3VQEM+smAUekARIfSOjztxrOgSbLG8hRJFeeFUKpI+SAyjQqnyaKo5+JF0OYi2yt0psI4TGGUn",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "MI NOVIO ES UN ZOMBIE 2013",
+            "name": "Mi novio es un zombie (2013)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/mi_novio_es_un_zombie.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2YBx9QDVmZBVETbPoABU5YWSVRM8YKggGR9SfkQ/ypcw==",
             "drm_scheme": null,
             "drm_license_url": ""
           },
           {
-            "name": "EL CONJURO",
+            "name": "El conjuro (2013)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/el_conjuro.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI36iFHlwq7tb05CBpWD1oQk7/FmKkFU3vwOE9CcDXXZyQ==",
             "drm_scheme": null,
             "drm_license_url": ""
           },
           {
-            "name": "EL CONJURO 2",
-            "ico": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwiafyfrdZ5es4-7cd_am9cMNSYlKrJsgtvn6uU3W7Jql1nYMs",
-            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0hGfec0qj+JM2kG2/vh7O1fSIyAHL6kzLRiX8BfDHtzg==",
+            "name": "El conjuro 2 (2016)",
+            "ico": "https://image.tmdb.org/t/p/original/x4jUJ0fF60SSOeUUTkaRtmnDvwG.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3JfOPs/Ifn+pFS84lu+aPtJG8NCHNfY/IlLzWJ+tQCXg==",
             "drm_scheme": null,
             "drm_license_url": ""
           },
           {
-            "name": "EL CONJURO 3",
+            "name": "El conjuro 3 (2021)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/el_conjuro_3.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI36iFHlwq7tb05CBpWD1oQkLfiCWP8vhIHiPZ29HiZDJqCUFShAlSlwpgE7zTHQAtvO7QA23sR25i4ukLlXo4z5gMujyw7c2HXBnPFP3MXxZw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "NO ESTARAS SOLA 2022",
+            "name": "No estaras sola (2022)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/no_estaras_sola_2022.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0yML79qkQmDfztuhnjK0dIQ/W2YshrxENdXKCz0KDplheGzxcaMbjl3H9RCC0Isyk=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "LA MALDICION DE LA LLORONA 2019",
+            "name": "La maldicion de la llorona (2019)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/la_maldicion_de_la_llorona_2019.jpg",
             "uri": "tUqTt1pfJkll9sZ+5u+MJdJ/d6603tYlx9pDK7AGMlMj+lCXneRQekacctRjxGihOMwHuIPfine3GKPenywJNQRpq80rNARkjmvtn9IlYm4=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
-            "name": "METE MIEDO 2022",
+            "name": "Mete miedo (2022)",
             "ico": "https://panelssh.com.ar/Local/ext/img_movies/mete_miedo_2022.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2hYhre5qk23Tjto3kHnlqn29PMRWZGI2JGqydydiNVdQ==",
             "drm_scheme": "",
