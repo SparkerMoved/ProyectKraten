@@ -11,12 +11,13 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToXKfUbCEL1AYeujIN5+pfgieUGC7iDWuo0EGH38g/Exg=="
       },
       {
-        "name": "TV PUBLICAA",
+        "name": "TV PUBLICA",
         "ico": "https://panelssh.com.ar/Local/ext/Img/TVP.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnzgqfRzPWahPwTJa7FHrLWagK5EBjGBDJjZVc3ejxnW74=",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpPdqGyonoKBg9E++UxgTfCXfMoimjVWXsBYHCP4M5Y2Q==",
-        "referer": "https://web.app.flow.com.ar/"
+        "referer": "https://web.app.flow.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CANAL 9",
