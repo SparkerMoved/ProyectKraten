@@ -4,6 +4,55 @@
         "mode": false,
         "lista": [
           {
+            "name": "Transformers One (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu05hRTUhMFB4Tugq97bfnFP2MGC7Yu5CvNscqVMZNB/ymyuCN5s/Amvd9PCg17Y6liQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Haikyu!! La batalla del basurero (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/yqTVRzxwKSkyPB5Cc7OjIwqjEpA.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu06p77UZ0ezu2U8E4RCHKfIDZd96T0F+SumVXT2TDWSipNcDlcemp18zQFiEp9wWmA4y5u4t//xDTvvers6INu/zHqQU1tyZScGmZGREL7KuJ",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Aprender a soltar (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/wKxpBxdrLqXlYKTemPuYL0Y30dV.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu08nCLKzP7o705a5fmUX3Ndq/3bO6bhEdi6DedMiEgEbQYV46ajEqjNHENQnEvcNxXExn7oyYxaQ5kp4tcGQ5HjI=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Apocalipsis Z: el principio del fin (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu05bmKyBXXnsLrAnc/j5b4V6tdYwBBeVQ4Zf6W2AwOvnA+Zo2L6A85uHyKPB64lDA6vW/J9IF4YW0f8qhCc54m4F0aqW25U6t9GtZQwjVdjhC",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Alerta Amber (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/7rvfugoxG5Omr0QQJk9BdSu1g3Y.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu0/cdkjfyth5GHbgwcjXHVALPpwX9F+p0FbJ47sw2CJINXsD0xtfQW8u2XzqAHsQ1HMpib387Au43LC71ewzZFLE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Corte en el tiempo (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/gQfOwMJAeciNZxqTm3fkjiOaApP.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu02HaNaKXmhDp9cSvrlaju9pdBuE1sUlM4ld1PKKRy/Nxjr3FQQ0DWKsvtd1RDoy56rJ5hZPTwhNQGAyIDvJsxvg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Pharrell Williams: Pieza por pieza (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/9xSjP8B0iZHRzvrtKcYDkaalomS.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu02VLzsX3awo20N++95VZlAshKjtZtkxSrnkShj3wcY4c/4bWmTf8IDppiYVpErAUKi7dtFq0xP+A3iDEGOGm7fZZtZxWiGI/Ij4+UsYpWJs1",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Venom: El último baile (2024)",
             "ico": "https://image.tmdb.org/t/p/original/b0obWWCLRVRqRzlSK1LSGtADkLM.jpg",
             "uri": "uS0rTBjqEDp60p6s+bsu0ywk9aLS6kfc/TCXk0ELd6+8FIrf0jCsTKXCkA5/euqI75Md5oHOCt1jpKML+Jc0jA==",
@@ -3205,6 +3254,20 @@
         "name": "PELICULAS INFANTILES",
         "mode": false,
         "lista": [
+          {
+            "name": "Transformers One (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu05hRTUhMFB4Tugq97bfnFP2MGC7Yu5CvNscqVMZNB/ymyuCN5s/Amvd9PCg17Y6liQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Pharrell Williams: Pieza por pieza (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/9xSjP8B0iZHRzvrtKcYDkaalomS.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu02VLzsX3awo20N++95VZlAshKjtZtkxSrnkShj3wcY4c/4bWmTf8IDppiYVpErAUKi7dtFq0xP+A3iDEGOGm7fZZtZxWiGI/Ij4+UsYpWJs1",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "Robot salvaje (2024)",
             "ico": "https://image.tmdb.org/t/p/original/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",
