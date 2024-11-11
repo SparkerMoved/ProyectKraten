@@ -145,11 +145,13 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTogi+R+I2PQTJDKOnlk/BmSkBp7mJYTWkxQBwTOHnzOMw=="
       },
       {
-        "name": "CANAL 10 TUCUMAN",
+        "name": "CANAL 10 TUCUMAN TEST",
         "ico": "https://panelssh.com.ar/Local/ext/Img/canal10tucuman.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfo2wQyxhOLTGSdxe76sd9Sg3PRjauAJJCRrSQCAZM1Ug27bk1nX86/UfIqDDP5YbZUu0+04liSHM0udXtZULToJ",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfo2wQyxhOLTGSdxe76sd9Sg3PRjauAJJCRrSQCAZM1Ug1y576TOjapjsUWAmZtBhK8Yl4WkNkgGvXGQghYtAD5k",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqT8cNaZ2vQ6z535CDO0wn8Rp8Ko7M5DuMFHyL1djKwjw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqT8cNaZ2vQ6z535CDO0wn8Rp8Ko7M5DuMFHyL1djKwjw==",
+        "referer": "https://web.app.flow.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "PANCTV TUCUMAN",
