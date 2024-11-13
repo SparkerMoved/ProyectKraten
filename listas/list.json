@@ -150,9 +150,23 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqT8cNaZ2vQ6z535CDO0wn8Rp8Ko7M5DuMFHyL1djKwjw=="
       },
       {
+        "name": "CANAL 7 NORTE TV",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/canal7.png",
+        "uri": "UR54bhJYPp7yruWyYB0vIzHnlkY4lfIUjI9E7EJjC7c/gyjQ98IrpkIwOOeF7x7A",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "PANCTV TUCUMAN",
         "ico": "https://panelssh.com.ar/Local/ext/Img/panctvtucuman.png",
         "uri": "B0ftmmJ2uxevNXAuhGM6M9gsls8bV/fJ0MB8DfZLzKnPeBKeD4pN8ozsZsu+HTfnVLFsjcJsaN7KyQ4VMuqKqQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VIVO CANAL TUCUMAN",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/vivo_canal.png",
+        "uri": "lrMHpE8VNxqcbcd6uQ0Z34aSnMHC5P01qdQABNv9yKVj8FRRdmYpb9zCykct9i7I",
         "drm_scheme": "",
         "drm_license_url": ""
       },
