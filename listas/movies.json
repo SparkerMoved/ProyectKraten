@@ -4,6 +4,13 @@
         "mode": false,
         "lista": [
           {
+            "name": "Codigo: Traje rojo (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/edgKt5Z7QcH2TZfaT7vXOrs36zt.jpg",
+            "uri": "uS0rTBjqEDp60p6s+bsu09DZxYg8UkRIlHyRN+HkwTcT3zOWfVmFah9hLivibXjRMEJ9A5FC7RGHlgY6G0oVxA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Cuckoo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/qaNfJX6MT6kyRDfbH62Deazl0sD.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUs0RV4ZIJ0jBZLzvK93j1rAeKHpCthud+M2XlPBIuteeg==",
