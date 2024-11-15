@@ -487,11 +487,11 @@
     "mode": false,
     "lista": [
       {
-        "name": "ESPN PREMIUM",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwclQtrZKXmdhcTTa4s/PUkthNNGhjP/rK3sA058Ilb2XVtkDAUOxMk2+bMYhvkrZxPaTwuX9l4DI0IzFHUIYjwEsXZM/IHoRc4JrpZZbz1Ddg==",
+        "name": "DAZN F1",
+        "ico": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
+        "uri": "kvG/iBInIgNCMc7estdAJ0WMwJRBSc2YVNU7FhE10TQMuT1XBuyQkpz0V2a1rF/kPtuUwP6zCsKkIslZpmkpD4H+jlMEHEaz6H0SO6n00DnW4xOweRhxY+traKIEqQ76Wm62c/M6Afln/sXAR2ft6JtHafyL1LeuZ1sp6OR0Xjc=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9td7NTEyHqmhVNxU6C98xPyA=="
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDaDLA4sYgE0BrRD/eUc63LrOaEQqFfN4vvuNkiEsTYayk7g8IOncUOPaye93eXCjw5iHZ5VNfXDlwNaX/on5U0rqa4mHjLoLtbwxUM8wYNtrFaxo9SsGkM5ktTC6hOXMuQ=="
       },
       {
         "name": "ESPN PREMIUM",
@@ -499,7 +499,8 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5FhoepDA0mFlVqgmZhzNkl8qz0D7B9E20DIx2cFwxp9fA==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9tYD8O3C7XWJ3Njz3LplnSOlGzJtq2Wa5nNPYjcfBxjg4=",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "ESPN PREMIUM",
@@ -507,14 +508,8 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjD4sD9SKrFn79HD8+gsUdJhs6gogMzo4/uGMHnHqYayTLIoHnFL7hKCrtbvtxpgdjNR5DxhymBKWtVAeb+ULzg",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9t7pegXfJHtZTfsuWPFyx9y/sUwSC/7OZACpSzp1XiQeA=",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TNT SPORTS",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/tnt_sports_2024.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcJHb4zxCTHshv8ccztqRst+9UCtkc5OuHFXgYsbkMnBycX9KzarO+Ipl2ugfi174hxPQSfHfpzxDwNgav6Crrn",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqSZrPW22z0Eg1SBJr/s5dT92ycBlMIWwXg4mv8oPt92A=="
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TNT SPORTS",
@@ -522,7 +517,8 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5GZ1diNy/oqdVabGWWuNTsQfRZItrx/+v28l3sarjckAg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqSZrPW22z0Eg1SBJr/s5dTwSXdwSr2mstsuOlo4Kvayg==",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TNT SPORTS",
@@ -530,7 +526,8 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmibirukVHcENOifpGqtCfyoqOL8cF57nk7ZbSg50prWWnm6rTt7Lr3sAWg+7wWYwBw=",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqSZrPW22z0Eg1SBJr/s5dTc9ho/Ck8zvDkJGXKIzSQoBlUfCf6HsRrzwyqD5DKy7I=",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CLARO SPORTS",
@@ -538,56 +535,44 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmgal9qFqleRT192hhCbwAwiInTO4lbpT8f++srF8jRO5ee2xmFDvNS86KqDCMX7Yfc=",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo0/LZjdDyFP9xGeAmjdVp31n78DLiBwXiMT521IaSEfg==",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "ESPN",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espn.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqiphe8SKrnoOiQqDFZVlytw4EFD/P5sPrp+rQbRR6iIUrpAJ8S6mg64ysCvlt758F+uXnYMEbDcJ/o8uUBF8f9",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmgDApzwxcPzhULnldCmqtOTsWbRe6uSyFSbvIzne89c+A==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrUP4IaNvXIRsMoeHs83I9HVbLx3n1K3PCtlqxnX3IQbQ=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpxRpyI1cg8c3+3eEvOAssyWNLHy/V6AeWa8DLvvqjuNA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "ESPN 2",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espn2.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfre7yMI5VJ2IfLB/Px3vz1f99mbPmJZfGPh4dnZcc3X1jKAxEUId+Jlqtyhlo9D7GirASbXWdMSTGv/VzMNlfQJ",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmivtWZ7fI/hHeaewsWitOQE24qwg8KaX8U1FzzOeUBzHQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrN9Cym6KkPl34HkN3/53fBEWDQnMqRb1n/znqGtYqrWw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTq0lMsQ4ed3lPjyG6qYVQa+x+8hGpCdt74Lv9w1+HFa8A==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "ESPN 3",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espn3.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqiphe8SKrnoOiQqDFZVlytNuNAYV4WyRTnsbTE71KGllkL1juR/Q4xGnDYAvy8BzE=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjqZIF864dQiGKyetJJcFnSh3MaYqvh+w/Vhgv4y7BmHQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToCTxfnylujmjM8Q/Y/vCCKn/jgdBZ2SqtoJ+1+4Vy/jg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrRnapI/FQC8opM63ww3aDrDg3NKJgENEHow6jTK9q7HQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "ESPN 4",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espn4.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqiphe8SKrnoOiQqDFZVlytDKji+fuOmIrrg0LHxUN1bGNL5AlHEc7lWXM7UpHvWyg=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmg8p8avYw3Uu8lxbo30NBpSQh1mQRmzRmu5SE4gE2bhzg==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTobYW1SONNQuOtqS3poq/utMoMrJPlZVuQr9QiwJDcYgg=="
-      },
-      {
-        "name": "ESPN 5",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espn_5.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweqFL772drnkiD55md0E9xCHw3Sp+LXP1FL+U/jVaGY1IEe2mqsFc3oaStePgr6458=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrEPFSs2EQhHCayWCFK/rcfjgKO7joS1CuAUTa7a/Lafw=="
-      },
-      {
-        "name": "ESPN 6",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espn_6.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwfrYQgiwBz7P8UNRWYlSTguQnuevzYgnBjQf7ujak1ezPibrdB3llz4AkZ1wYjYEd45/d8Gyq9OeX5AnRMldC6p",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpQwWiNlLEZSDARvknjxQzPN/EdqSPugU1rGDBAwqvzRw=="
-      },
-      {
-        "name": "ESPN 7",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/espn_7.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwdNecorgXN+RKYzbwZfkjjeF5pajOo0XpjVBWjYIKi8ZU2J2AcIbRi06SxomGdQ10NcfaOHzcvSap9qEaooIk59",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTql6K1bwDZ7DYHtiGgdDAxqLjZPNrcsfwXfLli8Nfzz0Q=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqNsPUYQ7MdYOTvTcRa4OtUqEJZU8c5CIoBOeC3YOpzeA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "FOX SPORTS",
