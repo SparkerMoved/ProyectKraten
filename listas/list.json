@@ -879,9 +879,11 @@
       {
         "name": "PLIM PLIM TV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/plimplim_tv.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoZN6Kzo14HdOHE/qfu5Cb9+FVtDtTRDJtJq9qZH5fzXLtYN5zbbfBipA2Z6JnVLTMMFYG13nBHj3WVL7IglNBV",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5HNhNL0N/59HWEjXrmSRKC/jq0NQqpMdkoGvajn2W1r8Q==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpoB6JgP79J5619T+7JXjgMfvT4ZsBoBYo0KnD8gl51ow=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpoB6JgP79J5619T+7JXjgMylsfPsmfNkAR7NJbPZqFWQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "DREAMWORKS",
@@ -893,16 +895,20 @@
       {
         "name": "CARTOONITO",
         "ico": "https://panelssh.com.ar/Local/ext/Img/newcartoonito.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfphdeAkdzzrtzJMMD6QxIuMhYVLdkLAJkcVztlYD0M5FC34K9IoPPNE2/aUz4QE74ZcVTdOCX/iMkWICkt+Fgxc",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjanO6YruZSscHFeZfpkZG560HgMih4mJruWJwHsCgkBen65TwUo3WhW3hLpC9bvw4=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTr2Yxw/VgoTDhW/9y/asnT4XkxImcCunnq29YpZcktEtg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTr2Yxw/VgoTDhW/9y/asnT4wMp8wMOe4ESg5MFLOnpktQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CARTOON NETWORK",
         "ico": "https://panelssh.com.ar/Local/ext/Img/cartoonnetwork.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfo/JhH6o+IiEnLivfANEsAcxu0qt1cVU22FIKB8atYDbELU30CwKpiJnL4PZaMmID/7PniYfIY7ogTGLT8qFtaZ",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmi6+jTRdX+p/Ct/q13xnQgv69VE3Ewut4vgY9RMdgMj9Y/1JwvBj5sJ07lRJFYUtQsdFACDE7ALrS3imwK7Zkgt",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrwC/994SvdOCWP9veIAwqib/RYscXLPFUUx6paWQ8k4g=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTr2Yxw/VgoTDhW/9y/asnT4G2Yz5CP3zMS2dhBl3J33ByK1nrL9UDwN++bTi6lKmKw=",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CARTOON NETWORK",
@@ -914,58 +920,74 @@
       {
         "name": "DISCOVERY KIDS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/discoverykids.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrC0YQyED6mHN9wph+1cohQrR27W8E3cN8IyZVHQ0/e1mIJdd49u6/+V3uUumWaMlQpGcqVEC3vT9JIcPkkr8CL",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmgTkq4AGQw7aDRWOXH643zf8oq6qHmXfdopqFZWlC/NwJq3/NrWG5N3fLsCEmYrZnE=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToRBsAIHA7yT/E6/e0pmWB2wVNdPcSaEkluR88wtBOuCQ=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToRBsAIHA7yT/E6/e0pmWB2KiBgGin7jqXN13GCCiMFdNqfge+DfsbJx44LiqF57nE=",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "DISNEY CHANNEL",
         "ico": "https://panelssh.com.ar/Local/ext/Img/disneychannel.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqJbrjp8TplIUH6DmzhK7pIa1FJNuOLzFRcSzcxreIqO+Qhxll4NZ6EGnJ9CBo+vNnQw0q0vE0tGacWAOhqRxWOxugmRInKlutuVrrsIpY0Gw==",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjOOGr8cuffbbUIK01f/3poteCn/4WwbnnnDwVemL/DqZ3y+NA8v5LVR7QELoCuOfg=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqmRIUunXJBe4LjiEveYhooHol3ajSOLcBT0IvAejwMbg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqmRIUunXJBe4LjiEveYhoomuzxMTWsxa3jG0W7qDqipw==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "DISNEY JR",
         "ico": "https://panelssh.com.ar/Local/ext/Img/disneyjr.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrY8xGRP8sGUmI+91Y4rQZTaXcV6rhu70Go7qZTOtAj9m3yxXy69y8HCO9MmksatwfLDLFC65C+dHDE+Rj/yHnf",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmioKWkn3sKma9DilsKkuN5IoHtB8gT1vOowbuv9oJcgGaypRRhj3Si9m9EpRP0yGZc=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqmRIUunXJBe4LjiEveYhooEJ0GSa+kuoh/na8dNCTC6w=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqmRIUunXJBe4LjiEveYhoo/JgKgAKI8ZogGrNiC8fwJQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "NICKELODEON",
         "ico": "https://panelssh.com.ar/Local/ext/Img/nick_new.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrvmSxQ2H3tJmV9cuaxWhnVtWJGFKwvZktfsE0Q3ktVI/F61ka5jkjTUpgEgafA3Cw0CNB7XS8hFNzaWj3ya1R1",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmj6Hl3r7lwbBpMjJ5ubCEal2CuvwkclwsRi1mMrtBDAyssVrYixZepWArJ91Feu9rk=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTroD5pJc1p5jh5hd/DuTlax24dwUtFXl3G+ScYUcNxm2A=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpt5Dsl1cbvbDeUjPOe5+bmEEApRSNJj43hSCSwlOZymg==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "NICK JR",
         "ico": "https://panelssh.com.ar/Local/ext/Img/nick_jr_2024.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfp7fozUsdEn6ipm5mY4AfsQzyQToVR/DCjU5lAYG05w/UaJ3ewbsrcpT08MoMB17SfNi9zL/gN2jOpnoR69wWVW",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmg1aa/w82o2v8BhQkUrlAbJX1cj0/a0dnARVMclp/Pi0IWqs89qQqXchWwFss8+oWo=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTodStjkHs8Ia4kGQrb+IIbfDLw6AKnz+UBCUn5w9wJbXQ=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrlXAktaSNwkvQCZa0S1UdXsKVIk+ibfeO+8yA9OXvTKg==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "BABY TV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/babytv.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqacEUbyXa+ohrbnhS19wWwUkUgYMx7I8Mm4Kn72t9wveFPx0eeMvvaGRkzLlZruFI=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLejhehVYhldb1ETegD1utMh7thNDAq0sF11oKFM34PkliF+6wX//ZU0lUc+cPApSTNdA=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrCpUOtcb0RFK3lRAaPotNE85mhQbk+/2y18pDeimJXcw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrCpUOtcb0RFK3lRAaPotNEzXGAYfQVccFsgSiT701V9Q==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TOONCAST",
         "ico": "https://panelssh.com.ar/Local/ext/Img/tooncast.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqBtP/m2kj15cBB2peKytIDCjI6VRQ6vkXWFbRHFvVOzFJFhJMW22e1pms3L/V7tuSwfYZw4K7hwS8HYUAk4MC8",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjk25Dz0mXNg1nUSbRNjz0eMsI7AI8XlH6H1DbHSLcY2mPyzrxvag8SW5P3DbbOyLM=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp7rK1IDQCHEu5Vwu5YWqgfuMYAo0xuYbnJPtFyQ9lOtw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp7rK1IDQCHEu5Vwu5YWqgfxoWQkAGc3TA/+fqhebn+ew==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "PAKA PAKA",
         "ico": "https://panelssh.com.ar/Local/ext/Img/pakapaka.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrhwC2uwBB2goIrR4Ic3iJDNu8cTMGvPaaG/Smpjv1G5D0j8v2bjg8adWX22fldbziBoTCxR5h2TFd4b35gkv/5",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmi8IK0b/hoV9lVjPa2h6hAPzSTZm+LsCc8cDX1Bw+4c3K7bHfquE/3XGBOo0KJv7nE=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTr7xyvNeeVQ5XxXnWn0J9nOEqchwlqncoBW9SKCwvY5Vg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTr7xyvNeeVQ5XxXnWn0J9nO6o4ItCP4h/vumeuT//LgFA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   },
