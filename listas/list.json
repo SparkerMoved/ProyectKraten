@@ -487,13 +487,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "DAZN F1",
-        "ico": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
-        "uri": "kvG/iBInIgNCMc7estdAJ0WMwJRBSc2YVNU7FhE10TQMuT1XBuyQkpz0V2a1rF/kPtuUwP6zCsKkIslZpmkpD4H+jlMEHEaz6H0SO6n00DnW4xOweRhxY+traKIEqQ76Wm62c/M6Afln/sXAR2ft6JtHafyL1LeuZ1sp6OR0Xjc=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDaDLA4sYgE0BrRD/eUc63LrOaEQqFfN4vvuNkiEsTYayk7g8IOncUOPaye93eXCjw5iHZ5VNfXDlwNaX/on5U0rqa4mHjLoLtbwxUM8wYNtrFaxo9SsGkM5ktTC6hOXMuQ=="
-      },
-      {
         "name": "ESPN PREMIUM",
         "ico": "https://panelssh.com.ar/Local/ext/Img/espnpremium.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5FhoepDA0mFlVqgmZhzNkl8qz0D7B9E20DIx2cFwxp9fA==",
@@ -577,30 +570,38 @@
       {
         "name": "FOX SPORTS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/pruebafox.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfr/phB+QU42ykQ0KnReVTesLxLH+phCZa4W/JW/OdT7jB2qYsplrK9HBgtBjrlCbn3d0QWpHkXqzxydI56JNe1E",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmgPlqpjDb4g9O5m64JQT5Pb5G7HvkflxOPXIP83Neu8Dr12NB0b8fNis1VKJYEaS6A=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpQeH4g/sX0OScnS54bhBzXj/TiIr9zJAKkso5yBVg7Gw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpQeH4g/sX0OScnS54bhBzX8nU9+YBaUhHhGJ0rvgp+2A==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "FOX SPORTS 2",
         "ico": "https://panelssh.com.ar/Local/ext/Img/foxsports2.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfr/phB+QU42ykQ0KnReVTesM2XuDEb4QfPe1aGB4GYZ+5SWfoSVlxgAARXD/Co4eTEfbMCSIFpHRsRfhonyGb9Q",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmhykW7XyTRuu1PcHU2SCJ6ncLrHKzM70o9BMBMG/E6sQOoxIAXXuSTTGzPluVuZzow=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpQeH4g/sX0OScnS54bhBzXjkK+A0ykLaFQrlSRjH5ygw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpQeH4g/sX0OScnS54bhBzXu6CYAhZkeBfuew40apCADA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "FOX SPORTS 3",
         "ico": "https://panelssh.com.ar/Local/ext/Img/foxsports3.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfr/phB+QU42ykQ0KnReVTes6Mt+RVwtTNaqdSU8W9WN5VdIjIDh2PQBMDG8NyzTVrA0P1ajykopV6VxwYb+gbjK",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmhD8qZHepaZXAe47E5+Ag6gknU4gAJbZAWm++fRXAiUaGf5BZek4hv9tqhuCuGrd8Y=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpQeH4g/sX0OScnS54bhBzXOAKp8ARRuNJu+eejeZt5Ow=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpQeH4g/sX0OScnS54bhBzXoGdGjsadSQUrOTGNcRoHbA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TYC SPORTS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/tycsports.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoJfFya5o66LE2cVwwW/av+j1TePsNKLfPobIl0CMiWoKcpdFQp2yHWKhxowKexdxVjoeoMc2c82nbgU97Q+t1z",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmgar9SY7TQtcR1kYsUzp0GOW8ERt+64uF5mHP8S7yjQJfwA4Pwb4LTlamg6ZqnY/ig=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqAUQtski7V6D4c+smH9ekzymQFW55qRHtxxfFNb7Y/Bg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqAUQtski7V6D4c+smH9ekzKz8pNhtNY5K0VrrBN77jrA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TYC SPORTS",
@@ -620,9 +621,11 @@
       {
         "name": "DEPORTV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/deportv.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqVTu5jqd2RweAcHJ6xoibRgW38r4x67LfGL9tdicsmzHGyJjvgTQ6MyAPY8vHc7yD8ICVu+axP5x0TS7GNjaxB",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmhZuwjSm/OLVvoeEjtojPmGb12+XmSrsTS9k5GB8PxkujVD74NNL4ZC1tZ+ib+gvlY=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTofEo6KMXqYLXSotIlGcUDAVEmiGv2xxqHq+Tqa54Ax9A=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTofEo6KMXqYLXSotIlGcUDAUv5dokFx1MpaDjyzOPcsfg==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "VTV",
@@ -641,9 +644,11 @@
       {
         "name": "EL GARAGE",
         "ico": "https://panelssh.com.ar/Local/ext/Img/elgaragetv.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfq5x6glVKNjTL7fh5LWiWDpybnn1AYLXt4WplLPcVCCdjdcupiz0OCoF7VtCZVykE8G25tP+1ZcbEJ3W+p2Ob/J",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmi0fxGAITorIXWI+4RY+0x1F92BFosXZIfJ4wbExLGun4Ao3Yg+j/4Y85zffdR4gI8=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqsOFrwoeJg64Q5v41UicvgvjrxerrrSVAs8qkfFX8XOA=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqsOFrwoeJg64Q5v41Uicvg2/DsOVL203zKPKG1nSqd3Q==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "GOLF CHANNEL",
@@ -662,16 +667,20 @@
       {
         "name": "AMERICA SPORTS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/americasports.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfpXV7wAEbFGzJ9cxhtt+U1nCV7rODa7oSZJCdFN1a5qDV1ky4+wh6NsTOo5pdcp0XXeWRcAfQvwbmEWALQ/xZZ+",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmiP7rfD3ADuIFBpgHE8WDYguVN+H3zw/mnlV7lV+Hd557ORFVmzpDa6/dLjk25Ehh4=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToXKfUbCEL1AYeujIN5+pfgAt6pV/RJ7fSVTjiaucxxwA=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToXKfUbCEL1AYeujIN5+pfgEshXWaWyU8UI7qRJk4a/pL75wx7eePi2mMq2M5Q+ELQ=",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "PX SPORTS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/pxsports.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfq6jrN+x5hInbk0Ri6fJtIyGIttmK2NBpp6hbGXkD4MXKlQBvqtF5RTDs4cmLCKd2OGb/53PdcDRoLD4as4P0i5",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLejhP5ZQEB3Svh1n2EOQ3tT7SyCzgnYz7WRHEYz73D3q0o/V6bzw0tY7xR313acaAD74=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTr/RsnWAGBdOrult8zsbHpLnpptUujcou4sbTyGrztgEA=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTr/RsnWAGBdOrult8zsbHpLMur/0jvlrtCXRM4IZ7RetQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TYC SPORT PLAY 1",
