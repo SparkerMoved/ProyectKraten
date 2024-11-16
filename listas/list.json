@@ -1121,14 +1121,18 @@
         "ico": "https://panelssh.com.ar/Local/ext/Img/ivc.png",
         "uri": "csfhq11XuXExsDh9L5FHdAfnJwQHWNHhJ6as4AFOxFeDh4Hqv9zes/y+VdJli6ey",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo36tk9NuYCdXS2ZGMkdZDaZ5PPYGuBLGEkTPwNZdlcjw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo36tk9NuYCdXS2ZGMkdZDaZ5PPYGuBLGEkTPwNZdlcjw==",
+        "referer": "https://www.directvgo.com/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CINE LATINO",
         "ico": "https://panelssh.com.ar/Local/ext/Img/cine_latino.png",
         "uri": "Y+ohEi9P7fudMMlucU553EsPxZt6qyDyT3OSbbD6yVuyeMB2GTrfb33u1rM4sCO2lbema8fRzqGRh2CU5G8sOQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTq8HMpFd+1BioeX+qSgoVHQyfOnhZHV+EC9q/8Mnuq7WA=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTq8HMpFd+1BioeX+qSgoVHQyfOnhZHV+EC9q/8Mnuq7WA==",
+        "referer": "https://www.directvgo.com/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "USA NETWORK",
