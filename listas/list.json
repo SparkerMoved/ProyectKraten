@@ -780,20 +780,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "PAUL VS TYSON",
-        "ico": "https://s1.elespanol.com/2024/11/15/deportes/otros-deportes/901420837_250920381_1706x960.jpg",
-        "uri": "cOczQ2oB5H0/nAqHr9McfCfZe4u4rsTnEAhx+gxseHOPkRxDu2qpa0wZYpi7ar0b",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PAUL VS TYSON",
-        "ico": "https://s1.elespanol.com/2024/11/15/deportes/otros-deportes/901420837_250920381_1706x960.jpg",
-        "uri": "cOczQ2oB5H0/nAqHr9McfD1DJqGh19NRnuQXv0zNVjAyYYyzVArimKatH9HFu8VS",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "KRATEN EVENTOS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/kraten_eventos.png",
         "uri": "cOczQ2oB5H0/nAqHr9McfCfZe4u4rsTnEAhx+gxseHOPkRxDu2qpa0wZYpi7ar0b",
@@ -848,6 +834,8 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp8IvzRNrfEncl5mxWpXwJeJY+pMC7XMxF3SqWeU+4frg==",
         "referer": "https://web.app.flow.com.ar/",
+        "origin": "https://web.app.flow.com.ar",
+        "host": "cdn.cvattv.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
