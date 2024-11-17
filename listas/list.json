@@ -1547,6 +1547,15 @@
       {
         "name": "KANAL D DRAMA",
         "ico": "https://panelssh.com.ar/Local/ext/Img/canalddrama.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmiv7BrScYwhGmq8zfTrx25HyD/mgBTxha/bJYFotC1NSB1cIcyaWcL4sHN24e+qlD8=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrp1N9MaIyItymjcRIg2D9UFfflPilVOIVduK7AffLZB/mtBRaI/7x59pH62cPPtpo=",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "KANAL D DRAMA",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/canalddrama.png",
         "uri": "yoCJeVXLnheaLCe6O+lBgMxS8MXqYCleuaiOkxW6fbWqC/KsbTGD9v3q90PhK6S3KlgEj3aesIOjAhIXI84F5mIKDGgFw4lNYywfqNOvg5CLzQPDZIpVL26lzJUS/1zVKCbVHPzRwmLVAYLLpLZ4Ng==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -1554,9 +1563,11 @@
       {
         "name": "TNT NOVELAS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/tntnovelas.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrw5xs9bKwVQq+m+uCcVdrzEPisczgyOvbXeUq0ypGKuDxmYY8i1DWmuWaNqOowCJI=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmhMfFDMlGVIcIjfETONt7pVc0jLSEwpuMeQcCM0+UJOww==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpcaeLNUIajXl2asT90PVAsdc4WCa4gCVjHpqnSslnd4w=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpcaeLNUIajXl2asT90PVAsyGuV8+SV8Oh2PEdK1xvikA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TELEVISA",
@@ -1589,18 +1600,13 @@
         "drm_license_url": ""
       },
       {
-        "name": "SONY COMEDIAS",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/sonycomedias2.png",
-        "uri": "ECCvcgINOOcTDSFfwhJQ9u+LKOv0Zxxec6D4belUAXDEWfwJhLHLQxkXCAsTp1mUMLeoHxW2diStrGVProq5hg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "CANAL DE LAS ESTRELLAS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/canaldelasestrellas.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnzN59yFRlBEn3R1G9NpOX+7Uj2CRjIqaxX0l5dNhh12yztVpwS5JVunrNbMfu0rIfQm4lCwXC2XGAA4DFo6SLgLA==",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjKDQSLNzBZZi1pgOq/3444WolyVOXZPVO8D7erJh4nqh7bgLJ/i1xmLTwzSjcndVQ=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTokiV5r+ibgkC5ZWqqSus1A5nA8uVuILIOla0Q7lX+yj4eEdvcgI/eyZZlIrknTAlE="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTokiV5r+ibgkC5ZWqqSus1AJ/O2MTCIMCEc1FxMMK+qvlne7eggk2VgwwVObxKb+Oo=",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "PASIONES",
@@ -1612,24 +1618,20 @@
       {
         "name": "TLNOVELAS",
         "ico": "https://panelssh.com.ar/Local/ext/Img/tlnovelasnew.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweJyOi6WUzztihX/mi6DNe/3Myvj/o/r7khHGu5a0HPKqpkt/Z4qtWvgqHAicpcwUKmOFAsv2t0a+uVeHLo7FdX",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpS4Hcr/dYvMWyCcGausXgNXtRIDSnIDBj2LlTd/N4wXg=="
-      },
-      {
-        "name": "TLNOVELAS",
-        "ico": "https://panelssh.com.ar/Local/ext/Img/tlnovelasnew.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmijQw9Ex5VQ+wO6XxzgLRRjPLFYNhvAw66FZ3PPnO0Ix8qgz5zcuyj90WHMwNuP5Xw=",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpS4Hcr/dYvMWyCcGausXgNdKU25qxbeUEoOOVgvFmxHw==",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "ADULT SWIM",
         "ico": "https://panelssh.com.ar/Local/ext/Img/adult_swim.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoM2duOQ8HLdx8rSI39pdfJcPfTMHk+qWdDKJxxidASvReLy6zsroIjJXe+3vpMsWNpJZrg25LaQVAwNjAaJUpS",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmj19LMLIGSwl7WsWs3rRBS0XGFlGg9FlKk9a6kS8FGKyQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTr+KDH2V3PT9CGphzfk5EJvJJecav4gQdP7+yQzG/xxSg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpBv2QTLacYlPni8vwaK0uc9TF/uhkT9vYl02UNA3WwDg==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CANAL A",
@@ -1641,44 +1643,56 @@
       {
         "name": "BRAVO TV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/newbravotv.png",
-        "uri": "XEe+ZHN41HID+xO3pfI/qeO+FGtExLDUkRf3NoZYkM1XraF+4bnAlhvU9TSigNtGvzeC9Jcakvgyg7c+1tWZeZ5MftnWKD9a84bKzCmokvw=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5HSMj5h4KjqaPhNVGu6NGBAxoEPHkRmBCzjNj6FHkdP7g==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqgrkKZHsJAhHoOSqQQtwmmsJ2JJCqUyzm2wcX7h86LRQ=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqgrkKZHsJAhHoOSqQQtwmmrkf9GW7G+FD6TDuzjqImUg==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CANAL LUZ",
         "ico": "https://panelssh.com.ar/Local/ext/Img/canalluz.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrXOBhDJFhYpEHc3w5B6EkZQLOTe3Msw7quZeDwODNqcGmKwaDoKXg5AluyGBBt0XQqH50bUw79+M/pWGZY2dH0",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmgSViFk91+PlNo6NqRQaXZsT8zCeTUZFLopWCuz1Is6b7UDBHDe92XmM48NNh5AWHI=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTooGB3RLcr6EUr3XilWJfG7UtjsFunKdylH2P/G7cp//A=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTooGB3RLcr6EUr3XilWJfG7nr62gKvnjMSlpahMTt7lbw==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CIUDAD MAGAZINE",
         "ico": "https://panelssh.com.ar/Local/ext/Img/ciudadmagazine.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrDRLBQBVj04sQKsKw7cE+ACAe2bJhyBCR/gZUgwVcossMHBovidjnKXrlk9Dgx9Z/Qq/v3Lo3/xZ1bcSq4CViG",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmhk4OKjNfNYjl6LD5P8jpXCy218GLy5JHkjSluUdeghfSLGKCXHjlOoyt3JLT/lO3NabL5i58i45RSrHHtnYSKP",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp64+mXyWtd3Fp4oygoOx8uO9WHcoRvYYvEhVkoRa7P8g=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp64+mXyWtd3Fp4oygoOx8uVAb0yezqh+nB+pExrcilyEDcD8KapGJ7zx7sxbfcoKM=",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "E!",
         "ico": "https://panelssh.com.ar/Local/ext/Img/canale.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfpBnntu0w2OdBAjLbm3SR4pSyRnlNkVXKNWsgZeZiSldv0f1qAYLf51bMrZJ0Sthce6ImwXcCX4qO0/pZ//srpeh+434w3eIo2oiFxyqt6InecQ0eFag2b0wBryqTUj1OY=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmglx5FI5OA6BtNFAotGlZWr2c4hfoLGGWIUlBkZIs75vIz7TGekIjgjqRRB03FiQHo=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToMy+VMM7afZwTsvPnviiiixObtQR9Ugk07DXWZE4kXSg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrwZuOUFngrWb1ALzWxd3s7nhxa4AprXhZmkxCrgFsJ1A==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "EURO CHANNEL",
         "ico": "https://panelssh.com.ar/Local/ext/Img/eurochannel.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfplb76JawBBhWJA5ANbyRWgUUiLhHCe1Jc+y3E5aRDyEaYrYYiGIl/WSPLNFkD8o16LBmMkIjjyb/SNUw6g2Eaj",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5Hq6cR1ln3H6VkPhdO7NLR9j5sPLZv/h7DEFJp1j4Gm3A==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrEvCHEYjxeKbMghIJ+ujDVagLxF8SL+JAYcA1md9O4pQ=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrEvCHEYjxeKbMghIJ+ujDV2HxqGIXzTpjZ6iJ5ceqh78X9hjur+D/bDUyS4PkPgQc=",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "EWTN",
         "ico": "https://panelssh.com.ar/Local/ext/Img/ewtn.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfpYU6vuMrV5/hCIl/YJuoElD2EqwMHDGH4DrcbQDY3hTgJIRMnigsL5VoxCi9XGMqo=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmhTTe0egLLpbI7ACiQhi809m2gPb1UmSu3AuQL1+IO8xw==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrrJwSoKTsmQcbEhI2vovlSjM+HxK9St6LrFIGUDxpdtg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTprImuTPr2IGSe1Q1D3uL/Jv+DyeowgA4W39ojozZuMNg==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "FOOD NETWORK",
@@ -1686,6 +1700,15 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfpD2ya5CkV0+5ELrelJ93a2O3VVG2ZS3NxASCuXhBgMzfiOPlXbAHjOyroJpLpZz+HVclVuuQhWlY4yDlpemy2J",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpMtqKMpEHnA6BahwHf3Ct5O5QmqnhomIyf2KZkIDgviA=="
+      },
+      {
+        "name": "FOOD NETWORK",
+        "ico": "https://panelssh.com.ar/Local/ext/Img/foodnetwork.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjvb/5ioplWZV/YmKx7Lp1a8lunSRLldPEjOta7kKUCbSiQGUh/6n+nhzGO0FDaU/A=",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "HOLA TV",
@@ -1704,16 +1727,20 @@
       {
         "name": "LIFETIME",
         "ico": "https://panelssh.com.ar/Local/ext/Img/lifetime.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrJmo4vNo3rcsEv1P1NyHrdcJJzDOfcBa4hzOEmq924Ctx6xCy//u27ShQqUi6BiynAPRr2T9V/ZNF6hEHG67sG",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmi/Nm4yOxfzbpC2RAimGYWGyQENsQdlZUVxagk6B04vldYBG7m7Y1gHfCVBnEL61rM=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpUznDf/kOAx4gZi0Mn9bDhI1ge/s9E9xKsLS4AFuQdPg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpUznDf/kOAx4gZi0Mn9bDh31eHBLS/QBAiTPZg+8cXNA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "MAS CHIC",
         "ico": "https://panelssh.com.ar/Local/ext/Img/maschic.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfotU6TSKJ+R3WzWnmD0aRFik/wXWklTvkgC13kWc/lJQ+tpVm3ouT0O/4JOcyzTp/BWpOgpZjwxdxGtrx5AHFKh",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmihh13zv1O5hMuC9l0XbFbucXi1fJQtM/lVwn+9QgCojAFT4IkAlBR6sZ+U0+lG3NU=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqvW2E5sbfxtV/TxgTSNM6fjqoRjjyjqxZNKmKZ3Vt12Q=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqvW2E5sbfxtV/TxgTSNM6fXNbD7H/7FEEAGXeWxK2cxg==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "METRO",
