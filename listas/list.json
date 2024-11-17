@@ -1789,7 +1789,8 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjG8XhV4748ADfQGrWSYOXbZ0UCTSIj3aiVExgBSV9OFdax8y/bEYjc4SdT4iV4YjM=",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqBfD6S2C4icliHGXp5F2XJKGm9wf9HvsVbfERrxzf62g==",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "BILLBOARD AR",
@@ -1797,7 +1798,8 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmgy+j6/3S6IOeWeC6wfXLBO2esGr0ynPrhnf29tsllXIGl+btdo4I2MwtU4FFO6DXg==",
         "drm_scheme": "",
         "drm_license_url": "",
-        "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "FLOW MUSIC",
@@ -1811,7 +1813,8 @@
         "ico": "https://www.canal26.com/images/open-graph/musictop_logo.png",
         "uri": "+AlR3lkO2Nn7SOaJeeB97p1GlAeda3P+J6ML38HWwOzWBZ+FDXJNVQuy5TTaoUsf7zulOHwK3YavTlnT5VZVUw==",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "NICK MUSIC",
@@ -1823,23 +1826,29 @@
       {
         "name": "QUIERO TV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/QUIERO_TV.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfpiy/Hj/+gDOkoU6s0y5LM70ZgcSpy0mTOV4jqcFhl4q/hG5Fc8HyIPurnrUtCDJM6rB8jtjtPtHdkLilsm228P",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmiUku1w19tdYJcJMsEIVieuYb/8Q4R3M0FfTIq/6l3lKlqa8T70lKPVEHoi26uQAow=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTri5b5p7uRBNsqdqjHsbfBOSKpkgjUvDHWxrPi+WRzs6Q=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTri5b5p7uRBNsqdqjHsbfBOCVjH3h7Fs5MTpxPtgpZrhg==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "HTV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/H_TV.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfo227/M1uy+rwphVlX1wOUkSOWOKwz7TXR7wM7evcddHcw1LvJwhOu9M5Pu84SAdWw=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmiDSWzdFb7Pld9gKmd8hR5WIFtZiU4IqctjjuFwHvHSow==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTodvYHyOgQoQQSqLc72vwdcaHlOYEsNar/46WWACGiSqg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqd+Tj94peayECUZ6VmO4WWQ48d5+5wPIJVOK8fDO3pSA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "MTV",
         "ico": "https://panelssh.com.ar/Local/ext/Img/MTV.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfotRrcm9RiBAPHx0FAU7KvTahTDmdaE1iFabfTLhoo+pngROwSkeWNW6nnp7+21gfk=",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjiM9Qvzed/YIUFpN11l53h4b2ek4d/FAxfmMPLJzrqlQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTofaOfA7x8T4CT9jxRH2QaNkaNoZbGXAGlnX7WxdA2fqw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToFmnvVLpbvQSU2Q4hIDXN86ektWiNqKHa44XQuH+4ucQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "MTV HITS",
@@ -1892,10 +1901,12 @@
       },
       {
         "name": "ALLEGRO HD",
-        "ico": "https://static.flow.com.ar/images/7277/CH_LOGO/350/500/0/0/75476816073439.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoUv5oNzYJElX6JyxUTC6XdkRqiE/Qb5Q1OJdV4Uc9Sl6bKVV7M5nd4ujCN6xpnb67RLWJqVxPlW1/5zzLNMPbI",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqFr8JFFTqP238uexs6pHT/RADEhBJcXkWpBFaK5SNvUA=="
+        "ico": "https://geo.edge.pontiscloud.com:9002/images/3602/CH_LOGO/1080/720/0/0/14066743073439.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5HWqvu2Ft4dKUkh7W0MwiaTZs6OAGM2fdUlr3zeeGqtbw==",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   },
