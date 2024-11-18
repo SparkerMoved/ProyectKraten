@@ -1802,6 +1802,15 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
+        "name": "MIMUSICA REGGAETON",
+        "ico": "https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/1080/720/0/0/11385912076761.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmit91DuvK+d5jbR+BZnLeji4hgR85So+vGr83+/cQZt5px3r9wRl7HFdiQvXrPy2b4c82RS+iRDt9oH+O6pRAR6m3K3fKqpvRjKCKQAEEKaS",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTr/NrLd9AZ90mjLd2yA7NzKW1GUdN4oI8yDa34NGco8iKGbtvaSFkhxW7MOBHToIvU=",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "FLOW MUSIC",
         "ico": "https://panelssh.com.ar/Local/ext/Img/605.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkTNu3zQkQwEsJ5J5gsD9SmdyZ2/e8gjhTqUR0vXv3fxNrJ8LjKfTjRY0hN9e0uXPa",
@@ -1847,6 +1856,15 @@
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjiM9Qvzed/YIUFpN11l53h4b2ek4d/FAxfmMPLJzrqlQ==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToFmnvVLpbvQSU2Q4hIDXN86ektWiNqKHa44XQuH+4ucQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "MTV LIVE",
+        "ico": "https://geo.edge.pontiscloud.com:9002/images/864/CH_LOGO/1080/720/0/0/71442745071244.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmiD5m8OLlVHtcEAFO5j1QAvy4pFDlvexZt1GPu//NINMfrb1++19QIVukIul7hB4RM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqt/2ApdnKw4Qj1xzmQFD1meSsooji1UxO1Qi5fdZJ5JQ==",
         "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
