@@ -879,7 +879,9 @@
         "ico": "https://panelssh.com.ar/Local/ext/Img/newdreamworks.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqSRzHmOXTV1gq06dPlLZLI3w6K637HRHm2V8+Do3myn15upBXh5qZzoLLIovEyEjLXl9pFV0lo3dq+fVIzfP2k",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpsQFeVTDc+Dsb6RQJ64mZhLwEI8fnR39wpSigKtjqdQg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpsQFeVTDc+Dsb6RQJ64mZhLwEI8fnR39wpSigKtjqdQg==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CARTOONITO",
@@ -1053,35 +1055,45 @@
         "ico": "https://panelssh.com.ar/Local/ext/Img/universalcinema.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsxj2ol45XXXDTAUznL5ZxXljtos71W8YSCd8zBt6XokridImgBMdGDEvFQMmVuWuOs+8ZMCCQOSJ47wtxBBrc+A==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp3rXSq3se7SI4lBwbhzPAFHQ4kMei3nC7B3+OXUHdFrw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp3rXSq3se7SI4lBwbhzPAFHQ4kMei3nC7B3+OXUHdFrw==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "UNIVERSAL COMEDY",
         "ico": "https://panelssh.com.ar/Local/ext/Img/universalcomedy.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsXRtSmFObWGlJ3hapAL2ZYXVict2LN7IIUez5VPsobysiCP+an4vOQvGVyz7dGTdKe7Xj8rT07h0PCoXj1Iw0gQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToqIWU8a0RptgHynDqB8QFVRe5wXgVUl//RnpbZ9/KLyQ=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToqIWU8a0RptgHynDqB8QFVRe5wXgVUl//RnpbZ9/KLyQ==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "UNIVERSAL CRIME",
         "ico": "https://panelssh.com.ar/Local/ext/Img/universalcrime.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfonpbIb+O4grvRbtAom7GhDnM8ZKSb3UPdyc90t+S7pxI4lLUPSXwYzXK2YLwh0KPd1j1kPcnjwV+4bTb6uWoB57XUrbb38PutGgcaNe1WsXw==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqi/KnuAPzbk8GTTtRsm60oWNpv79mpWXubkvG4FMf3wg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqi/KnuAPzbk8GTTtRsm60oWNpv79mpWXubkvG4FMf3wg==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "ico": "https://panelssh.com.ar/Local/ext/Img/universalpremiere.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsjhWYAEI+vmvE1sI61ergg4BtOZVgqFj1b/pztgQMemnHXBhaObC5AtRfGZhJHbC3vIN5/W49gWRji8176P+I9w==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrM2IV9QOA1YUDW/Zub/fykHC+TPdy8E7xy17ljAODsYw=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrM2IV9QOA1YUDW/Zub/fykHC+TPdy8E7xy17ljAODsYw==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "UNIVERSAL REALITY",
         "ico": "https://panelssh.com.ar/Local/ext/Img/universalreality.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsgttHWMCfL7CAaxJxU21+pCQG902DoDcwJMcNM1FpzTzUAUChBG+eiIV6ld/5vrl/ZtwhlRSqtg1uJzB37X2GVg==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpCI3fZNhw1q7Iuwu7eKPkFyeVoaQOoMjGFsMekCIJTJg=="
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpCI3fZNhw1q7Iuwu7eKPkFyeVoaQOoMjGFsMekCIJTJg==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   },
