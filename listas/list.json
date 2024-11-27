@@ -1250,13 +1250,12 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "UNIVERSAL CINEMA test1",
+        "name": "UNIVERSAL CINEMA TEST",
         "ico": "https://br.maxvps.top/images/universalcinema.png",
-        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPn4k2SWGrDpeiRCUik0W3Kyo25Uzbvzgc8AWAEZHuWqGS3+D/o2VxIVjyDlRdHinepQfdOSA6deO+xDIR3OmP92A==",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPn4k2SWGrDpeiRCUik0W3Kyo25Uzbvzgc8AWAEZHuWqGS3+D/o2VxIVjyDlRdHinepcDQnuMu6OqF3tY20/d1NDZTLRXRlmAIrop/bYQDOmHSNomT/FsfT32zlEcV8hKmJhd3WmR5MIBZ0L0X5i3qlwEVEKmW03jo90bbeCy03oZQ=",
         "drm_scheme": "clearkey",
         "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDTsBU2iI0GJFRNroHd73jLDWuBVoPkPACu+POLLjJSR1Ps7iQaV67i4ddRBaTI4f7lTETue3sCi6caU79naSuguRnocUjNiSifYFzWjouyrLxoPPW+BH4mTd8OSohzuwhg==",
-        "origin": "https://nowtv.express.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "referer": "https://nowtv.express.com.ar/"
       },
       {
         "name": "UNIVERSAL COMEDY",
