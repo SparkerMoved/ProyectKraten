@@ -1250,12 +1250,12 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "UNIVERSAL CINEMA test",
+        "name": "UNIVERSAL CINEMA test1",
         "ico": "https://br.maxvps.top/images/universalcinema.png",
         "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPn4k2SWGrDpeiRCUik0W3Kyo25Uzbvzgc8AWAEZHuWqGS3+D/o2VxIVjyDlRdHinepQfdOSA6deO+xDIR3OmP92A==",
         "drm_scheme": "clearkey",
         "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDTsBU2iI0GJFRNroHd73jLDWuBVoPkPACu+POLLjJSR1Ps7iQaV67i4ddRBaTI4f7lTETue3sCi6caU79naSuguRnocUjNiSifYFzWjouyrLxoPPW+BH4mTd8OSohzuwhg==",
-        "referer": "https://nowtv.express.com.ar/",
+        "origin": "https://nowtv.express.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1268,12 +1268,12 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "UNIVERSAL COMEDY TEST",
+        "name": "UNIVERSAL COMEDY TEST1",
         "ico": "https://br.maxvps.top/images/universalcomedy.png",
         "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPne8RwTxu7BQ3DSII8UXuIN//u87+ZgW3uzQ1zCcUcKOVTQ+XIIYFr4+AjsxqvXlmS0Z3pN9d8mQ3lEt//nYKhrg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDXC71ZjxGBVtzxoSM+ETrTlcthA1NWL0SRMO/nAQaGL3ai6uCSLfstGK7vzmtjXu+0+ifDqY+b9MYAbOqBK8G9mZ3tZZwgFW2lBtxu1uk6jvlsS0b2juWrQWAv6JRuGwxA==",
-        "referer": "https://nowtv.express.com.ar/",
+        "origin": "https://nowtv.express.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
