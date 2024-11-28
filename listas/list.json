@@ -6,10 +6,28 @@
       {
         "name": "AMERICA TV",
         "ico": "https://br.maxvps.top/images/americatv.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrf9yO6NqoDTUnWFfa9jxxJeg/ZXekY1oFOkvkIuPXRNnU3FsNWQvknnxgtpi+9H9Zf3idnq4nUm1L9dZ5/kFpy",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDZBdNHcBtstHMS59Ug8WjuilLl74MOC0XC1pmJdYvNGgZL77CJYiVrj+kRJSF7Ozla72ExYGIU6DHPslbmRZlh+KvqSZj8K6Kty5VC1YlFOAY/wjJa8q0jxyWaRYOk9hAw==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "AMERICA TV",
+        "ico": "https://br.maxvps.top/images/americatv.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjG/maGqi5htQSuamDBeGYaK6T72idlLHzPpP6sUwszwCuhaepYXsggkyZYSZVuRoU=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToXKfUbCEL1AYeujIN5+pfgVXSfjaEtrs2IYe4z78EpBA==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDabPYdJE46Zgt4/7nyGUo1aGlZxfbeyy4TdnUx64vh8jYCfNrlX3PjqYEXlYCD6EPnJXX8tbva8+mwyH7FD4R7j2FupaucwDVKKZCVdowZdCH0jYcDWYV6efuctqGa5nJw==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TV PUBLICA",
+        "ico": "https://br.maxvps.top/images/TVP.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnzgqfRzPWahPwTJa7FHrLWagK5EBjGBDJjZVc3ejxnW74=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDXRPwO7gIHhxl3vC2y23GzBAuzu5dpIpmveNPWTphH68RaFiDtNnHZX4suL2QHn74suKmhdGCpR1WoV9PL9C1L5YBwf6fPPLqELMranUd9illyLljH2fEFHzEj1h1ijiSQ==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -17,8 +35,17 @@
         "ico": "https://br.maxvps.top/images/TVP.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmj+gJQkNyRTy1lJbnzE3gI5N8ZbBNrP4Cwu0tFOZrqCp8lUmsgD60m00MYImIOne/c=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpPdqGyonoKBg9E++UxgTfCZllkpw02wrvbW0LzcLFC7w==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDc5i5GhAN1JEaqhdshZjADg5Iak6kwJOfCnYiAD0aN6B3LYsBNbwPFOaaOOrq1CGW1hE31b4wVfZD0wj8MeDEReiGQomk8LsIWoOYZ7Q0JwSThOg3emQalwjjIIe5tGaCQ==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "CANAL 9",
+        "ico": "https://br.maxvps.top/images/canal9.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrA96okrZ9SFAfSjm5NAW1MXiSG6rNnQ5pk6biSu45Qf+uAcM4CiezfveXiWn73Aa4=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDe0F16emBn1NE2DMe7izqVq9Qk0kXi2hBIGP+1mx6kXQsixl2Kv0oqoPPJuZP7fepl0P+eNkF7hTDMWaG+siWuvx2aLZv/+RL3pFsD8LsbDSKrSbLT7HhnrXvlch0wE7qw==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -26,8 +53,17 @@
         "ico": "https://br.maxvps.top/images/canal9.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmi2VaTqRiQj1uIITRCtRzEiIwyyU8tHFELLAYxKGxbX9DckNCsRsHl4OykVnVs7K1s=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqsbHJ6hcA1LvL7ErSEJ+5/EmGPXZElJqgfgPy0BRBqXA==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDbDK0PTEsbDho8Re8Cn9+T8IjbOXkFy8MEqDX18iiR6GwiXdFX6DhmBuaiioYO96YT2ghtXANKdGfG9zzhcYWoAg8u7a/MvC2csyG4CuQUWpljEt6EUv1BpBPSq/RS/eZQ==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TELEFE",
+        "ico": "https://br.maxvps.top/images/telefe.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrjNtJ9w+0p77ZXI1IfkWpGx9PoxNXFq1jokPUueR6b21tNh/QASn/mGgUH24OHpd9ySasoFlUyAsP2rgR+KjFj",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDeZfbfutYU3RkPgLyuki+GNzN/SEqk8aNamZKK5j6WWWDYaqtaWf4gOMPWj/aspRrw3FPwrKarzW9UmHPuRfyhLFdU5SbWjcsucQvY278pDo3z1hYugpppSaQStDMI9G4Q==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -35,7 +71,7 @@
         "ico": "https://br.maxvps.top/images/telefe.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmiowitjfgO4Ujmma+Ugu+EZfXYTXfwEYo7vHEd+DLDGtT8HhT1JS0iqDLWd226Bvjo=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTogi+R+I2PQTJDKOnlk/BmSfB1Ei0EFkgAZhbCLec93Ew==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDW08Vxy/ZAxDtsresVn5e5xs+XqgQvi53kUAJ2WjWiAL8aduKyzKKnvXGfF0EeIHVplBQ2Nj4pceKTASsRb01P5lDSGC9b3QVkhJIR1Qi8k/P7uZy2CG7UFTVxmB6+2xyg==",
         "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
