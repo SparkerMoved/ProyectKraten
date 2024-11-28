@@ -1250,7 +1250,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "UNIVERSAL CINEMA TEST",
+        "name": "UNIVERSAL CINEMA",
         "ico": "https://br.maxvps.top/images/universalcinema.png",
         "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPn4k2SWGrDpeiRCUik0W3Kyo25Uzbvzgc8AWAEZHuWqGS3+D/o2VxIVjyDlRdHinepcDQnuMu6OqF3tY20/d1NDZTLRXRlmAIrop/bYQDOmHSNomT/FsfT32zlEcV8hKmJhd3WmR5MIBZ0L0X5i3qlwEVEKmW03jo90bbeCy03oZQ=",
         "drm_scheme": "clearkey",
@@ -1267,13 +1267,12 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "UNIVERSAL COMEDY TEST1",
+        "name": "UNIVERSAL COMEDY",
         "ico": "https://br.maxvps.top/images/universalcomedy.png",
-        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPne8RwTxu7BQ3DSII8UXuIN//u87+ZgW3uzQ1zCcUcKOVTQ+XIIYFr4+AjsxqvXlmS0Z3pN9d8mQ3lEt//nYKhrg==",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPne8RwTxu7BQ3DSII8UXuIN//u87+ZgW3uzQ1zCcUcKOVTQ+XIIYFr4+AjsxqvXlmSXZ9hNN51+gpqW+5iqzrfuQlINXvNGuzD1OBVAjNd00k6cEHFRXwPXO9pj5ZQ1zOD/4InhARpro97da46d5loJM+ddsWRVNx6q6VRcBeFO3U=",
         "drm_scheme": "clearkey",
         "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDXC71ZjxGBVtzxoSM+ETrTlcthA1NWL0SRMO/nAQaGL3ai6uCSLfstGK7vzmtjXu+0+ifDqY+b9MYAbOqBK8G9mZ3tZZwgFW2lBtxu1uk6jvlsS0b2juWrQWAv6JRuGwxA==",
-        "origin": "https://nowtv.express.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "referer": "https://nowtv.express.com.ar/"
       },
       {
         "name": "UNIVERSAL CRIME",
@@ -1287,7 +1286,7 @@
       {
         "name": "UNIVERSAL CRIME",
         "ico": "https://br.maxvps.top/images/universalcrime.png",
-        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPnlytKm5r54xzi/qZLbfqBqVNFnUDfeQDootBao8FpR/lfY6iJ7AIoD60jTBTEt5cE/AU+5iOze/SziQOiCNcxuA==",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPnlytKm5r54xzi/qZLbfqBqVNFnUDfeQDootBao8FpR/lfY6iJ7AIoD60jTBTEt5cECmabSQjCjrxUpFy/1wqGWLLck6bf38Yl7G3baKZyh6nShiJ5Fe1ULnTSa8XXXlDF/qCmNpFMBwyPjC7tCQhHHzRhkVSuN3rQrzOlK8ZnX8U=",
         "drm_scheme": "clearkey",
         "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDc5uN7ifONoKp6n/ekRACokv3r9vZpNCFXss1OrWUtHW0IQhWPuIJbGG5Y1yYs94BSzHnkXhnEhvEOeDWNRltMKwg6NC9yNbi00YGPwZiTSyivraKZO+hJakAbxXuSAERQ==",
         "referer": "https://nowtv.express.com.ar/"
@@ -1304,7 +1303,7 @@
       {
         "name": "UNIVERSAL PREMIERE",
         "ico": "https://br.maxvps.top/images/universalpremiere.png",
-        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPnXXBlzFofj+rTPydrNZ97p3gzENy+G612K5ANGp7cfcbcQQiBkw8adQm/N93deRxXVEoDVTsxjk4KL540Z+nmag==",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPnXXBlzFofj+rTPydrNZ97p3gzENy+G612K5ANGp7cfcbcQQiBkw8adQm/N93deRxXxZXXpzCjIAwd6LpRt7Fu2Ef2CSM/aX+ggu5GV0HJYJ4k0FZ5a3L9OeDBzk8jwedCl4yB/mpgaNGn9vqj/w8laWKkUVRXDWscu2NAyBnaBAM=",
         "drm_scheme": "clearkey",
         "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDeUyrFmAmtzuxNIEU/ro/ctZUwXmGKacEQQnDhyi6fZmHeImQo9Jch1UD8DXAS55GDBqHfCJrbswjpFoQdpyp4EAlD3is+4aGt5NbpEDCC/kN9vYWl0zeNudmY1cchgGkQ==",
         "referer": "https://nowtv.express.com.ar/"
@@ -1321,7 +1320,7 @@
       {
         "name": "UNIVERSAL REALITY",
         "ico": "https://br.maxvps.top/images/universalreality.png",
-        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPn35Eabc97eRKbgmbbnzRC3zlH533NgSl2FV8ArBE001lZ6mtelUiJXaZU0UEJjJHYOG25n7wjt0XMSVa6r7XIMw==",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPn35Eabc97eRKbgmbbnzRC3zlH533NgSl2FV8ArBE001lZ6mtelUiJXaZU0UEJjJHYqyj1nQjFOb4IbrbYZYzddan3dpYcJ+5nPsWfSVYqXyEJpM0TYXzp8VamfYYEdjz2ELsCr6TQnFG+q1szSajdF6bfJU4zzrPM/bulTmMmzRg=",
         "drm_scheme": "clearkey",
         "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDWJhlo832lGy9g0T595q7PRfBZ2AXhJ1jP+eihHDzoTybINl7CL4qtvzuvJK/Bz3bt8Hlt0DH8F8+hZqAtK0db5dIZcTCVbOzcfudvZeLNrj4+dbRiH3r1hwU9rDhgvCJw==",
         "referer": "https://nowtv.express.com.ar/"
