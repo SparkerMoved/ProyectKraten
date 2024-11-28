@@ -1041,10 +1041,28 @@
       {
         "name": "HBO",
         "ico": "https://br.maxvps.top/images/newhbo.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqcw3pZMiv/1QFYZvws5pTiTh5W4nStN/8MZpXcQieaFnxFKpr5onByBkjS8VK0KBo=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDRT7ufbuNDy0/AyryMHFlLBp9SCCV23UPi+G9D/33deRq8aaY5dGtxyPAE+PkH/6OKcHCcjUmoF7J2NHDJ8GXwBQ+wrQqKR1Ap1zZV/mSMe33BNCaPpuJCK4wvZkEm6Qpg==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO",
+        "ico": "https://br.maxvps.top/images/newhbo.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmii432VJEJANmCud43tlPAy5OojpimWCLdOsjAtAP8E0A==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTq6zSJkayUnrNZq8TZHNQR9eFzO498KKuG2dC0NlIXUyQ==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDU1t4DLQ7IiQ9NonhO/bLte9XGPQfl+HWTnIJltarinmSXJGa0YudaTEQIAuSODhoLeipf1N/t3+O0VWswPVOGSX4O6fHlHUj5euVIc4Mtcsovpug/++HYR5EHglGrHtMA==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO 2",
+        "ico": "https://br.maxvps.top/images/hbo2.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfp62wSm07E1hIzWROzbZg1yG99nVHgiJllUToUgiNQ3C0yzEHUqTEUcYaFdZ3X7hdQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDT2MVMFv9jDxeJ6o77fsZH84hUqBXonkkldvPL4JgfehrPvx7DCaSRTF/wzsFShpAW42GBK+otMRmqEx+C62qsI6quFU7AuWX1rnzJiGzwF5zqXHzkHdAxoIA7wwgm8/eQ==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1052,8 +1070,17 @@
         "ico": "https://br.maxvps.top/images/hbo2.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmiwJYIdVrlW1jsSqlNiqwgBzaV7usUAWxyL6l+ryfaN+A==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo5De/QO/8r/UT1XYytbd1uJuQmav18tk3/eLRwTACHyQ==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDZugXWT28UOeRH01IbAs7ORdVd3IDbte7/1nWhg/GpOIIyitVZ67Ms9eSGZ5sqRWXudvOPV7ZilO7rKoPK5wk3ChCwqAqPlJ1iQ3HgUPvalF52pGNe5R/FCm1OZh57znlQ==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO PLUS",
+        "ico": "https://br.maxvps.top/images/hboplus+.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfp62wSm07E1hIzWROzbZg1y2WwpJyGXUyL9sxyP6YQk2SODN5iwgY0KtAZGgN+t+O0u19Cem2Hb6jAcpD+mAM5G",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDaOehgf9Go/NK4D07TudEZTPZJuDBK4w0DTwmtA66Fae5s4yclOXHxr7g29n9kTXWxV4jHJ5aUuhuzDR1vbJBhG87y8xghi2W5lTuphOQ9LOCgXSRTNmqQ+LGZ9+1cHR8A==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1061,8 +1088,17 @@
         "ico": "https://br.maxvps.top/images/hboplus+.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmgZ2SRBQ7NbEnHh8uwIpkcGg85NqZLEwWN+P0sPsbETJn9F4iPVlbfrcYa/DnkrJUg=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrYvW8uVnF/nbPUjm5gH8XOZ98DtvKnMLb6rsZK+LCCng==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDXU6iweu0pfXK1xJ5mMAu/QwywmAK722gqFbRa3i/XwfQn0Igvp+LZ61Zz4VZGEFQrVISKCIL4R6lYnxIFz+UnIEqagZ2qxwSQ+XI1soPjQdcJPsNi2JvvBe7WKOKwRaIQ==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO MUNDI",
+        "ico": "https://br.maxvps.top/images/hbomundi2.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfp62wSm07E1hIzWROzbZg1yBCOwlQj2lZFzLqpEn0REIBVNsrrJCuhFZGlU1NM2/NBDt6A530yE30JU2+/sUhPc",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDSCHEvYPI8EaLMQFfyEvEO62V8pG7A/wSzNH/5ApIjyLpuhPE0viTcELVrP55pfZrYA/UJUtqSXk1R/4DblUyk2s9N7Kh9OGp+fc+KvooXAC6uCgWlLaxmd1YuiZKWuBbw==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1070,8 +1106,17 @@
         "ico": "https://br.maxvps.top/images/hbomundi2.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmj4+0IzeY+LyJRGIfZEzApOi95G26upMI/dx2a1YX96Nw==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp0Zy5GNbPE22BPNtFpnlr2KUIpwDKs/u/sZrO9mpqjvw==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDX1z6jJx1HsgByRtzGx1WKZRVAn9HDK0zNrGZvF1Y6FdM7AeaM4OyzGjps0m9rUIfckkQRPPh25YnRo9Gd3wKllmX8Jx++ikNjxYDwcBvJVyja37YIXKiJY6sfLUgVNKBQ==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO POP",
+        "ico": "https://br.maxvps.top/images/hbopop.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqti85rVHFWhY6kcTl/BlHVWvWnLz7qb4AuTKLsPPp7cvJpRNSJo1LZ1hqCYcz3V0W7LJHApgcOL6FsuORbnVdG",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDVEw0VuKkQ+dhnwYX06ic9YEZ7vXE6IBI7IDw36KwkPfIYW5ZB5qUmd5HADox20a8xMn46atOeWHidLkN6bWg4PVaNO0vYKBtmG3yU1akm9qzx2TjWoUxkZbjZYpgUSgGw==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1079,8 +1124,17 @@
         "ico": "https://br.maxvps.top/images/hbopop.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmhxZbNbUnEhiwT3S0h61iykId84l6w6u+bzbVFBPl2ZWA==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToQ01vXAJNfyrYUB0xam7Y49C+dwRyb/IUUcH/HzcxJkQ==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDZ5lxi9g2bCBmca7ZG9VLVmq34cwq4g9eYLjkyqPd2ankAa+yl1PDAj/5BvkJvqAO4u+iZH/Xpie/kM+vHUKaPPSWsKdXnXZohJEJFkJn8jKBdrhZRP1ejKelZAuDZNC4g==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO XTREME",
+        "ico": "https://br.maxvps.top/images/hboxtreme.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfp62wSm07E1hIzWROzbZg1ymBzki8jbFc1smqzXD3COt6HMJLxEMVy305rH5vlOrX00ILG+7sUhxetl1ypvDXzB",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDVdYkyUubHFlEwzYnpnYCGlmus8G8fragpWJz7gXPwqmpZTf7HK1SbPoO+FoINeK4V19mCJ1EIhUXPANYe2wjHU60Ejbtxa2iWtzUS8W7111mTE9aPPiIZj0MJhcG/bs0Q==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1088,8 +1142,17 @@
         "ico": "https://br.maxvps.top/images/hboxtreme.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmi0o7OQZyZDSqNOg592y+IxFY0Yytl0LJVuN1eHXDZjf+aFAKCtObWSHzTJkf7pToU=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTq0fZlBu9kgCzxfm1GEAaUB2Snr67Q98mdF3hu9uc7cjg==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDYnaso7QBWDyjKqgz/rceQcVlm9glOMjKTh5e7Pn8bQq7mVtaQLKtbrpz9gnp19OcEYtDwL8FiAGUT+QfVKfngNswrmTVogaBCTOF0BZd1UuQ0EFh+ri8UDM329N0QXxKA==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO FAMILY",
+        "ico": "https://br.maxvps.top/images/hbofamily.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfp62wSm07E1hIzWROzbZg1ywreMwkTYyEAa6RsLfYj6ic0ugXHDP188DWJNENQ5hUjkv/4YrVi4aEJ54++DRv1/",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDaU+ptl5arLwS3EyJup8DhA2rodMU6tr5NFheW/XmSswtk2LrVj3avjhiaGKxvMqEKGe8OaiV3k4ZDFyUV/iIArWvN5Kk5lJDrcssjGaME14zhd18OquIYxzYBd3bawi7w==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1097,8 +1160,17 @@
         "ico": "https://br.maxvps.top/images/hbofamily.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmgu37gVSUeWvqUa21AIBHs4bFWFKvsG8LRJnbZaIb+qQhy4CwsW0C2jbTUh/gae4Mw=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTolEOVrZw4hkM8IpMuARGcab5NOTHCBuBcm0uikxO+WCw==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDXU6iweu0pfXK1xJ5mMAu/QwywmAK722gqFbRa3i/XwfQn0Igvp+LZ61Zz4VZGEFQrVISKCIL4R6lYnxIFz+UnIEqagZ2qxwSQ+XI1soPjQdcJPsNi2JvvBe7WKOKwRaIQ==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO SIGNATURE",
+        "ico": "https://br.maxvps.top/images/hbosignature.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfp62wSm07E1hIzWROzbZg1y7hJRjWFazht7wPgKY7ifTAD3G9rC39eoM+0bY9e3iZg7jDS96Hex6VvLu70p/Aol",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDcMBqaAOt24rNge1xT8RLYmqpORWjREiRIAF76ZozOTTKkZM22Ar2mcPsunaIjNoKCOcbKq7yOJ159x9u26Xru83cdCUZChXANUpleogUJ9esSq/6lGSbECMBgBOLiaj2g==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1106,7 +1178,7 @@
         "ico": "https://br.maxvps.top/images/hbosignature.png",
         "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjwAExi/UHwRfTsqoNo4YuiCnT2UlELr0auctwFFIiiQVptFk/P3NIJxERhViW9SCI=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrEZAHZeMRm3ABWYxUfYBUgy85x8qH+vILGlhyLaYdiHQ==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDfHKFWbVOhvfi0NeOw5ttblzLZFU7stkDPQgwFIkOIBlhRJlzvnN/FFe5ybWwBBMUXFf1aE3PS3H3jebhWfW2yGpcyXsmPoImhJ2vMRJWIl9+2hKZvbHxysEpD7bJkaLOQ==",
         "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
