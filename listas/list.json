@@ -1115,45 +1115,85 @@
         "ico": "https://br.maxvps.top/images/universalcinema.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsxj2ol45XXXDTAUznL5ZxXljtos71W8YSCd8zBt6XokridImgBMdGDEvFQMmVuWuOs+8ZMCCQOSJ47wtxBBrc+A==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp3rXSq3se7SI4lBwbhzPAFHQ4kMei3nC7B3+OXUHdFrw==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDQuSFjOEKg867HAYJYjkhSdyQRavjhHDOcSHJDvokL/VxO8/ARLIQg+fVLyiUT20Obg6qrcLNF9rUukNiRaaSqwTgnhbTHNIzmjWSaCri1nGU7T3mVF38LM91/CzDFQ+TQ==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "UNIVERSAL CINEMA",
+        "ico": "https://br.maxvps.top/images/universalcinema.png",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPn4k2SWGrDpeiRCUik0W3Kyo25Uzbvzgc8AWAEZHuWqGS3+D/o2VxIVjyDlRdHinepcDQnuMu6OqF3tY20/d1NDZTLRXRlmAIrop/bYQDOmHSNomT/FsfT32zlEcV8hKmJhd3WmR5MIBZ0L0X5i3qlwEVEKmW03jo90bbeCy03oZQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDTsBU2iI0GJFRNroHd73jLDWuBVoPkPACu+POLLjJSR1Ps7iQaV67i4ddRBaTI4f7lTETue3sCi6caU79naSuguRnocUjNiSifYFzWjouyrLxoPPW+BH4mTd8OSohzuwhg==",
+        "referer": "https://nowtv.express.com.ar/"
       },
       {
         "name": "UNIVERSAL COMEDY",
         "ico": "https://br.maxvps.top/images/universalcomedy.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsXRtSmFObWGlJ3hapAL2ZYXVict2LN7IIUez5VPsobysiCP+an4vOQvGVyz7dGTdKe7Xj8rT07h0PCoXj1Iw0gQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToqIWU8a0RptgHynDqB8QFVRe5wXgVUl//RnpbZ9/KLyQ==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDS9A1p7um9ZeEqR0hWaxmsrddevpJZ9Z6JY8dHW5gWVjWXfXJphyauu22/4LepLsa1uNi0myWwArfzSRBMIX81PcFO+YGZzkOxvIxwIO4N1XCLeivXNvhkQDb23K0y6ZQw==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "UNIVERSAL COMEDY",
+        "ico": "https://br.maxvps.top/images/universalcomedy.png",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPne8RwTxu7BQ3DSII8UXuIN//u87+ZgW3uzQ1zCcUcKOVTQ+XIIYFr4+AjsxqvXlmSXZ9hNN51+gpqW+5iqzrfuQlINXvNGuzD1OBVAjNd00k6cEHFRXwPXO9pj5ZQ1zOD/4InhARpro97da46d5loJM+ddsWRVNx6q6VRcBeFO3U=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDXC71ZjxGBVtzxoSM+ETrTlcthA1NWL0SRMO/nAQaGL3ai6uCSLfstGK7vzmtjXu+0+ifDqY+b9MYAbOqBK8G9mZ3tZZwgFW2lBtxu1uk6jvlsS0b2juWrQWAv6JRuGwxA==",
+        "referer": "https://nowtv.express.com.ar/"
       },
       {
         "name": "UNIVERSAL CRIME",
         "ico": "https://br.maxvps.top/images/universalcrime.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfonpbIb+O4grvRbtAom7GhDnM8ZKSb3UPdyc90t+S7pxI4lLUPSXwYzXK2YLwh0KPd1j1kPcnjwV+4bTb6uWoB57XUrbb38PutGgcaNe1WsXw==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqi/KnuAPzbk8GTTtRsm60oWNpv79mpWXubkvG4FMf3wg==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDWUd++WYdx79s0k1Urtu83oba3UGS5zYWMgbg76W3w3g4WRodMsw9eU2LQlKmlcY85GnpvoT3cum7aGermhidJb/Ai/KL2UVHoSKcsz3SHcDkp1Zcfui83MSNufLgp2KfA==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "UNIVERSAL CRIME",
+        "ico": "https://br.maxvps.top/images/universalcrime.png",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPnlytKm5r54xzi/qZLbfqBqVNFnUDfeQDootBao8FpR/lfY6iJ7AIoD60jTBTEt5cECmabSQjCjrxUpFy/1wqGWLLck6bf38Yl7G3baKZyh6nShiJ5Fe1ULnTSa8XXXlDF/qCmNpFMBwyPjC7tCQhHHzRhkVSuN3rQrzOlK8ZnX8U=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDc5uN7ifONoKp6n/ekRACokv3r9vZpNCFXss1OrWUtHW0IQhWPuIJbGG5Y1yYs94BSzHnkXhnEhvEOeDWNRltMKwg6NC9yNbi00YGPwZiTSyivraKZO+hJakAbxXuSAERQ==",
+        "referer": "https://nowtv.express.com.ar/"
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "ico": "https://br.maxvps.top/images/universalpremiere.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsjhWYAEI+vmvE1sI61ergg4BtOZVgqFj1b/pztgQMemnHXBhaObC5AtRfGZhJHbC3vIN5/W49gWRji8176P+I9w==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrM2IV9QOA1YUDW/Zub/fykHC+TPdy8E7xy17ljAODsYw==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDRh7b0LvKI7kG7h1zlE4Sz7HH+R+/++ymA78yW16RuUGX2uWy7fGbsT/bWwnVPEokJ3QENargdAFxyFP5vTGAjp3db8Y5dA4V6yBszL+LWh1Q0DqTax2OlSjDSx7B5f7xA==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE",
+        "ico": "https://br.maxvps.top/images/universalpremiere.png",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPnXXBlzFofj+rTPydrNZ97p3gzENy+G612K5ANGp7cfcbcQQiBkw8adQm/N93deRxXxZXXpzCjIAwd6LpRt7Fu2Ef2CSM/aX+ggu5GV0HJYJ4k0FZ5a3L9OeDBzk8jwedCl4yB/mpgaNGn9vqj/w8laWKkUVRXDWscu2NAyBnaBAM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDeUyrFmAmtzuxNIEU/ro/ctZUwXmGKacEQQnDhyi6fZmHeImQo9Jch1UD8DXAS55GDBqHfCJrbswjpFoQdpyp4EAlD3is+4aGt5NbpEDCC/kN9vYWl0zeNudmY1cchgGkQ==",
+        "referer": "https://nowtv.express.com.ar/"
       },
       {
         "name": "UNIVERSAL REALITY",
         "ico": "https://br.maxvps.top/images/universalreality.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsgttHWMCfL7CAaxJxU21+pCQG902DoDcwJMcNM1FpzTzUAUChBG+eiIV6ld/5vrl/ZtwhlRSqtg1uJzB37X2GVg==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpCI3fZNhw1q7Iuwu7eKPkFyeVoaQOoMjGFsMekCIJTJg==",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDf/W33b7UKFOHoYyGwyA3iirYo2GIsZlHTX5gZfQXI20qKTsFRDLZ6MeOah3gZ3Ub5p7qMf0ISv9YSLR+xP5HrOmclAph8WF+d6zWnJle+mTTZBn9syyk8iA392gb3daeQ==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "UNIVERSAL REALITY",
+        "ico": "https://br.maxvps.top/images/universalreality.png",
+        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K3Xf//grvTLOq4eC3NZpBPn35Eabc97eRKbgmbbnzRC3zlH533NgSl2FV8ArBE001lZ6mtelUiJXaZU0UEJjJHYqyj1nQjFOb4IbrbYZYzddan3dpYcJ+5nPsWfSVYqXyEJpM0TYXzp8VamfYYEdjz2ELsCr6TQnFG+q1szSajdF6bfJU4zzrPM/bulTmMmzRg=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDWJhlo832lGy9g0T595q7PRfBZ2AXhJ1jP+eihHDzoTybINl7CL4qtvzuvJK/Bz3bt8Hlt0DH8F8+hZqAtK0db5dIZcTCVbOzcfudvZeLNrj4+dbRiH3r1hwU9rDhgvCJw==",
+        "referer": "https://nowtv.express.com.ar/"
       }
     ]
   },
