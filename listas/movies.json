@@ -4,6 +4,13 @@
         "mode": false,
         "lista": [
           {
+            "name": "Paddington en peru (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/hmTWtBawt1iTJntREXxeaPOUxum.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7hIxBjM4O/Jv5W/HvDBEw4OEiKdjvCEwEsSdx0VpAgPa605LuvEVtMtSdciCP4OO0w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Moana 2 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg",
             "uri": "kdTAKr7DoqKrCpswatQc+rAE5AUQQNi+EmTCkDQPr+kWRTVxdoM+mCJnTUMcNeDN",
