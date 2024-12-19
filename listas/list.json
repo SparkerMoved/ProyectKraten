@@ -4,12 +4,12 @@
     "mode": false,
     "lista": [
       {
-        "name": "GRAN HERMANO",
+        "name": "GRAN HERMANO1",
         "ico": "https://i.ibb.co/tq4M9Pk/granhermano.png",
         "uri": "uDA+NIrmWigZnhP3bUOz9Y4pqmVaWIyG4rNcov/pL6cZf4Xca67NkjuuD8fuYTr8",
         "drm_scheme": "clearkey",
         "drm_license_url": "KWglfiudbgyJYr/F3zcmyldvPbXjMB/E6UhDxI0hZuoB2X9rYLDWRB6NRPpAwnmCLR/jBjOT07MNRFJocNziDZBdNHcBtstHMS59Ug8WjuilLl74MOC0XC1pmJdYvNGgZL77CJYiVrj+kRJSF7Ozla72ExYGIU6DHPslbmRZlh+KvqSZj8K6Kty5VC1YlFOAY/wjJa8q0jxyWaRYOk9hAw==",
-        "origin": "https://android_mobile.directvgo.com",
+        "origin": "http://android_mobile.directvgo.com",
         "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
       },
       {
