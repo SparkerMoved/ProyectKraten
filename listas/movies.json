@@ -4,6 +4,13 @@
         "mode": false,
         "lista": [
           {
+            "name": "Sonic 3 (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUv7TJB7EJlu0byVgI5TbbpYwzp78CRXpR9al/h1ppQBhg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Mufasa: El rey león (2024)",
             "ico": "https://image.tmdb.org/t/p/original/nt4E7hZqKfIJbf8GOxZKCL1ahvG.jpg",
             "uri": "kdTAKr7DoqKrCpswatQc+rAE5AUQQNi+EmTCkDQPr+muTEDAzS4GVw/04EAx7s3w",
