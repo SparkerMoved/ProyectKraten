@@ -3350,5 +3350,87 @@
         ]
       }
     ]
+  },
+  {
+    "name": "NOVELAS",
+    "mode": true,
+    "lista": [
+      {
+        "name": "Marimar (1994)",
+        "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYRLJqWLDd9hRDQcrSSMAOES",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 2",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYTGHqq6vD9L6tAe5suJgJ5u",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 3",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYRrb99heuC4OkR6pvuytwNu",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 4",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYTLq3zwrYtK/DV2k03piMbF",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 5",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYRXumDW4KaoEuZVme17YPdK",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 6",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYSRgKLj7esVIoDazmUXpVWR",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 7",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYRXVzLZliGjxICM987aS4im",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 8",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYQjaJUGvygsjoYDZZEwU69b",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 9",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYS2q2f5Mkg8Pwhw0N4A/Clh",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 10",
+            "ico": "https://image.tmdb.org/t/p/original/eoJkLbQPTHYb0XgrsrH7mc8syY.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHs0vwW93qagZhQuKI5QyDZHZ+OkxstQhG8QoBih924gkifHZD2JrAiVX1mpwxMoqiwJtK3ZDM+6ZCuydasTMzBYRep5QVHqkhP5O2hkuAK6Px",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      }
+    ]
   }  
 ]
