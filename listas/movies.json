@@ -1,6 +1,33 @@
 [
     {
-        "name": "PELICULAS ESTRENOS 2024",
+        "name": "PELICULAS ESTRENOS 2025",
+        "mode": false,
+        "lista": [
+          {
+            "name": "Paddington en peru (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/q06UBJxcmnjDLVQTZZ3I9n2CTZH.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUupuBRXXfLitzHb97yRjcITM3iip1SQnYpiEIfWzA7eEQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "De vuelta a la accion (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/mAvyQ2X3767LwXE2htvAd22ucd3.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvJfXJVr2QFFfIF1LrGS6edoYHjKqg0vWsKempWZpSo8Q==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Ad vitam (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/ftW1pqInVHTNgQj9VfN8X46M3yX.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsRbiZxIPkcTmbre7khPoB6OZP9oxO1ClPSKlNall41pw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+    },
+    {
+        "name": "PELICULAS AÑO 2024",
         "mode": false,
         "lista": [
           {
