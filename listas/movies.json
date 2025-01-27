@@ -4,6 +4,20 @@
         "mode": false,
         "lista": [
           {
+            "name": "Emilia Perez (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/Al1cL3oPBgnmzm0EqIRcOT6JHFg.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvZFy+LT4X38gFAJIZjPvVGSWiL1sqFTuyVdTIa9rNV6A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Hombre lobo (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/rBSKGZuOZqkjrjyDlX2cx4lTaRW.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUt/zE8BMajCzJhC5Oft3yD+XYjZuLAHDgJHBcnI2T8d9w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "El robo perfecto: Pantera (2025)",
             "ico": "https://image.tmdb.org/t/p/original/6qPzzRipjXVnwJXecKn7XwdHSvJ.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUs9GrHQhkFhkKLZLK1MaPeSM9Jj5drlxgnnjKzz5EP3Pw==",
