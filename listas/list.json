@@ -2848,6 +2848,14 @@
         "drm_scheme": "",
         "drm_license_url": "",
         "user_agent": "PLPro/5"
+      },
+      {
+        "name": "GOL PERU",
+        "ico": "http://x.playerlatino.live/golperu.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SU0DVQwmtdT3X8CPZa0b6mr",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5"
       }
     ]
   },
