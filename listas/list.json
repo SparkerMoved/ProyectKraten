@@ -1800,6 +1800,15 @@
     "mode": false,
     "lista": [
       {
+        "name": "VE PLUS",
+        "ico": "https://br.maxvps.top/images/ve_plus.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5Hk78KY5lv4hs9TfDNPMjHRsut1GKaPzF/WtZbHaDIzdg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTrzU2qFoCw/SoXu1K3cyMmKYUwYcy10mRylKkWxtAEv7w==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "CORAZON TV",
         "ico": "https://br.maxvps.top/images/corazontv.png",
         "uri": "WouuvUNrV50Ys7RLIZqSX9gtZC0a4PRMRZgp5PvCrU2X7GdxTRsQzZXV5t3UlxEHoESnU0EibjJvcPpCVAdvXNOkMkAObLJ5LBPXlVa8LTxaa4KHKp+YPOmInLWPo3FIJIIAdOeumDfE86If4yqG2j+DECj4OUIzgUGwssgUMt4=",
