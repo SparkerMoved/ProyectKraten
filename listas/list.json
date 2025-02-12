@@ -562,6 +562,16 @@
     "mode": false,
     "lista": [
       {
+        "name": "ESPN PREMIUM",
+        "ico": "https://br.maxvps.top/images/espnpremium.png",
+        "uri": "8YAZ/amCm2gdkyRkVGPbmjAEs/Ol9Uvk34FpG9lwUmjFHYqiWkVAh+f79QDScbIWmVETWBzu4Tk1zUPpz09qxvWdf4Ynr9mumByEZO9WwYc=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9t7pegXfJHtZTfsuWPFyx9y/sUwSC/7OZACpSzp1XiQeA=",
+        "origin": "https://player.sensa.com.ar",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "DAZN F1",
         "ico": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
         "uri": "izm67d9eluncpwFhcYdp8V/BPVOYHJ5nhh/oHWGp4Q8vANm2NvxkOz6XPfAvya4PuTeMjy4aLtpWoNfpMDghxnnOjyDJD++rFrJSnt4COgFPHT5SuK4eP0OhndcX+bpIg3Gnq9zvbmiZtMbvtIqcejTk0jof2OLua9XvinmNZCw=",
