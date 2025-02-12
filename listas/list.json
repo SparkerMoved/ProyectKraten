@@ -4,6 +4,15 @@
     "mode": false,
     "lista": [
       {
+        "name": "MIX TV",
+        "ico": "https://br.maxvps.top/images/mix_tv.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwdShLL2y0k9WcIpvfAlDj/mUoV7VyQaAfjY+crOLR797GTN+z/I1m9uN7K/jF0s7os=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpMMwNvXAzYAHcQ9ytMp1/jB6balMueuihfXjnOCbvptg==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "AMERICA TV",
         "ico": "https://i.ibb.co/w7rBK8W/americatv.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrf9yO6NqoDTUnWFfa9jxxJeg/ZXekY1oFOkvkIuPXRNnU3FsNWQvknnxgtpi+9H9Zf3idnq4nUm1L9dZ5/kFpy",
