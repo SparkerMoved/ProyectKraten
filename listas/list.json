@@ -562,6 +562,15 @@
     "mode": false,
     "lista": [
       {
+        "name": "DIRECTV SPORTS",
+        "ico": "http://x.playerlatino.live/directvsports.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SUlnNidDnLkmGHEKwXQktmV",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
         "name": "DAZN F1",
         "ico": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
         "uri": "izm67d9eluncpwFhcYdp8V/BPVOYHJ5nhh/oHWGp4Q8vANm2NvxkOz6XPfAvya4PuTeMjy4aLtpWoNfpMDghxnnOjyDJD++rFrJSnt4COgFPHT5SuK4eP0OhndcX+bpIg3Gnq9zvbmiZtMbvtIqcejTk0jof2OLua9XvinmNZCw=",
@@ -2894,7 +2903,8 @@
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SUlnNidDnLkmGHEKwXQktmV",
         "drm_scheme": "",
         "drm_license_url": "",
-        "user_agent": "PLPro/5"
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "GOL PERU",
