@@ -2723,9 +2723,11 @@
       {
         "name": "LOONEY TUNES",
         "ico": "https://br.maxvps.top/images/looney_tunes.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7wPRzSr1/DanGkBBFonYl6g==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWEfi1Yb+6ryY1TFgupRPNP",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "LA PANTERA ROSA",
@@ -2737,9 +2739,11 @@
       {
         "name": "HEY ARNOLD",
         "ico": "https://br.maxvps.top/images/hey_arnold.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW78tUEjxoJLVbgveIF3i9WCQ==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SVkek8sNkc0jbdkatbXv0BL",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "GARFIELD",
@@ -2821,58 +2825,101 @@
       {
         "name": "EL CHAVO DEL OCHO",
         "ico": "https://x.playerlatino.live/elchavodel8.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7KQTzug3cWgT8NNqElGzG7g==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SXWaasNSIyrhfWFcojse0Ew",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
+        "name": "EL CHAPULIN COLORADO",
+        "ico": "http://x.playerlatino.live/chapulincolorado.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SUZ9sjWDwi7rqAg6/5v2tYN",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
+        "name": "LOS PICAPIEDRAS",
+        "ico": "http://x.playerlatino.live/lospicapiedra.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SUodig+PsDXXlZUDBNrfjWJ",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "DRAGON BALL",
         "ico": "https://x.playerlatino.live/dragonball.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW79fkSfXvDzYNLide6cs8OIg==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SX5isa6V/4uUqES3Mjk3Yum",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "DRAGON BALL Z",
         "ico": "https://x.playerlatino.live/dragonballz.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7bQAVIC3j/1emVnVVChqoCQ==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SW/GJ90k5FBga/A0e++jYNU",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "DRAGON BALL GT",
         "ico": "https://x.playerlatino.live/dragonballgt.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7l2O22k67hbUNa3CinYDCzA==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SUpApuFUEgEb7FkE6oSWaIX",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "DRAGON BALL SUPER",
         "ico": "https://x.playerlatino.live/dragonballsuper.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW79HRuGBvXHmdzfXGx1DEeHw==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SUAXzz4onCdanfxmpJPgl/M",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "LOS SIMPSON",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW71n0rOkc98M9qwRYRg5SbRA==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SX8w/4rM6PWSW5LZuGcksAB",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "ALF",
         "ico": "https://x.playerlatino.live/alf.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7MYvLhBum0rABZTVbGStPjw==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SXEfVWLbKdK8L4ByD5swds4",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "BOB ESPONJA",
         "ico": "https://x.playerlatino.live/bobesponja.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7qihhrz0acp1qNRgq3wwAaw==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SXETNXvVpqjeDeJJ5thB+qT",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
+        "name": "CASO CERRADO",
+        "ico": "http://x.playerlatino.live/casocerrado.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SV+bGGIbROWUkvDMGx063YL",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "TOM Y JERRY",
