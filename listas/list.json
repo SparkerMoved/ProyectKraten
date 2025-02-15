@@ -2721,6 +2721,60 @@
     "mode": false,
     "lista": [
       {
+        "name": "EL GALLO CLAUDIO",
+        "ico": "http://x.playerlatino.live/elgalloclaudio.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SXcV0qpe4Y9iQRyrFSyKEiu",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
+        "name": "LA MASCARA",
+        "ico": "http://x.playerlatino.live/247.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SUbBe7lrJBJekTKkI0f1h7O",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
+        "name": "EL COYOTE Y EL CORRECAMINOS",
+        "ico": "http://x.playerlatino.live/elcoyote.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SU9dzYdGyxfdAfcP15bC8dT",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
+        "name": "DORAEMON",
+        "ico": "http://x.playerlatino.live/doraemon.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWJCjhWkpVO0PrSncgGGuY7",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
+        "name": "CABALLEROS DEL ZODIACO",
+        "ico": "http://x.playerlatino.live/caballeroszodiaco.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SVAgLCtmdDmFI0fMVwp6NYn",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
+        "name": "NARUTO",
+        "ico": "http://x.playerlatino.live/naruto.png",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SX+1do9Idnr/DVWcMLVRT9n",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
         "name": "LOONEY TUNES",
         "ico": "https://br.maxvps.top/images/looney_tunes.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWEfi1Yb+6ryY1TFgupRPNP",
@@ -2732,9 +2786,11 @@
       {
         "name": "LA PANTERA ROSA",
         "ico": "https://br.maxvps.top/images/la_pantera_rosa.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7TgIZG4EYwbkfD0zMQHl64A==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SVgGMRadQ91BgQdMkIZWbjX",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "HEY ARNOLD",
@@ -2748,16 +2804,20 @@
       {
         "name": "GARFIELD",
         "ico": "https://br.maxvps.top/images/garfield.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7Yh8/fSh7McxwnJLWQSBS1w==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SXIMk2cxILx4wZS94uRaUUR",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "EL PAJARO LOCO",
         "ico": "https://br.maxvps.top/images/el_pajaro_loco.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7wQDftUuKmRj8QXpDkDfybA==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SVWrxHl8JHmlzz6V1jfwWh5",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "LOS PADRINOS MAGICOS",
@@ -2790,37 +2850,47 @@
       {
         "name": "ED, EDD Y EDDY",
         "ico": "https://br.maxvps.top/images/edyedy.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7cz/RvqCbWM3mg3zGCppgXw==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWMrEfeCHRvltrwisrL05GZ",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "LOS CHICOS DEL BARRIO",
         "ico": "https://br.maxvps.top/images/loschicosdelbarrio.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7a8mj5aKTWWkd/hVvxDiryA==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SViDsE0zUN+bja4JJ7XkGiC",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "JHONNY BRAVO",
         "ico": "https://br.maxvps.top/images/jhonny_bravo.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7L6phv+f8N8zM6We7EbY6bQ==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SVxV+eFoJepD6DrMrt5YsVo",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "MR. BEAN",
         "ico": "https://br.maxvps.top/images/mr_bean.png",
-        "uri": "KK5XaSS/1PXJPg6y6Yx8qa1JD3++85+c5yjrWoot7OChARIK/fmf2s/NPQ45id95y3SRcuMyu6i6ZILdLW8iZReNs/CbzBXcQlQ+hsmhQhlA69znmwlW7gZgnvGooufVnszpi6jWdvgxiooFalzpkg==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SXYz8Rh40DVR/Q2H0LtkNhd",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "LOS TRES CHIFLADOS",
         "ico": "https://br.maxvps.top/images/los_tres_chiflados.png",
-        "uri": "KK5XaSS/1PXJPg6y6Yx8qa1JD3++85+c5yjrWoot7OChARIK/fmf2s/NPQ45id95y3SRcuMyu6i6ZILdLW8iZReNs/CbzBXcQlQ+hsmhQhlA69znmwlW7gZgnvGooufV19BB4QfU28lNB9evdheejA==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SW4AUPoyn/M+MESLotrj0U+",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "EL CHAVO DEL OCHO",
@@ -2835,6 +2905,15 @@
         "name": "EL CHAPULIN COLORADO",
         "ico": "http://x.playerlatino.live/chapulincolorado.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SUZ9sjWDwi7rqAg6/5v2tYN",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+      },
+      {
+        "name": "CHESPIRITO",
+        "ico": "http://x.playerlatino.live/chespirito.jpg",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SVi/02J1edPIhqr8+DFnaN1",
         "drm_scheme": "",
         "drm_license_url": "",
         "user_agent": "PLPro/5",
@@ -2924,42 +3003,20 @@
       {
         "name": "TOM Y JERRY",
         "ico": "https://br.maxvps.top/images/tom_and_jerry.png",
-        "uri": "KK5XaSS/1PXJPg6y6Yx8qa1JD3++85+c5yjrWoot7OChARIK/fmf2s/NPQ45id95y3SRcuMyu6i6ZILdLW8iZReNs/CbzBXcQlQ+hsmhQhlA69znmwlW7gZgnvGooufVdubjuDMpU38TrbyJGii8uQ==",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWuhrlYuM5XOBiK0BmZ1Xpu",
         "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "user_agent": "PLPro/5",
+        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
         "name": "CORAJE EL PERRO COBARDE",
         "ico": "https://x.playerlatino.live/coraje.png",
-        "uri": "04ay+rKut1sul0ttAseYNda2DPTPFx7e9onNj4RLuaFIVsX7q0ZX7TY0D0tn6rD8UPuGMiw1i2AwoNhn/UWt00/b//ujY3wUDW7k+ZhSPmxsTZNRVyn+jKr76THHtGW7TrotxpaSJbas0DvZpaLaUA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL CHAVO DEL OCHO",
-        "ico": "https://x.playerlatino.live/elchavodel8.png",
-        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SXWaasNSIyrhfWFcojse0Ew",
+        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWB4+xIfOM/sd8o54q1a8yC",
         "drm_scheme": "",
         "drm_license_url": "",
         "user_agent": "PLPro/5",
         "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
-      },
-      {
-        "name": "DIRECTV SPORTS",
-        "ico": "http://x.playerlatino.live/directvsports.png",
-        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SUlnNidDnLkmGHEKwXQktmV",
-        "drm_scheme": "",
-        "drm_license_url": "",
-        "user_agent": "PLPro/5",
-        "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
-      },
-      {
-        "name": "GOL PERU",
-        "ico": "http://x.playerlatino.live/golperu.png",
-        "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SU0DVQwmtdT3X8CPZa0b6mr",
-        "drm_scheme": "",
-        "drm_license_url": "",
-        "user_agent": "PLPro/5"
       }
     ]
   },
