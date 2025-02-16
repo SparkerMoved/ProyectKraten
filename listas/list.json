@@ -2717,6 +2717,61 @@
     ]
   },
   {
+    "name": "PACK FREETV",
+    "mode": false,
+    "lista": [
+      {
+        "name": "FREETV ACCION",
+        "ico": "https://br.maxvps.top/images/freetv_accion.png",
+        "uri": "nMZn6VVJoy0bIZQ3oTGzVn5wY4QACuUXQy6Obnb1/YW94IBDeyrji+6bZkWwNrhaWJrHyv3L/S5KXS3PpgxzkH7y5sHQ3bXE7zSbod8CdtsEsW4Ezuiaghm1u86ikpY7UeTO0w+ofUyGWofS/uqdFlPyclREWCqXzTFOlKUbHJe0GwVIRyihtGdbaWHuUcZZep6zQyTmYLxueOmfcc2RxQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV DRAMA",
+        "ico": "https://br.maxvps.top/images/freetv_drama.png",
+        "uri": "nMZn6VVJoy0bIZQ3oTGzVqywkjTehgbzjOc14VQl/rjNOekYJVF1tdUUpjYtQMIMnQ4OF46E9vKy/hYkDaPziwneO2eKP1ycb2sYg/wGkvOBR+vjS9dqE+cmsA6XQ/CBtRdTEaQdooTtipUrNT5WHO62bsevTYe4Y9EHlpVBZ/NXHPZQQqrEHjUIfCjOTtQ5E5i+f2HyZ8Zq0SKwP5lmuw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV ESTELAR",
+        "ico": "https://br.maxvps.top/images/freetv_estelar.png",
+        "uri": "nMZn6VVJoy0bIZQ3oTGzVquNTXHXoNySdmNgdInKTX3SNkt4pPeikv3c4mW1dZrn61ubpp3ygZAAzfoC5xpvbXglESEQgbRspKRz0jRSrVQ1jjJfy3moXdtnHuyhPmDLI/RrOg9SWuYafjNhT0K/odcthjNbVqMOeLTgA+73UCaodQ2iIQ8xaf5yLtGJu6+5QRbthcsr4vH4Gb2BXKElsg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV FAMILIA",
+        "ico": "https://br.maxvps.top/images/freetv_familia.png",
+        "uri": "nMZn6VVJoy0bIZQ3oTGzVgUB8JTrsrpAYJvnhxnhmVzHnzG3Ll21PD+B8P21IF4qsVxN7UefL9ft23xrf99RaMfFDbOnrcsab2O7aSP1Esfk2FYvd7SbEzQxnbirAlj76Me8m8zS/k9LADo4x7+921XibH05047f4OU1hwbwlhx5p8Gg5gJ5NQsMLbd9chbcdSqzAh5oWuBFyazOa2ghEQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV HITS",
+        "ico": "https://br.maxvps.top/images/freetv_hits.png",
+        "uri": "nMZn6VVJoy0bIZQ3oTGzVkK+sMzz7lQ2Yqb6TsaD55J/anKHVMmZkU7LblFvu+DQLb93gzHTgzyMpuko32DD1o3Jfso5kapCTYFR3VIUQysnk+YeiwHVCSdq+Z4L3jYny1hhP2kPFEwkXXTYNpObsH0EcxY1TpFtuOT9qZwvMrb266ISBa7A0L/mi0Exce1i",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV SABER MAS",
+        "ico": "https://br.maxvps.top/images/freetv_sabermas.png",
+        "uri": "nMZn6VVJoy0bIZQ3oTGzVodtOq1yVngVJZS21Aghw64nU/fLSscIqeeh8bKDwaNKBiairFH7t40FLIE9e/B49/05UsmiFsFScZRFz5eQV1SGWcEbzhzlcprZGI1d+h6/oemNzgIknn8jg2xh5VFTJorHhzzUehlQHkJaSG03PURjStjKAOzRuccgAlQvJA2iijHdN/MgnHHbL3nrREVRpg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV TERROR",
+        "ico": "https://br.maxvps.top/images/freetv_terror.png",
+        "uri": "nMZn6VVJoy0bIZQ3oTGzVjQv/ccBEMybU8eQFjg7Z3ZYMLtw/sNmAa14Q4/x7m2I959XwXFZ9BDtiioHPQgyD4rP2ljLEhOYIHxIMCT/MbfeNFS51i+HnDU8ZnlhW534xY4dZlMiSrvMgBr2pUg4S6y51a02v/hU0bYdMsruaw0vDkWqPL0knYbuMIuTQzfB",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
     "name": "ALTERNATIVOS 24/7 ⌚",
     "mode": false,
     "lista": [
