@@ -4,6 +4,20 @@
         "mode": false,
         "lista": [
           {
+            "name": "El Mono (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUv0cH+epP0H47RxevZFSxNayDvZgtMPPcXre4BAia8YwA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Henry Danger: La pelicula (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/o6HP5G2WNV4ZrYOPaRjuzGty7UO.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUt+zxpvdbeFjgO29EzdRZ3EVsvTNFwbOMNmE9igYi5J/aPZOAoWz1S1J1svFJTg9mg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Las aventuras de dog man (2025)",
             "ico": "https://image.tmdb.org/t/p/original/lkN3NXopv5QjxgfsKWtXM8cArUj.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUulsVCXS1SV+wjKilqEHs83mkJqYrJ3CBY5ftkoavZhAon69fZ4zdnxKH5rQ2nafqc=",
