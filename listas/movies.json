@@ -4,6 +4,27 @@
         "mode": false,
         "lista": [
           {
+            "name": "Bastion 36 (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/19G9YouWQXIIyHiPS4VEAqCr7h1.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUu8fx1EdEfWoaKMnJaIQj877ScSk0gyBFJV3HYDg5+BCw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Oni Goroshi (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsRf8jw3mlycIi3ESITiPx9M2VT7MyjGxnPDOaB2DxnulSqVqwGwWH4OviBSMD/Azo=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Amor Explosivo (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/od7Cj1kM0JBqz0NuGHUumOOE476.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuiOjAcnsIBJAtEka6wHyJMHCfvDQ0p0E8/Ab2B4Sfy5g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "El Mono (2025)",
             "ico": "https://image.tmdb.org/t/p/original/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUv0cH+epP0H47RxevZFSxNayDvZgtMPPcXre4BAia8YwA==",
@@ -135,6 +156,13 @@
         "name": "PELICULAS AÑO 2024",
         "mode": false,
         "lista": [
+          {
+            "name": "Bagman espiritu del mal (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/maRKauGzEBYdd6ms0UGYEkVJly9.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuAU1E1cF+QFeOZfFWUJGRmPwXRMup9VQMXmItun/23DU00mnZP9WFOxyB/DEYzeF4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "Conclave (2024)",
             "ico": "https://image.tmdb.org/t/p/original/bQ8eLmbZngrdgdzIzU7dPuh8HNR.jpg",
@@ -5924,6 +5952,13 @@
         "name": "PELICULAS TERROR",
         "mode": false,
         "lista": [
+          {
+            "name": "Bagman espiritu del mal (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/maRKauGzEBYdd6ms0UGYEkVJly9.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuAU1E1cF+QFeOZfFWUJGRmPwXRMup9VQMXmItun/23DU00mnZP9WFOxyB/DEYzeF4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "The Purge: La noche de la expiacion (2013)",
             "ico": "https://image.tmdb.org/t/p/original/8fbbaY5Z00u1Y4iDT5B7rN6l2eS.jpg",
