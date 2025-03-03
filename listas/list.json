@@ -1013,6 +1013,15 @@
     "mode": false,
     "lista": [
       {
+        "name": "TEEN NICK",
+        "ico": "https://br.maxvps.top/images/teen_nick.png",
+        "uri": "OHgv0VUgqSkkrQk9euCp9Soht5sv7G9otSNnXCtnermqEO1Ee0thOidWrALMZnCVYNa5TLX2sAJHwdHmV5xe3ey4cdp6DsXPk8MM9xv1Zpk=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpbkF1lCQ1o1I2vNKBjVNFDwF08NaEBCtHkQAQyN7YsJw==",
+        "referer": "https://www.trimi.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "KIDOO",
         "ico": "https://i.ibb.co/VYqvr0K/kidoo.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcTpXlquQDC06cvLoglvxliKuZClhLXRW9PgiCkMjgrP6atlk6zgn+xA5KZl2i2l40=",
