@@ -3119,6 +3119,103 @@
     "mode": true,
     "lista": [
       {
+        "name": "Recreo: la banda del patio (1997)",
+        "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+OigMedd9BCvVT79ddDMWncuT1e95vFBxMrgvo7vbk9hiYA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 2",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+OiigvqIbm3Ys+KyUllxZ2pDptLI9+CPQVtmOV6xtw4LS+A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 3",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+Oijw8m/Un+vfcS8qPjDQXj+zvZTwYAxW5+09vW1IlAoh0A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 4",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+Oih9Vau1kym6yYo1T4iGV8vT7ykT7ro01NsK6B0VcdrNXg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 5",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+OijE7zP/paedqO2+6Cf2Knu0a6WoAEDvF651BKs10lEUuA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 6",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+OihB9ThVIzQmXbT6BXvKXjit3gtFmqVom7zOpeT/GogIlg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 7",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+OiiUnrdO3z941SK6E2Ov/yEpYBnFe30fsJBbmBamaqXeSQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 8",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+OijmwEtX084FBxXET7Q5KRC58hQU78LuGq5J0P+Q/hhP4w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 9",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+OiixpKy2/IPmLyvQ1rN/1rVNecmkf96nbxIxWtTdtLjQiw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 10",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+Oigh/XKkGWaDZABJIfEuVKNV7YZjP7NN9+aJcEGX61V0yw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 11",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+OijuI4zSEMXKB9O0z8gFavKVNCps6+X/07J2MfO0I3oRIg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 12",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+Oig8opxuv4cFS7XlALXEuQ/QaJc3bMDs76t0iV7kl2/tgQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 13",
+            "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7o/4oO0DdhvnM1SeWpO+OijqR0g23+2t/NIH5fDfhbF8N4GpJlOVDXGYXOWMKESUgg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "Los Caballeros del Zodiaco (1986)",
         "ico": "http://image.tmdb.org/t/p/original/ivETkwYLeGegv1Z4aJKqJJ8dqX2.jpg",
         "temporada": [
