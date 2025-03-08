@@ -3119,6 +3119,131 @@
     "mode": true,
     "lista": [
       {
+        "name": "Scooby Doo donde estas? (1969)",
+        "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fwh4uZOeYuqEYDjP+uf0d5A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 2",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fRC/baaqqPXCUVFiYMY+zTQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 3",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fqX/C2IUzus0vPoni+feW/g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 4",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fIFbbTmrHljMBHPDc9Ozj3w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 5",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fNUwhDD/CFQWmGf1lFO5wgw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 6",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fxVujLK/v34E/Qj2wwQjJwQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 7",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fd6dYN81KSqyUOk3UEh7dCQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 8",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/f7CP+8ZAggZUmuQHBavn5Yg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 9",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/f9LixS0Bn9ffUNC0vvpfNqQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 10",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/f4fBpz4m2NMDytNdEs/7Myg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 11",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fPpUquK01E+5iMT86LXoSLA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 12",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/f6MCnxAU2KfVC1CPGnb1c5A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 13",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fz1JO383WSHkxDb7DgAV97g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 14",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fR7muBDNU1jWjOAG2Y5FUQg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 15",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/f/RRD44N6IaqIAHhxWghnmg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 16",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/f7MSZjAE4BULUdF2kKMyQtg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 17",
+            "ico": "https://image.tmdb.org/t/p/original/m2ZT8Uu53bjkTICSMRvVeA6BncR.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7uZUTt/d6K47Dqm2O+Ae7lhhXjlM+7jKjBq7F/T9zo/fp9syUTKc6wtGrwpbSORGsA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "Recreo: la banda del patio (1997)",
         "ico": "https://image.tmdb.org/t/p/original/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
         "temporada": [
