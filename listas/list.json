@@ -915,6 +915,20 @@
     "mode": false,
     "lista": [
       {
+        "name": "BRASILEIRAO",
+        "ico": "https://upload.wikimedia.org/wikipedia/pt/7/75/Campeonato_Brasileiro_de_Futebol_de_2024_-_S%C3%A9rie_A.png?20240413234711",
+        "uri": "sxlIMgzR29jQReVovER1PTZrdlDJf0n+X4xvtNxddHB2ngjkHw5fDUUlUsqxfvs8puTEIX4U8TGotJlM8fEkFeFeyqZ7M1tVOzY1O5UgLSbnYTp+uFrxBu04bDQ16kQJPtxql9oDUxL2FwWj5ufNAw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "INTER MIAMI EN VIVO",
+        "ico": "https://logodownload.org/wp-content/uploads/2020/11/Inter-miami-cf-logo-0.png",
+        "uri": "sxlIMgzR29jQReVovER1PTZrdlDJf0n+X4xvtNxddHCsPYT6opFU5LEfF2DUE1gt9Kcdm87H1XCPvNm+N2rYl8Yp8EzngTpkIyu+c7Hx1NF5rHHNCBfyhKEcz3e8/Cq3tMxfrZkFF/VVr3lb9scVpg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "GolTV",
         "ico": "https://br.maxvps.top/images/goltv.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SXH/2fLbg0Ns9wt+y0WTpMD",
