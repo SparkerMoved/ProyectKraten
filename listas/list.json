@@ -915,6 +915,30 @@
     "mode": false,
     "lista": [
       {
+        "name": "TIGO SPORTS 1",
+        "ico": "https://br.maxvps.top/images/tigo_sports.png",
+        "uri": "oGwQm3YnQfo9Cyxni57yDwV2wkneStA4nV7HMrPNptYRMWvnlvz/eMlEoXcMFvz6R9NxFKmebDEbWYdcihEueTlM7kuzurx0EdEFpwQ1F404F7LNZjvKCuMElG9sFHQD2Q0aNQl3uYW9ULl2FWxuPQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToISate0M9Q/Ued3BbdDS9RleXB3cevcjBcr3cdTgVpQQ==",
+        "origin": "https://www.tigosports.com.py"
+      },
+      {
+        "name": "TIGO SPORTS 2",
+        "ico": "https://br.maxvps.top/images/tigo_sports.png",
+        "uri": "oGwQm3YnQfo9Cyxni57yDwV2wkneStA4nV7HMrPNptYRMWvnlvz/eMlEoXcMFvz6R9NxFKmebDEbWYdcihEueU7YB2ELHQ6oRH7GPVpTzKwPXV4SeOFWTiwgpaaboYeDj4TO7WvWuH5B4KCC7gs6xQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToISate0M9Q/Ued3BbdDS9RwlKCi0eUQBy5rwbHF/Yl6Q==",
+        "origin": "https://www.tigosports.com.py"
+      },
+      {
+        "name": "TIGO SPORTS 3",
+        "ico": "https://br.maxvps.top/images/tigo_sports.png",
+        "uri": "oGwQm3YnQfo9Cyxni57yDwV2wkneStA4nV7HMrPNptYRMWvnlvz/eMlEoXcMFvz6bLNWvFM+zQOyN3Zg9K8yVDVGiZgvhWkmvBshQlIFBxn8GZ73oiK2uZWYMWkXh+dYJ1FzLhI9GmLdS1o4Yrzw6Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToISate0M9Q/Ued3BbdDS9RhNhLFCp9XpMDyuO/uICoYA==",
+        "origin": "https://www.tigosports.com.py"
+      },
+      {
         "name": "BRASILEIRAO",
         "ico": "https://upload.wikimedia.org/wikipedia/pt/7/75/Campeonato_Brasileiro_de_Futebol_de_2024_-_S%C3%A9rie_A.png?20240413234711",
         "uri": "sxlIMgzR29jQReVovER1PTZrdlDJf0n+X4xvtNxddHB2ngjkHw5fDUUlUsqxfvs8puTEIX4U8TGotJlM8fEkFeFeyqZ7M1tVOzY1O5UgLSbnYTp+uFrxBu04bDQ16kQJPtxql9oDUxL2FwWj5ufNAw==",
