@@ -915,6 +915,34 @@
     "mode": false,
     "lista": [
       {
+        "name": "FOX SPORTS MX",
+        "ico": "https://br.maxvps.top/images/fox_sports1_mx.png",
+        "uri": "izm67d9eluncpwFhcYdp8V/BPVOYHJ5nhh/oHWGp4Q8jwblnwbkbr079OIWYu+iEEcAPBWMcO8eCZpMZ6KhRk97Yde6e7S5x0B084D1Nq2gI+jWeUK+JQuEyzorSD60tbFa4sjSACORjtLZ2+3Z1CUh3q7PH6CnlgHj4pmtpvr8=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqzFqZR0+UAA6m14kBtQEZcse/nRufsDhFwZ3cxT4iz4A=="
+      },
+      {
+        "name": "FOX SPORTS 2 MX",
+        "ico": "https://br.maxvps.top/images/fox_sports2_mx.png",
+        "uri": "izm67d9eluncpwFhcYdp8V/BPVOYHJ5nhh/oHWGp4Q8jwblnwbkbr079OIWYu+iEEcAPBWMcO8eCZpMZ6KhRk97Yde6e7S5x0B084D1Nq2gI+jWeUK+JQuEyzorSD60tbFa4sjSACORjtLZ2+3Z1CUh3q7PH6CnlgHj4pmtpvr8=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqzFqZR0+UAA6m14kBtQEZcLdXjl0wOp9WzCXxekK1HRw=="
+      },
+      {
+        "name": "FOX SPORTS 3 MX",
+        "ico": "https://br.maxvps.top/images/fox_sports3_mx.png",
+        "uri": "izm67d9eluncpwFhcYdp8V/BPVOYHJ5nhh/oHWGp4Q8jwblnwbkbr079OIWYu+iEEcAPBWMcO8eCZpMZ6KhRkzLl7vyTyovkzO84RXVkdmArNdJec6pMf0VqcZLph5jYw+tuObJRbgqrJpbya++AYQkiOpuhWHNIWpucmSt+Ui4=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqzFqZR0+UAA6m14kBtQEZchyA1a5YCru4z/YJZvx/HYA=="
+      },
+      {
+        "name": "FOX SPORTS PREMIUM",
+        "ico": "https://br.maxvps.top/images/fox_sports_premium_mx.png",
+        "uri": "izm67d9eluncpwFhcYdp8V/BPVOYHJ5nhh/oHWGp4Q8jwblnwbkbr079OIWYu+iEEcAPBWMcO8eCZpMZ6KhRk5VO6IL1KhihylN28UPcdnBzYY+saXX8xG7QKkXC1LglraAbzSpZqb4rzPZMp3Vge1RTp67UC8eqJzhMEcBnWus=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqzFqZR0+UAA6m14kBtQEZcPAq/AiRlrkjname2G0EA1wyJ8wdi+WcSqPa3JwcMd6E="
+      },
+      {
         "name": "TUDN USA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",
         "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXb4fl+a2jnkvtSnQiheJbTqtA8R7G8iOfinZvcnrcIUgf7Xhf0LYfrHUNU4lJnlEgx1gm0rvdGpbF82zSVCfZMT2PF0KNRqYXaQi4HLpQwDHw=",
