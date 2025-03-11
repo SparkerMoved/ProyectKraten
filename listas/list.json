@@ -915,6 +915,48 @@
     "mode": false,
     "lista": [
       {
+        "name": "TUDN USA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",
+        "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXb4fl+a2jnkvtSnQiheJbTqtA8R7G8iOfinZvcnrcIUgf7Xhf0LYfrHUNU4lJnlEgx1gm0rvdGpbF82zSVCfZMT2PF0KNRqYXaQi4HLpQwDHw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DISNEY+ 5",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/800px-Disney%2B_logo.svg.png",
+        "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXbdxCQ/zpLKHBGpI4CmMcFJJtLsXf/oMR4m94CrJTziUHwX20JxidZmg24kfhtqkypD+dt1Hv+ytY9+gbd5jl0jJODwrWQ16yXT+O4IR6P0eg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PARAMOUNT 2",
+        "ico": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo.png",
+        "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXbhlshmUL8RQVZKY+pVxG37iBpkxgXmmh9vfWguUBGpBzvA7u06HE79j/Ek4Qf4tXbLUrU0vpP3UWVqt5pb7Zvgut5faFjc30eRL0n92dV0Bw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PARAMOUNT 3",
+        "ico": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo.png",
+        "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXbjP7JaskmCoog/AEzyOAOOpE944aefE7v8/i1Et40GttYBRM2kNxnz7MNYswY9Mb4Y2uax1PVf25t9urmAQ5sWLPrZGR0nhqCgpqpneEbhv0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PARAMOUNT 4",
+        "ico": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo.png",
+        "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXbO4T/Nf6DzVb7jBcZd5O8P+bQUlE9U8WVFKWL5lW1IDR8vyeMnZYH+uVz49zShJZiqbTNao1aQMxwdUSAJwWXcnjQ1cynKisy8UaJti+ylys=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PREMIERE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1920px-Premiere_logo_2013.png",
+        "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXbbrdcJ+5qT1rQENii70z065fERMBCqC988LUeGOYcOnp4bynobKc7FZWQtZkLULxLAMCC6vG4XArqSKvK/+C9DC03kC2azsym5OBNHOT04IY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "TIGO SPORTS 1",
         "ico": "https://br.maxvps.top/images/tigo_sports.png",
         "uri": "oGwQm3YnQfo9Cyxni57yDwV2wkneStA4nV7HMrPNptYRMWvnlvz/eMlEoXcMFvz6R9NxFKmebDEbWYdcihEueTlM7kuzurx0EdEFpwQ1F404F7LNZjvKCuMElG9sFHQD2Q0aNQl3uYW9ULl2FWxuPQ==",
