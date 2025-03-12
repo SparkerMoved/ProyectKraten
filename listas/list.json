@@ -1113,6 +1113,15 @@
         "uri": "X+q8VngVAXNBLOdflCm30lZejnLxTS+F5g86PoTFTfO5AJocY/Dkism9LMk6rEZ4Fal23BKhTkDwp1A5x8uQXA==",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "IZZIGO",
+        "ico": "https://br.maxvps.top/images/tigo_sports.png",
+        "uri": "qZ26spv/Hmwy0Ne7EDuHJdK+DRAXI8USzAlUW0rHWeFMqOu/kH/ka3FY13ojJBGsigda/tI6640WPLoE6QZxeEMA5R+XxmRTufY+3ry3A3c=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNIvGrnZXdlBM9EtggpSwM/uJAtmJhv1y44BA+TOOJ8X",
+        "origin": "https://www.izzigo.tv",
+        "referer": "https://www.izzigo.tv/"
       }
     ]
   },
