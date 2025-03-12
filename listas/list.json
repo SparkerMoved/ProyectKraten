@@ -580,11 +580,10 @@
       {
         "name": "ESPN PREMIUM",
         "ico": "https://br.maxvps.top/images/espnpremium.png",
-        "uri": "8YAZ/amCm2gdkyRkVGPbmtKTvATj75AJMmHtTY2le5FhoepDA0mFlVqgmZhzNkl8qz0D7B9E20DIx2cFwxp9fA==",
+        "uri": "OHgv0VUgqSkkrQk9euCp9Soht5sv7G9otSNnXCtnernfeM+tM1sBWL2o9GTA15JIibnSprZeQcDoOP5Z8+ObLK9Um+d+BcuUQfVSfG1HZZ5dDuxOfgKZcXIAxisHsvS9",
         "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9tYD8O3C7XWJ3Njz3LplnSOlGzJtq2Wa5nNPYjcfBxjg4=",
-        "referer": "https://player.sensa.com.ar/",
-        "token": "ZZm8YV3uqyyc6JdtG7saRQ==",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTpJbgZsa2+k5uzdNqRhiv9tdiB1PUPRbk6BcxgmiemgQzIbrcjCigzqnlOv2l4lLdk=",
+        "referer": "https://www.trimi.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1113,15 +1112,6 @@
         "uri": "X+q8VngVAXNBLOdflCm30lZejnLxTS+F5g86PoTFTfO5AJocY/Dkism9LMk6rEZ4Fal23BKhTkDwp1A5x8uQXA==",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "IZZIGO",
-        "ico": "https://br.maxvps.top/images/tigo_sports.png",
-        "uri": "qZ26spv/Hmwy0Ne7EDuHJdK+DRAXI8USzAlUW0rHWeFMqOu/kH/ka3FY13ojJBGsigda/tI6640WPLoE6QZxeEMA5R+XxmRTufY+3ry3A3c=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNIvGrnZXdlBM9EtggpSwM/uJAtmJhv1y44BA+TOOJ8X",
-        "origin": "https://www.izzigo.tv",
-        "referer": "https://www.izzigo.tv/"
       }
     ]
   },
