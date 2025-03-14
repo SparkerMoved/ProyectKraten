@@ -3119,6 +3119,194 @@
     "mode": true,
     "lista": [
       {
+        "name": "Coraje el perro cobarde (1999)",
+        "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2xMVy+3rAlu8l+NWtmbZCtQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 2",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2ZiZvWSJBouFsqnH9zW5zeQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 3",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2qTD8/tKjBCsbh3n5ubXZxA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 4",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2/nMf3cq+1utxt16M4FY0gQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 5",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2EKoYWjqgwAI8x0tWh036ZA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 6",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2C1l2sPZ85DrF8xGrr3GIyA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 7",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2HD0yp31j3XtBfEKCE6JqWQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 8",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2+lMDv83m1Xx1tVJMND7rxA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 9",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2fTozLdAq1pqKA4pQ02uv8g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 10",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2NkNgeL0ozcZIfY3UFLUAoQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 11",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI26dYSj9m20C/h+owGeA/8ZA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 12",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI27h1qfpvcmatFihLSTHjffg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 13",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2V00Ll3D2bYz9ocWDbhdfig==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 14",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2NaVxn5+aDR3AmdbfCQh9Tw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 15",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2vpjXrgr0p5q7tUlaWHqz/A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 16",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2NplU76wu9Gfpoq8PFNmNsA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 17",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2B/UhBjg72tlvEsn+Y7zPTQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 18",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2Tp+Nu4kZMwitsLLnBUvcmA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 19",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2LO67evxBVVAMDzYNeEMM4w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 20",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2GZ/Vau2GbgifkJDd1KY4EA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 21",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2mmDzjhS0yBG72KM55i1QrQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 22",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2KVUkj2F/8+eAiWJp0W77wg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 23",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI29AX//wfXMarhmwjoSANCrQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 24",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2E5eg0NMtBenkSz2ogHqtlg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 25",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2RD91uJcKUm9C4paHrWP1uQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 26",
+            "ico": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+            "uri": "3KKpb5MMCF4oowpv+h9g7kvp2a/dwn+N8a3rgow/+DE5RAD9jkgdQJadS77hzgI2RyGDCNQLr/rS8T2BG1LImg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "Baki temporada 2 (2020)",
         "ico": "https://image.tmdb.org/t/p/original/jjOGDKZDCkmCNKt9HE7gvDnpa2a.jpg",
         "temporada": [
