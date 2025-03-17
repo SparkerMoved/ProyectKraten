@@ -4,6 +4,13 @@
         "mode": false,
         "lista": [
           {
+            "name": "Estado electrico (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtMMIDtLXAzN1TJ0ds/iPDtjZ4SpkLPtJ7LWqDkOh/O7w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Bastion 36 (2025)",
             "ico": "https://image.tmdb.org/t/p/original/19G9YouWQXIIyHiPS4VEAqCr7h1.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUu8fx1EdEfWoaKMnJaIQj877ScSk0gyBFJV3HYDg5+BCw==",
