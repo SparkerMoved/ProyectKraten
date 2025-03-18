@@ -1086,13 +1086,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "KRATEN EVENTOS WEBVIEW 2",
-        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "tX8gJ4dMBytcgBdpMLD6k558T/6pifsNFwESrbQtnq4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "KRATEN EVENTOS WEBVIEW",
         "ico": "https://br.maxvps.top/images/kraten_eventos.png",
         "uri": "fUVuw0vDfuTDbf/bgjihzR7IDx1/TFBptEUF4j3PFMsXS+jfRWVWlqiGEUdKlGUg",
@@ -1103,6 +1096,13 @@
         "name": "DAZN 1 WEBVIEW",
         "ico": "https://br.maxvps.top/images/kraten_eventos.png",
         "uri": "fUVuw0vDfuTDbf/bgjihzR7IDx1/TFBptEUF4j3PFMvMtRUF8qz3IHxZJlCH8HAp",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DSPORTS WEBVIEW",
+        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
+        "uri": "fUVuw0vDfuTDbf/bgjihzR7IDx1/TFBptEUF4j3PFMuHR8uTKbq2Lrgyl1NhA3WWjY6klBCeEZDZtnQpDtkYqw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
