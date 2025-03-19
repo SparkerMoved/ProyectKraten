@@ -1580,6 +1580,14 @@
     "mode": false,
     "lista": [
       {
+        "name": "Los Simpson Twitch",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
+        "uri": "xKEc702YVj5ztktUVW3pKPRJfnXybQjiyjVDPvX+i+RObYykM6O180Ah9zZYc0oM",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "WebUrl": "5GFkYEDmkqkaQiNN6/277Q=="
+      },
+      {
         "name": "MultiPremier",
         "ico": "http://x.playerlatino.live/multipremier.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWm9qUDLHrVJ0uFHuj78Vn4",
