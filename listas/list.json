@@ -1580,12 +1580,12 @@
     "mode": false,
     "lista": [
       {
-        "name": "Los Simpson Twitch",
+        "name": "1Los Simpson Twitch",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
         "uri": "xKEc702YVj5ztktUVW3pKPRJfnXybQjiyjVDPvX+i+RObYykM6O180Ah9zZYc0oM",
         "drm_scheme": "",
         "drm_license_url": "",
-        "WebUrl": "twitch.tv"
+        "web": "twitch.tv"
       },
       {
         "name": "MultiPremier",
