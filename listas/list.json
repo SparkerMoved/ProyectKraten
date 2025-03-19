@@ -1086,46 +1086,12 @@
         "drm_license_url": ""
       },
       {
-        "name": "KRATEN EVENTOS WEBVIEW",
-        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "fUVuw0vDfuTDbf/bgjihzR7IDx1/TFBptEUF4j3PFMsXS+jfRWVWlqiGEUdKlGUg",
+        "name": "Los Simpson Twitch",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
+        "uri": "xKEc702YVj5ztktUVW3pKPRJfnXybQjiyjVDPvX+i+RObYykM6O180Ah9zZYc0oM",
         "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DAZN 1 WEBVIEW",
-        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "fUVuw0vDfuTDbf/bgjihzR7IDx1/TFBptEUF4j3PFMvMtRUF8qz3IHxZJlCH8HAp",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS WEBVIEW",
-        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "fUVuw0vDfuTDbf/bgjihzR7IDx1/TFBptEUF4j3PFMuHR8uTKbq2Lrgyl1NhA3WWjY6klBCeEZDZtnQpDtkYqw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PELI WEBVIEW",
-        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "zN6pW7yhOXJ1/Mop9Ir3DIBEbZB0ufrsQg9vMk+M+5w9Zl+l6ynHAZUU04meRSGS",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PELI WEBVIEW 2",
-        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "crmh7asLPj/Dg5Svl3NhGC6yE4tr3k3cBaGPCE0u1y8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PELI WEBVIEW",
-        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "https://streamwish.to/e/mxhwwlyj03ga",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "",
+        "web": "5GFkYEDmkqkaQiNN6/277Q=="
       },
       {
         "name": "KRATEN EVENTOS",
@@ -1579,14 +1545,6 @@
     "name": "CINE 🎬",
     "mode": false,
     "lista": [
-      {
-        "name": "2Los Simpson Twitch",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
-        "uri": "xKEc702YVj5ztktUVW3pKPRJfnXybQjiyjVDPvX+i+RObYykM6O180Ah9zZYc0oM",
-        "drm_scheme": "",
-        "drm_license_url": "",
-        "web": "5GFkYEDmkqkaQiNN6/277Q=="
-      },
       {
         "name": "MultiPremier",
         "ico": "http://x.playerlatino.live/multipremier.png",
