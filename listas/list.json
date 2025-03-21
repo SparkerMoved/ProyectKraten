@@ -914,6 +914,42 @@
     "mode": false,
     "lista": [
       {
+        "name": "Lollapalooza",
+        "ico": "https://br.maxvps.top/images/lollapalooza.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkTNu3zQkQwEsJ5J5gsD9SmZm8aZJ7qajuU6UMX9rmJBt9ojIrAB0Civ/pA2GQftqY",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo27THVVNMcyrAngRYsuBDFxFjTRWWBsDHMEu8/DWinHQ==",
+        "origin": "https://portal.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "Lollapalooza 2",
+        "ico": "https://br.maxvps.top/images/lollapalooza.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkT/PKD91/bz5/J7mtPvYwGDCZAAZ8pIx/VnandTdMPbEvPZ0hGidUhKUgMAGiqkJb",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo27THVVNMcyrAngRYsuBDFQeFo1qTWagF05bjnufRWrA==",
+        "origin": "https://portal.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "Lollapalooza 3",
+        "ico": "https://br.maxvps.top/images/lollapalooza.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkd7yDfRAo9CFLEVtQ6fLj2eLlKIV6DNKxvIsNmrWDOxzxN3SdpSCC5gVSuaLqAy4M",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo27THVVNMcyrAngRYsuBDFKPKndeolcaXRiE+GLniCSw==",
+        "origin": "https://portal.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "Lollapalooza 4",
+        "ico": "https://br.maxvps.top/images/lollapalooza.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkHIwsa9Ex3v6bCKDiFG3KPBEROdwRW+VpmipS16uzNhHcZh1zMuJEjwZ4duLNJSTJ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo27THVVNMcyrAngRYsuBDFA0fn+oNuodI3SB4Qu7GYXQ==",
+        "origin": "https://portal.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "CHAMPIONS ESPN",
         "ico": "https://br.maxvps.top/images/champions.png",
         "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXbF1y7FNmHCpX6FKShxmkSH3RN3ye56nTFOAGqIB8Nj7EzmB7AuH3Y9d4urOvH5cJtRU9uZy2NPLuUM9OaHska9x8p3dnIwciD4XqolbOSxQw=",
