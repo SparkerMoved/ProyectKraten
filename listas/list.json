@@ -1193,6 +1193,16 @@
         "uri": "X+q8VngVAXNBLOdflCm30lZejnLxTS+F5g86PoTFTfO5AJocY/Dkism9LMk6rEZ4Fal23BKhTkDwp1A5x8uQXA==",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "DGO TEST",
+        "ico": "https://br.maxvps.top/images/cartoonnetwork.png",
+        "uri": "iFT3DuQcomj4tejg9K9M61D0BSHwhh9Sas9l10MfPZOSc3wGTNb2q1f9NXDnXKC6/fOrRNgKZ8+ic9LNQbX4slVkmmE7vr/0r8Rs9g1PoH90RJObInGOed4gA+LTcSvd1K2hpm/VNkwUYdzaYskMytlTo26oghZoYY+fln3h2W8cJsaxPt78pmIZwVudMNtt",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTopRaLOypWCXtdkA/OxkZb0RrG5gE2SV5pUPZugYimy4g==",
+        "origin": "https://www.directvgo.com",
+        "referer": "https://www.directvgo.com/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
       }
     ]
   },
