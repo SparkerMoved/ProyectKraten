@@ -4,6 +4,40 @@
     "mode": true,
     "lista": [
       {
+        "name": "Adolescencia (2025)",
+        "ico": "https://image.tmdb.org/t/p/original/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "ico": "https://image.tmdb.org/t/p/original/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG5qIOTCO86R2rB2GqsaOrPYNdAf6rWYpfyJDsEbkw46bQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 2",
+            "ico": "https://image.tmdb.org/t/p/original/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG5qIOTCO86R2rB2GqsaOrPY4dzmEVA8/lme4aD8U0hxTg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 3",
+            "ico": "https://image.tmdb.org/t/p/original/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG5qIOTCO86R2rB2GqsaOrPYdTW+2Fj0dF3AljoQs8ie+Q==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 4",
+            "ico": "https://image.tmdb.org/t/p/original/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+            "uri": "F9jee3rw4AiKhZHD3VB7e6clisE8XxFmc2rkMF3NzG5qIOTCO86R2rB2GqsaOrPYlG/sUjfMmGFNpL9vdK+9wA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "El juego del calamar (2024)",
         "ico": "https://image.tmdb.org/t/p/original/zyAQIyneN4b1t0yjfvYdeooXjJA.jpg",
         "temporada": [
