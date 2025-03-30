@@ -914,42 +914,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "Lollapalooza",
-        "ico": "https://br.maxvps.top/images/lollapalooza.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkTNu3zQkQwEsJ5J5gsD9SmZm8aZJ7qajuU6UMX9rmJBt9ojIrAB0Civ/pA2GQftqY",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo27THVVNMcyrAngRYsuBDFxFjTRWWBsDHMEu8/DWinHQ==",
-        "origin": "https://portal.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "Lollapalooza 2",
-        "ico": "https://br.maxvps.top/images/lollapalooza.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkT/PKD91/bz5/J7mtPvYwGDCZAAZ8pIx/VnandTdMPbEvPZ0hGidUhKUgMAGiqkJb",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo27THVVNMcyrAngRYsuBDFQeFo1qTWagF05bjnufRWrA==",
-        "origin": "https://portal.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "Lollapalooza 3",
-        "ico": "https://br.maxvps.top/images/lollapalooza.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkd7yDfRAo9CFLEVtQ6fLj2eLlKIV6DNKxvIsNmrWDOxzxN3SdpSCC5gVSuaLqAy4M",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo27THVVNMcyrAngRYsuBDFKPKndeolcaXRiE+GLniCSw==",
-        "origin": "https://portal.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "Lollapalooza 4",
-        "ico": "https://br.maxvps.top/images/lollapalooza.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSHfCqdOAEeYf63HWerkOkHIwsa9Ex3v6bCKDiFG3KPBEROdwRW+VpmipS16uzNhHcZh1zMuJEjwZ4duLNJSTJ",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTo27THVVNMcyrAngRYsuBDFA0fn+oNuodI3SB4Qu7GYXQ==",
-        "origin": "https://portal.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
         "name": "CHAMPIONS ESPN",
         "ico": "https://br.maxvps.top/images/champions.png",
         "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXbF1y7FNmHCpX6FKShxmkSH3RN3ye56nTFOAGqIB8Nj7EzmB7AuH3Y9d4urOvH5cJtRU9uZy2NPLuUM9OaHska9x8p3dnIwciD4XqolbOSxQw=",
@@ -1063,20 +1027,6 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvToISate0M9Q/Ued3BbdDS9RhNhLFCp9XpMDyuO/uICoYA==",
         "origin": "https://www.tigosports.com.py"
-      },
-      {
-        "name": "BRASILEIRAO",
-        "ico": "https://upload.wikimedia.org/wikipedia/pt/7/75/Campeonato_Brasileiro_de_Futebol_de_2024_-_S%C3%A9rie_A.png?20240413234711",
-        "uri": "sxlIMgzR29jQReVovER1PTZrdlDJf0n+X4xvtNxddHB2ngjkHw5fDUUlUsqxfvs8puTEIX4U8TGotJlM8fEkFeFeyqZ7M1tVOzY1O5UgLSbnYTp+uFrxBu04bDQ16kQJPtxql9oDUxL2FwWj5ufNAw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "INTER MIAMI EN VIVO",
-        "ico": "https://logodownload.org/wp-content/uploads/2020/11/Inter-miami-cf-logo-0.png",
-        "uri": "sxlIMgzR29jQReVovER1PTZrdlDJf0n+X4xvtNxddHCsPYT6opFU5LEfF2DUE1gt9Kcdm87H1XCPvNm+N2rYl8Yp8EzngTpkIyu+c7Hx1NF5rHHNCBfyhKEcz3e8/Cq3tMxfrZkFF/VVr3lb9scVpg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
       },
       {
         "name": "GolTV",
@@ -1927,16 +1877,6 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqA40VcK+1WByf52nXNJ50mYbFaC2vXzmjmh1oIKNcB2g==",
         "referer": "https://player.sensa.com.ar/",
         "token": "ZZm8YV3uqyyc6JdtG7saRQ==",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "LOVE NATURE",
-        "ico": "https://br.maxvps.top/images/lovenature.png",
-        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K0bak92jtIS20vB0juZCksGFUDez4Gl15WUEqb9tSt1OXfFiFB9Fipa2K18pByYXNdRaPeUCi5iunkdHFTFJDMMx5eAeg25o1r2GoW4UuwyoKTij0OJ5z+fz009pK2A4pA7DJcJYyer6qnqcEuXEFGKz9QhvnCq4HpTj0Ab+5DjwA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqA40VcK+1WByf52nXNJ50m7B5ytpqJMcN3XXv7iFMVyw==",
-        "origin": "https://nowtv.express.com.ar",
-        "referer": "https://nowtv.express.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -3469,7 +3409,7 @@
         "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
-        "name": "EL CHAVO DEL OCHO 4",
+        "name": "EL CHAVO DEL OCHO (2)",
         "ico": "https://x.playerlatino.live/elchavodel8.png",
         "uri": "dIyRL3YE+UpeienUg/0rEBkDUydP7OADHLUOi5WJTGijA2oeTtcnl8rzuOf4xe9vSL8jDZuQQCO55xuIAi2p29PrKDnEW76y6C+ICXNAv0PhsNKiY6g/Z7faB9waQc06",
         "drm_scheme": "",
