@@ -914,6 +914,7 @@
     "mode": false,
     "lista": [
       {
+        "tipo": "EVENTOS",
         "name": "CHAMPIONS ESPN",
         "ico": "https://br.maxvps.top/images/champions.png",
         "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXbF1y7FNmHCpX6FKShxmkSH3RN3ye56nTFOAGqIB8Nj7EzmB7AuH3Y9d4urOvH5cJtRU9uZy2NPLuUM9OaHska9x8p3dnIwciD4XqolbOSxQw=",
@@ -921,6 +922,7 @@
         "drm_license_url": ""
       },
       {
+        "tipo": "EVENTOS",
         "name": "CHAMPIONS ESPN 2",
         "ico": "https://br.maxvps.top/images/champions.png",
         "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXb2j+HXu0w/B731005rDbl4xB/Xj1SRnTlGNAI4KHiL5YovQHpNYF+g24i2Y8XPhEXUqNhjfEGfdcisEXqrn12leeBcovKCUB9FeQE222feo0=",
@@ -928,6 +930,7 @@
         "drm_license_url": ""
       },
       {
+        "tipo": "EVENTOS",
         "name": "CHAMPIONS ESPN 5",
         "ico": "https://br.maxvps.top/images/champions.png",
         "uri": "NdnbR5MCcNHeElXifJsaaZrJrBwVIX88tJBTgUHziH/BNHh4di9yr89HyR+7PAXbdUw0U1eeevOaIrYERjQZSLv4tPaZN4onitOa+DXsuPBlAu4jUUuZs3KN8/FRU0R37zPLldgibHn8TZWVw/qgQJWJchDJ6PBXyt9ZSo12IlU=",
@@ -2958,6 +2961,7 @@
     "mode": false,
     "lista": [
       {
+        "tipo": "24HS",
         "name": "Yu-Gi-Oh!",
         "ico": "http://x.playerlatino.live/yugioh.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWyongVp9RIQTq5qe9ii+V+",
@@ -2967,6 +2971,7 @@
         "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
+        "tipo": "24HS",
         "name": "Yogui",
         "ico": "https://br.maxvps.top/images/yogui.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWvteXDR7E3BmQSXBQMPIl3",
@@ -2976,6 +2981,7 @@
         "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
+        "tipo": "24HS",
         "name": "Two And a Half Men",
         "ico": "http://x.playerlatino.live/twoandhalfmen.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SX55KKZyrK8pwSG4nrXst1k",
@@ -3541,6 +3547,7 @@
     "mode": false,
     "lista": [
       {
+        "tipo": "24HS",
         "name": "CINE MARVEL HD",
         "ico": "http://x.playerlatino.live/cine247.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SU5Y1TQlU7+cbnG4c3S7Aj/",
@@ -3550,6 +3557,7 @@
         "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
+        "tipo": "24HS",
         "name": "CINE MARVEL",
         "ico": "http://x.playerlatino.live/cine247.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SXZtKtteJzL7CDHhgGPg7ER",
@@ -3559,6 +3567,7 @@
         "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
+        "tipo": "24HS",
         "name": "CINE ACCION",
         "ico": "http://x.playerlatino.live/cine247.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SX2ERZo9p2JKcus5u9PwvJe",
