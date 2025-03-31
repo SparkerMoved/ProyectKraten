@@ -84,7 +84,7 @@
             "drm_license_url": ""
           },
           {
-            "tipo": "480P",
+            "tipo": "HD",
             "name": "Las aventuras de dog man (2025)",
             "ico": "https://image.tmdb.org/t/p/original/lkN3NXopv5QjxgfsKWtXM8cArUj.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUulsVCXS1SV+wjKilqEHs83mkJqYrJ3CBY5ftkoavZhAon69fZ4zdnxKH5rQ2nafqc=",
@@ -92,7 +92,7 @@
             "drm_license_url": ""
           },
           {
-            "tipo": "720P",
+            "tipo": "CAMHD",
             "name": "El maravilloso mago de oz (2025)",
             "ico": "https://image.tmdb.org/t/p/original/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuZwi37GflIO4uFCVZJWHCGIdIsZoXEbMto0090cU10X37LI6FCcz8Ntnn7zHjHEWg=",
@@ -100,7 +100,7 @@
             "drm_license_url": ""
           },
           {
-            "tipo": "1080P",
+            "tipo": "720P",
             "name": "Capitan america un nuevo mundo (2025)",
             "ico": "https://image.tmdb.org/t/p/original/xVwP4GCbEfO66JSSyonnAhU3Fad.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuiLtugjt6R+aLcJSnWegja4gZiFNPnyyIvccA26zFxyiDcOw8hkAEtaOZxbD7HJNE=",
@@ -108,6 +108,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Algo embarazada (2025)",
             "ico": "https://image.tmdb.org/t/p/original/akOX4xu52OsZrH5JdCC87SrvE4C.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsJSXZ6wxl2BhlgYGR+IIVDCLI+Mt3mBJh4kGIRL1CCbg==",
@@ -115,6 +116,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Bogota (2025)",
             "ico": "https://image.tmdb.org/t/p/original/9HX27GAOdmmBnnUgQEnvsXftaGA.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuIWvfxO4cRB6udQMA+6BlSG2ZLT281JG8N6y62W7Qd7g==",
@@ -122,6 +124,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Amenaza en el aire (2025)",
             "ico": "https://image.tmdb.org/t/p/original/8T6nkYb4W8BIeafmFffyfsRciTL.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUulWzrZvs5aweUIi9o8ur7QuTi4Al8H3Hx6GPOb3SgKWA==",
@@ -129,6 +132,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Compañera perfecta (2025)",
             "ico": "https://image.tmdb.org/t/p/original/7f7tDd7stJPUDZaCWHZmv9WVXEQ.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuIDCfb1yfs6+Vps+GZPMf8hbL/+cG/8Kqa4WvnpdQG2w==",
@@ -136,6 +140,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Un completo desconocido (2025)",
             "ico": "https://image.tmdb.org/t/p/original/wd8mZUS2bFV4I6Q2VgkOIQu6Q2I.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsOXcX0iK24hK9H7SbD5m+F2osRFCDK/Lht0NhnF2Oy79qPidYjtCshDlnBYKKSKAI=",
@@ -143,6 +148,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La otra boda (2025)",
             "ico": "https://image.tmdb.org/t/p/original/k9qOMi7MhiNKOjtax8V023vJgDS.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuVnbb9cSJh9n0iojhj00hkrUHxJaXEafrhRWJM8U+eLA==",
@@ -150,6 +156,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Alarum (2025)",
             "ico": "https://image.tmdb.org/t/p/original/jxeUUcoaXXwbXWHYlxmdHaip4CT.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsUgV+f44P8RYyGLkUK8EjcHcGaAglQ09Ax7wizvL8O0Q==",
@@ -157,6 +164,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Emilia Perez (2025)",
             "ico": "https://image.tmdb.org/t/p/original/Al1cL3oPBgnmzm0EqIRcOT6JHFg.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvZFy+LT4X38gFAJIZjPvVGSWiL1sqFTuyVdTIa9rNV6A==",
@@ -164,6 +172,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Hombre lobo (2025)",
             "ico": "https://image.tmdb.org/t/p/original/rBSKGZuOZqkjrjyDlX2cx4lTaRW.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUt/zE8BMajCzJhC5Oft3yD+XYjZuLAHDgJHBcnI2T8d9w==",
@@ -171,6 +180,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El robo perfecto: Pantera (2025)",
             "ico": "https://image.tmdb.org/t/p/original/6qPzzRipjXVnwJXecKn7XwdHSvJ.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUs9GrHQhkFhkKLZLK1MaPeSM9Jj5drlxgnnjKzz5EP3Pw==",
@@ -178,6 +188,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Paddington en peru (2025)",
             "ico": "https://image.tmdb.org/t/p/original/q06UBJxcmnjDLVQTZZ3I9n2CTZH.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUupuBRXXfLitzHb97yRjcITM3iip1SQnYpiEIfWzA7eEQ==",
@@ -185,6 +196,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "De vuelta a la accion (2025)",
             "ico": "https://image.tmdb.org/t/p/original/mAvyQ2X3767LwXE2htvAd22ucd3.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvJfXJVr2QFFfIF1LrGS6edoYHjKqg0vWsKempWZpSo8Q==",
@@ -192,6 +204,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Ad vitam (2025)",
             "ico": "https://image.tmdb.org/t/p/original/ftW1pqInVHTNgQj9VfN8X46M3yX.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsRbiZxIPkcTmbre7khPoB6OZP9oxO1ClPSKlNall41pw==",
@@ -205,6 +218,7 @@
         "mode": false,
         "lista": [
           {
+            "tipo": "HD",
             "name": "Better Man (2024)",
             "ico": "https://image.tmdb.org/t/p/original/otXaS8K5coAwmUyGxBsNz9mWs8H.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsNlw3hNEGM3LpYLsJsjka91QvODtuekuHY/Z224995DYHVlbOBfU5hxaDw1zmiFGHwchI2VQ++J41PqI0kc76n",
@@ -212,6 +226,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El Aprendiz (2024)",
             "ico": "https://image.tmdb.org/t/p/original/iza8xVlP2apUdHxaioFWICV8hiV.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvVOLsFreGtyEj+1fYLIzRmd7PWvXaMy8Giq5wlWdrZDA==",
@@ -219,6 +234,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Bagman espiritu del mal (2024)",
             "ico": "https://image.tmdb.org/t/p/original/maRKauGzEBYdd6ms0UGYEkVJly9.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuAU1E1cF+QFeOZfFWUJGRmPwXRMup9VQMXmItun/23DU00mnZP9WFOxyB/DEYzeF4=",
@@ -226,6 +242,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Conclave (2024)",
             "ico": "https://image.tmdb.org/t/p/original/bQ8eLmbZngrdgdzIzU7dPuh8HNR.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtp39RGEGfiIiH4ZEW5jK4CgDfTIP0ME52hhNMWCGFjAw==",
@@ -233,6 +250,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Nosferatu (2024)",
             "ico": "https://image.tmdb.org/t/p/original/jivUhECegXI3OYtPVflWoIDtENt.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtXVJzR3WGdXFMj4OEc0Npr21KhG9LFt8l3bVjRvbVS8A==",
@@ -240,6 +258,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Hachiko 2: Siempre a tu Lado (2024)",
             "ico": "https://image.tmdb.org/t/p/original/sT5SHjXlrKZwSbcvi70dmoDEHms.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUu/pJ7ze+6yk4CEplkB12L5FfF/sLADt0eWbsJEK9Bttq/aev7oMwaa6iTtPqm18b8=",
@@ -247,6 +266,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Culpa tuya (2024)",
             "ico": "https://image.tmdb.org/t/p/original/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUusykY28zs3m8QQwpOpaCdCk0vdxt/K7hNv2Ol8cdycGg==",
@@ -254,6 +274,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Sonic 3 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUv7TJB7EJlu0byVgI5TbbpYwzp78CRXpR9al/h1ppQBhg==",
@@ -261,6 +282,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Mufasa: El rey león (2024)",
             "ico": "https://image.tmdb.org/t/p/original/nt4E7hZqKfIJbf8GOxZKCL1ahvG.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3eDKYXcUJpAk1DmW6eauMeSoUBhuaxZc4mGAMqi010ID+yBtr2pBgEWdkBZyjTNP0=",
@@ -268,6 +290,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Criaturas: linea de extincion (2024)",
             "ico": "https://image.tmdb.org/t/p/original/uQhYBxOVFU6s9agD49FnGHwJqG5.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Pu2O74yVJvNEHmuhXbRppQr3qKnvQx4Y45uMoFG0j0g==",
@@ -275,6 +298,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Moana 2 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2mo5dwflqafLc945quA2fN1hzC+c1ZSRFOHVdpYcYrjg==",
@@ -282,6 +306,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Wicked (2024)",
             "ico": "https://image.tmdb.org/t/p/original/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvoarDBr9Q1DThhKFs4ZTqe9BY/w+y1qs2+h+TeFg13Xw==",
@@ -289,6 +314,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Gladiador 2 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtecwv+OBdH9A0EtJTx+8ZhvMWSlOnK2tlJ1/aM0hoRcw==",
@@ -296,6 +322,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Codigo: Traje rojo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/edgKt5Z7QcH2TZfaT7vXOrs36zt.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI085Ci5N2xd1gfVP1kZLUokNQiNiHo/ZRBEbjoty9TJRA==",
@@ -303,6 +330,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Terrifier 3 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/5eECVdOWwbsUARVxLA7ENyBYx3H.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0A9EBddOTpbFtw30bPXy6BXpbjKD/ue9a62r4KJqa5wg==",
@@ -310,6 +338,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Cuckoo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/qaNfJX6MT6kyRDfbH62Deazl0sD.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUs0RV4ZIJ0jBZLzvK93j1rAeKHpCthud+M2XlPBIuteeg==",
@@ -317,6 +346,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Transformers One (2024)",
             "ico": "https://image.tmdb.org/t/p/original/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2sorKd6V2Sq9CwDyk8p+uP3DfjtFIHjweRp7CSwxz3GYdeDKm99Z3GC/sTitFHiUE=",
@@ -324,6 +354,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Haikyu!! La batalla del basurero (2024)",
             "ico": "https://image.tmdb.org/t/p/original/yqTVRzxwKSkyPB5Cc7OjIwqjEpA.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1EhfWLZZg6tsdKtRiAeG03R/eRtSA1S/xCGQyriUYXfCCHQRx7yRPx03t1GA3fyzy+/ZLWpuuR2c6CnUFJwMfC",
@@ -331,6 +362,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Aprender a soltar (2024)",
             "ico": "https://image.tmdb.org/t/p/original/wKxpBxdrLqXlYKTemPuYL0Y30dV.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3UX8QOVlV9ZOM3Rx1h9v0D+P4uEaHbLTxMQjfenqy1g5ptkPgz6GEQP8ax45pfXkY=",
@@ -338,6 +370,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Apocalipsis Z: el principio del fin (2024)",
             "ico": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1dztYwnS3tKUWYA/+ObahNfcd0bJ7ZamkOE5kd4lx0UANS4OLm4RadUaQOnEzvLro84BimpM2JRtIRn7bM/gIfFrEi1ZY8TX4pn1j2UyWOAQ==",
@@ -345,6 +378,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Alerta Amber (2024)",
             "ico": "https://image.tmdb.org/t/p/original/7rvfugoxG5Omr0QQJk9BdSu1g3Y.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0Eo1PCA5lgP9ZmH6V+B7jAaqBWoquKnfamDcpC1nMEgA==",
@@ -352,6 +386,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Corte en el tiempo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/gQfOwMJAeciNZxqTm3fkjiOaApP.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI35UhQPabCdode+my3nr5sv3pfg3Ixkw+siA+/DzMEnHw==",
@@ -359,6 +394,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Pharrell Williams: Pieza por pieza (2024)",
             "ico": "https://image.tmdb.org/t/p/original/9xSjP8B0iZHRzvrtKcYDkaalomS.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1sHenBHxcZTRBsog6drSuCxxneIgGcWUTNsf1gYZ3nyl9xZn0VwAaRbUxUeXSkByM=",
@@ -366,6 +402,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Venom: El último baile (2024)",
             "ico": "https://image.tmdb.org/t/p/original/b0obWWCLRVRqRzlSK1LSGtADkLM.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2D5nazQB3kQYv98VRNRWeeY484sIPa4SPkuSjGY86mOFDDPnCOpvkXq2Xapu4uvmY=",
@@ -373,6 +410,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Guason 2: Folie à Deux (2024)",
             "ico": "https://image.tmdb.org/t/p/original/ApA7Rr7VxaVE0B3x6VjzCVDhjWe.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1vJmYkL0qLjwrd8YF7S/cV5VKgxM27bK6AqYf+sG0v2c0gun8R7av7pjS2uzvgqUs=",
@@ -380,6 +418,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Hellboy: The Crooked Man (2024)",
             "ico": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2xbnkMt8MArqgZG2JOtbu4336xwJKYz6KbhsTGvN8YlqDCGar7N518vZkMD7Fr734=",
@@ -387,6 +426,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Jack en la caja maldita 3 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/uHfddXNm1pOZDn4D8ttsZi1jcgT.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3SwHFXdvMeHcjWcJsazrgBKBV8In+p3fVwK9Jo5KxbzKTZIN+aVcz7y/8znZbkOqX9cnzfv3EbATzTS4Jo+Hio",
@@ -394,6 +434,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El asesino del juego de citas (2024)",
             "ico": "https://image.tmdb.org/t/p/original/sXGZGy6fQIdmOFwOhY4xfqQlHI8.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvcDUMLp2s2H7Dr2nAzcsJ0QhC9H1oFY0g9aIeVaJ50sI5QiGw0Yc0vz/lN3xuyRp0=",
@@ -401,6 +442,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Ahi afuera (2024)",
             "ico": "https://image.tmdb.org/t/p/original/gNtVxOAmBD42TBwFfN52fDa56XZ.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUt4+FLkBwyklmI5zaPs8UtVhNMRTAvdWCQWsKDGp/GEOg==",
@@ -408,6 +450,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Fuera de las sombras (2024)",
             "ico": "https://image.tmdb.org/t/p/original/rKTRkFyhRtd9Nm25GBlyEJzt9TZ.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsl5tTXRW+lp3bHKMlPY66N/aahV+6kFmJG8pO2ZsSGeIeOObJPUUiJdhrCNuoQ/pQ=",
@@ -415,6 +458,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Hermanos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/4LiZlaqMMd6TQhTUfgLn4VfD5zo.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUs9y5PZ2WttX1lWOCiLL0c0wy/WwRICt5XHcHLJen/DWw==",
@@ -422,6 +466,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Contaminados por el miedo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/uE8sz63PFf3exD9WvmW26lONVqA.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUt8lQdNe27Y+7Cm8uZgXCKoLisKXW6AIqEoUOnpi91BTunft2MSIIehh3cBgMFk+wI=",
@@ -429,6 +474,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Robot salvaje (2024)",
             "ico": "https://image.tmdb.org/t/p/original/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUulL2BZ2X5XGM0/YDJZj4XfGVBfmJornxNnZTHs5NbDNQ==",
@@ -436,6 +482,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Una aventura en marruecos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/pN9Vw5A3Eu868XqidnKcTdUW1Kq.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuEZoCbfQbV8DDlmzmX1rAW+CMNJ2OkYCnyixce/cq/4zPNgX2A9ywewgXhxZvAIbM=",
@@ -443,6 +490,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Los horrores de caddo lake (2024)",
             "ico": "https://image.tmdb.org/t/p/original/uJZrBYrj9qC3BsCZKo75COJewOa.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUs1TM8XEbTbks7cP68hKQWRhvm+OOlFmAlBQR2wWGBt1MtiKHSa0OReOismcUBCjZU=",
@@ -450,6 +498,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Invasion, Insurreccion (2024)",
             "ico": "https://image.tmdb.org/t/p/original/u7BbfoOND2qtKUslMbPhgHVuVFK.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuWIYJxtUZ4C1kFSEyGKLOMkG9S0nwlML4UYQ+INuvg58yA5h2WA8DWJN+zo58HvPc=",
@@ -457,6 +506,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Beetlejuice Beetlejuice (2024)",
             "ico": "https://image.tmdb.org/t/p/original/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvEoNZZiJ6IEZcAwbV1jgQ0ozIbmoYKXMZXOSC86sHlKd2JnCFMGCjBC9XzNYr2eW4=",
@@ -464,6 +514,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El cuervo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/uUUx4kN6uCvXnjGWOv79gUBxdYE.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtcpI0KW4dZ2sH/bAMcPdtdiDofQb+AbdQifnPYXOrYzg==",
@@ -471,6 +522,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Lo que hay dentro (2024)",
             "ico": "https://image.tmdb.org/t/p/original/2L1V2JAni8Uw7hVHIodTNOl5TZA.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtaHIopkjDVxlqSSfcE9L1rnZNrfKdXM9XdsFxb7F/zcg==",
@@ -478,6 +530,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El hoyo 2 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/jHGgM019xAoy62cKZtDmTxvQlUY.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuiKX5DH6GHW1aRyDJx0EPfj5FY22U00SEAlYKXMStBGQ==",
@@ -485,6 +538,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La casa de los despojos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/1th6jd7Dn5Ipftlrk81DmIFAJ5c.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuLHPXfB9bqv4yADcWFiVDca/ZIegW6dI/7mJsxui3O9c1PWiEdiCN5DLYlusSSR8c=",
@@ -492,6 +546,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Aguanta la respiracion (2024)",
             "ico": "https://image.tmdb.org/t/p/original/pLxy9uzUZOjj6TTAzxhBJayPZT7.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtfcvc0sag5xxHN+DqBuF6PTsCvelc+vYcmMovYvFx7g5uv2o0mSFZtE9siFMD0ZaU=",
@@ -499,6 +554,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El misterio de Salem's Lot (2024)",
             "ico": "https://image.tmdb.org/t/p/original/lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUv1W2FHzijVt/vUQDW5fMuSbDeNmsAecRLq+YQYBDQXfhUV6/XGWe961OMMD2vXTB4=",
@@ -506,6 +562,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "No ables con extraños (2024)",
             "ico": "https://image.tmdb.org/t/p/original/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuchSS7fE1/UgAUKRYIrVSefQMvXZ3cduz8l4/XGqoHbb3x+Lfk/m9yg/bMkTBGpfk=",
@@ -513,6 +570,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Instintos asesinos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/wIDulcEDrbW5tLaAHIUqODaTGG6.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUthDUGul2B4oxoca3DWRGfIgj2VgSGBokjjbHzhgkEr+Q==",
@@ -520,6 +578,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Deadpool & Wolverine (2024)",
             "ico": "https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUumwx2hE3xEklhjLSpxMFGAsTO+66KFZLR8tmUl1JzO7w==",
@@ -527,6 +586,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Parano-IA (2024)",
             "ico": "https://image.tmdb.org/t/p/original/bWcHlNhi4dMopJmDWxfo3HYqviB.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtcayUztARaSdwlXFwAQ9LTfc9SeysMUNThsu6CZIfB+g==",
@@ -534,6 +594,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Rez ball (2024)",
             "ico": "https://image.tmdb.org/t/p/original/eISIK4fuUJ56gT5pT4FxUmXpoTd.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtFcQioSOdU5rvDnvdjPMJ+4W6thLiDbaBCM8dqDgyzoQ==",
@@ -541,6 +602,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Lobos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/3uXwaubXNZmbhJ1qSYdink7y0RD.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvDsq6tN+7bej50YAIUMRUsDwRoQw6z0PMq9fQlr9/Y9Q==",
@@ -548,6 +610,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Sol de justicia (2024)",
             "ico": "https://image.tmdb.org/t/p/original/jC0ciJhQXTP26D2Dht3Mf2dAVHL.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsKulx4VDgZialQsDHune8JDTeTNRsBFD9tK/eCXNshbg==",
@@ -555,6 +618,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Corrupcion en Bangkok: Entre el cielo y el infierno (2024)",
             "ico": "https://image.tmdb.org/t/p/original/45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtoVohM0CyO/zKVpAPAwJx9cbvD+nvjH1IOcYyPo4DVyR/d/ivFtVMhmGIM9bcu0I4=",
@@ -562,6 +626,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "MaXXXine (2024)",
             "ico": "https://image.tmdb.org/t/p/original/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvAxoSi0Fbuhi8JwgZlJFIsHQbLEMIHlqNNpjAyVn5M/Q==",
@@ -569,6 +634,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Borderlands (2024)",
             "ico": "https://image.tmdb.org/t/p/original/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUu9A135xpOW5LwngkolX1Iyr7vkl3odvpY2+p344vGNxw==",
@@ -576,6 +642,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Parpadea dos veces (2024)",
             "ico": "https://image.tmdb.org/t/p/original/a4o3f9dmxB9TyFNMncvwspSoVLJ.jpg",
             "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSwSjuNXPNnJ79z3HMrq572e4a91xHJauz11YGg2UHW0Ug==",
@@ -583,6 +650,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Exorcismo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/wMjVDPOOZ1KPllcKat7dZTQRhOp.jpg",
             "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSw3/AtVRvsWaiGRzvQ0HBNOVZ0s91iHt3BsGcL3hCEGnA==",
@@ -590,6 +658,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Agente cinturon negro (2024)",
             "ico": "https://image.tmdb.org/t/p/original/kKViCTk38mPsK5wOOUJeLxAm3TI.jpg",
             "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSxnVGKsTx1aa6TihXaM0JybEURl5K0yEQpYiR5tcHqRyRg1RAq3JGZW1vFBGZWstE8=",
@@ -597,6 +666,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Los Feos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg",
             "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSxa2YFDtFVNVXnmJ15EeQkYTJfQiNiMnZ/hCJo8DsGbcg==",
@@ -604,6 +674,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Disco Ibiza locomia (2024)",
             "ico": "https://image.tmdb.org/t/p/original/beLbZExOZ64LzbqJbbbjhlqbezi.jpg",
             "uri": "XvdxRfzpRuBUZmwU/GvTCAv4nWGRxx1iavvvpI4gFSxBzfaentFjfz3DBAf/A/x+2/tAyOxhR+Q6QR+VFF+Gcg==",
@@ -611,6 +682,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Rebel ridge (2024)",
             "ico": "https://image.tmdb.org/t/p/original/ymTgBQ8rCouE27oHpAUfgKEgRAj.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtkZYfsTrJ0A4PYllsyWUq4Cu8UnxOynCMg8tjHDLbj9g==",
@@ -618,6 +690,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La Trampa (2024)",
             "ico": "https://image.tmdb.org/t/p/original/oY9SRUcRqdrjyINFoGewobSP7FB.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvRf+OZZwwEuyhdudrlnLho1MEY68kXzXwbinE+fZ0Usg==",
@@ -625,6 +698,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "The killer (2024)",
             "ico": "https://image.tmdb.org/t/p/original/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtbIsrhad+KM39UreiJj3SDb+R3CvKZARwQ0d5lCC7RsA==",
@@ -632,6 +706,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Alien: Romulus (2024)",
             "ico": "https://image.tmdb.org/t/p/original/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuYuYZl1YN1Y0aHddzGxh1dKA2Q/qceqIEKLiCoFEm6WQ==",
@@ -639,6 +714,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Harold y su crayon magico (2024)",
             "ico": "https://image.tmdb.org/t/p/original/6bx3BaI3Lhj86nRaGFNAcjisBbY.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtkRwLzv5vuIWZ74NU2dz6AGVAHqpXTAkW1Z/A5fi6+N/6Iqx+EMrTmHFhd6VwMtss=",
@@ -646,6 +722,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Tipos de gentileza (2024)",
             "ico": "https://image.tmdb.org/t/p/original/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtJDQ5kFC2yxvQzmDdkUkL/UK66UREysxZUaPo04zHSRw==",
@@ -653,6 +730,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Romper el circulo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/4c3IdUFnS8qd3qrMol1b3Rq5MqF.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3dnQrWe+FUaSQemHqbi9QI/ZEZxVB+B+YNu8eAZVKqOsMiStUqw5Ay3e8MypIMFgA=",
@@ -660,6 +738,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Longlegs (2024)",
             "ico": "https://image.tmdb.org/t/p/original/uUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsIQC4w3NxxjIJGzUC5i+cESrQIDZ7LkUu2w9Nob8NXLuGEzHpI2yUJapXkJ2IRAf8=",
@@ -667,6 +746,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Inexpertos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/hQlFyelFIyBDKrm9B1ghlA4KJmr.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtWRHuIDZrjDysoDIA1OkwM7xAc3VOzNeRjv4NmUq/eHw==",
@@ -674,6 +754,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Una boda y otros desastres (2024)",
             "ico": "https://image.tmdb.org/t/p/original/1WDT9yacW9bceozkmlZKDTNFMj5.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvofnI4gukn2dD0StTNmPPgsgnJoXVqgXBWiuD0RhXOmblYOL1yub4fbxMnG5CUqHs=",
@@ -681,6 +762,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El sindicato (2024)",
             "ico": "https://image.tmdb.org/t/p/original/1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3jCpdisbEn4MqwSFF1fXRY7zGHXjX8zGlmvWVMKk+msw==",
@@ -688,6 +770,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Jackpot: ¡Loteria mortal! (2024)",
             "ico": "https://image.tmdb.org/t/p/original/6vVXMy9WqZQXYBHuNueAm4qc0jh.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0VPbjG4VdW07nQDFMiMVi+CI6ZJJ/9k6Y75/9vzEd7Ig==",
@@ -695,6 +778,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La otra cara de la luna (2024)",
             "ico": "https://image.tmdb.org/t/p/original/fCXTOb7J99UJUsYNddDwiO6dxQm.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3ZaYcvtBnlbuV49qwEw6aK3yAdOZDKCtmREwIV1SZZo2Axc3e3geUTqbXAOPp/Ig8=",
@@ -702,6 +786,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Exhuma: La tumba del diablo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/2FnYFdfW8LR13gokzR61ial5iO1.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0yeE9CNZc0M7WeNHFIGa+mrmHPrjbGKGhrWV48zH9xog==",
@@ -709,6 +794,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Vi el brillo del televisor (2024)",
             "ico": "https://image.tmdb.org/t/p/original/3AvLBac3KejQ1cO0d183t4rALua.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2xTC2lNpMbVSkbsskIeImN8qmP1IGuJ4ZrsLdmvcGwVgChtapMIRu3pnI/yDFzfsU=",
@@ -716,6 +802,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Misiones cruzadas (2024)",
             "ico": "https://image.tmdb.org/t/p/original/eM0dIjnUmv4UFdy6vxTantBbXTW.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3p5iEFjnplsK5PM9atbfJjE6DZ/xywU1RkgekHFmtwHQ==",
@@ -723,6 +810,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Incitadores (2024)",
             "ico": "https://image.tmdb.org/t/p/original/jGTB5uoODQwwTuj5TrCx2Bn6ES.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2rQ9yzdEa+4DmdAdXwj4kfK7rdRbZhp0uG8LojC9g1jRaIMK9UowpVBgbEdAs75WA=",
@@ -730,6 +818,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Tornados (2024)",
             "ico": "https://image.tmdb.org/t/p/original/4UWDVI6IleoKl9T6wHbHcqd5zAX.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0a3I7xzpMOgJetgsdQqnYqwVT7/lPVHOs1PUBtXs1tUg==",
@@ -737,6 +826,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Al rescate de fondo de bikini (2024)",
             "ico": "https://image.tmdb.org/t/p/original/1VHcx9WJnxvWs0ykefawnhGU55B.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1ZfRgnx19r2Hf/L/wuEobTJfFWDvD4rI6jfWMQ+d/87cOBWMDxN4vm5HQ5YQDR6XkiKCM1VDQ8LZaYHSNouJPh09mP0PnBUpMLAieqoXO27w==",
@@ -744,6 +834,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Trampa en alta mar (2024)",
             "ico": "https://image.tmdb.org/t/p/original/tIbIgFQBYiXj6dRTGwy5rkeMMdc.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1awIKsCQtpHqj47PWRcZznZwg2OyVMTWwmblWbHEwvfA==",
@@ -751,6 +842,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Un lugar en silencio dia uno (2024)",
             "ico": "https://image.tmdb.org/t/p/original/cn98j9pmANXsdyoQhYhDp85zEwq.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2IWnxbkYebHDJBJWsz/FufPVAk6uuk9tyV8MURTuNWDUQuBRJ+FCN9V9clctBGQoo=",
@@ -758,6 +850,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Amor mentiras y sangre (2024)",
             "ico": "https://image.tmdb.org/t/p/original/yEQKiZOVzVZquN7R6BRyY4n6JET.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2co1HptR05iUVZKtrtCKwcQZAXjNW8PGyAZ27fRdcbW9xt46MUwOem8XxCMz2VqGI=",
@@ -765,6 +858,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Deadpool & Wolverine (2024)",
             "ico": "https://image.tmdb.org/t/p/original/AbCqLVv7r3hts1rsHKd9uuHxHwi.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3XB44rLLI/wzdNZyuHFd4dUmOQc1E9HujZNgDYCuOaQFpxPK9fm8FsWE/M4zAq4X4=",
@@ -772,6 +866,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Bad Boys hasta la muerte (2024)",
             "ico": "https://image.tmdb.org/t/p/original/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1h3IYdQuzIrYo0rfuUc21Rcc9PKzr1eyEddt6epFVjDCPXU0MM/Cd6jpET/xwWol8=",
@@ -779,6 +874,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Inmaculada (2024)",
             "ico": "https://image.tmdb.org/t/p/original/qBNx7t73x1KyfNkNNiyou8qy88.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2VYMCVSsSQbazk1Sclj7EKWhpmIa8SmWj13KvFHmexMQ==",
@@ -786,6 +882,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Liga de la Justicia Crisis en tierras infinitas parte 3 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/jXeeV5YrACBgc9CGvggdsA6PEmd.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtNhODl0/RtQZWZFeJjSYaUGBoaukHHBhEbOGVqPsbUbatPYuDDid7AibHnNZlnJkPQ=",
@@ -793,6 +890,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El campeon (2024)",
             "ico": "https://image.tmdb.org/t/p/original/pw38upiqFVNUzSLw4AHQZz0J0AC.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtNP8UqWJcBqN0Pl+WuNvEWXinKZ/wzhtCCmLvBfEI428A==",
@@ -800,6 +898,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Descendientes el ascenso de red (2024)",
             "ico": "https://image.tmdb.org/t/p/original/vnrHniqku460lvQw0fJz0q2aEjA.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtPe6qmTnpRrSMqLzykGUvvV/3B4xaotJEF5W4Z7N4MaA/UatTU5sRhfEoqomZTH2xGUXGYV2kAbjOslUPA/i/wG",
@@ -807,6 +906,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Divorcio en negro (2024)",
             "ico": "https://image.tmdb.org/t/p/original/mdas5vG9QXZjFU2F6dE9BALiMov.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtN/auPSmYR1+Ye8aLFpYQV9Z2ZWtdTk5hvfSDanauCY2j00oRQ3FjogsYj5kqCIv78=",
@@ -814,6 +914,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Un afortunado soñador (2024)",
             "ico": "https://image.tmdb.org/t/p/original/ymyyoJLOKIc9XW7t4RdvLSjf5We.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtMBMyQS3JcczXT/DpXrMvCBZGKX5Tpt0slfRLfnqzwZG7Am/6LZ7taVh5BNs+Lerwo=",
@@ -821,6 +922,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Desaparecidos en la noche (2024)",
             "ico": "https://image.tmdb.org/t/p/original/uyEFqfRezkNrxh9Lg8fj8IcbkHx.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtPGB1yPTYh85fN+YRMqJSmETEUT8Bqp7BnX6PvsJI08h1feSuO+sbnfR71ZoAeMLPU=",
@@ -828,6 +930,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El club de los vandalos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/b7Vf9doQIZavdJS16969KfO0Lsa.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtMRHMZbqiuMFfATXPhJB0EkyYG/eDSUmspqRgj8PXyIATBAS2Lm4kRyiGP/YPfYxUo=",
@@ -835,6 +938,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Garfield fuera de casa (2024)",
             "ico": "https://image.tmdb.org/t/p/original/6QR2FOCQr41gSduN70WulRIhJb7.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtPDMITeXR8r83zB41Y1PDVxzXuHO9FfGQhaKLh8bvpxxX9kOIeJG3WAwJniuXWFQxY=",
@@ -842,6 +946,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Mi villano favorito 4 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/cihfEI1cwTORZ9W0nDPgxiVCoiZ.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtPZUUZlOGb+Zjl/STrEftpFRInVvPiO55jXUqDa7kknq0Rm1rM4zwk6kyQCnX4hTqQ=",
@@ -849,6 +954,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Mi villano favorito 4 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/cihfEI1cwTORZ9W0nDPgxiVCoiZ.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1QOcUiY2Le+lexOecckxkxhOgkoxsMTUmbbB6mX0QG8cpR8KGiu8d6hogyDj7lXpc=",
@@ -856,6 +962,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El imaginario (2024)",
             "ico": "https://image.tmdb.org/t/p/original/a3Hxt3UhpiyvX8qcO4vJpu0WThc.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtNsU38wWvwCxv255zJWgbTSL+FjEI5ppyUK1DqtQbvJXg==",
@@ -863,6 +970,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Un detective suelto en hollywood (2024)",
             "ico": "https://image.tmdb.org/t/p/original/orA0cCdbJMuDtTHXA3EVCGlHhji.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtMVSTXKaqIZk1MgFuRFZMh6Z5ApTG3nq5mBBHIWvAKOHiMKlkc2BMCywwYb6z6q+sHAXanEBSEtKGEoyRNnt2v+",
@@ -870,6 +978,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Novata espacial (2024)",
             "ico": "https://image.tmdb.org/t/p/original/drXnPoX7sBlq2dqQ5zZkREiO6Hy.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtPizb4va7XsExxTcNknUB1XNZsmAUCgtzjr3off/4sTVw==",
@@ -877,6 +986,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Observados (2024)",
             "ico": "https://image.tmdb.org/t/p/original/okjbd9xyA9jGTzy7asVXW4o4FuL.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtMgEXOz12siHY8XdnZwJ4EBpXQ4DrrqhoACA6jvABt6dA==",
@@ -884,6 +994,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El ministerio de la guerra (2024)",
             "ico": "https://image.tmdb.org/t/p/original/yPNumPkIkv9lm51qpffVJEhtlC7.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtOfHUBQvjnHbhcbBt4dUvJsXajhGFrrh1H7ANSe3zeqOIEAz81ddNc+CYJBk40k8C2ozK1xfrmhYjAS7ZYw9K8M",
@@ -891,6 +1002,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Amigos imaginarios (2024)",
             "ico": "https://image.tmdb.org/t/p/original/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2iLW7gN7S773OC3IdrW+mVWFsQpQxok0ePn1C4kULojw==",
@@ -898,6 +1010,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Intensa mente 2 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/4HEJdpcmTGm3BWWic31G4aCnuC6.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtNdPHtV8JuY3G8hDTQ6vPq8uSgBCajaBnQKTG9XfH0FCg==",
@@ -905,6 +1018,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Bad Boys hasta la muerte (2024)",
             "ico": "https://image.tmdb.org/t/p/original/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1h3IYdQuzIrYo0rfuUc21Rcc9PKzr1eyEddt6epFVjDCPXU0MM/Cd6jpET/xwWol8=",
@@ -912,6 +1026,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Guerra civil (2024)",
             "ico": "https://image.tmdb.org/t/p/original/iCOQUVVaPqRuR3JqF71akguf6Mj.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1n52Wio7EGhPZcaFU6FkKSsizziw45jWCHBi5zovORpg==",
@@ -919,6 +1034,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Winnie pooh 2 miel y sangre (2024)",
             "ico": "https://image.tmdb.org/t/p/original/17UmQl8TuDmHWGlcKeFIjnR8bJF.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0uZLsmLJt/iaTatXPlfkYHhnezhjE8jg3FqGbJobjBITC65DcuqvMgP6hjZvKpxVjY/X4GB/rQ3YiScUm9Jz8+",
@@ -926,6 +1042,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Los extraños capitulo 1 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/tnKmLDpSpJ3CfCav43z13fkeEnr.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2IlOxSG9YO6ig7gEWnhiqc73v4vLKVAHZ98asGzsYQ1Ioi+dOgcfVpaG2T8RyO9QU=",
@@ -933,6 +1050,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Tarot (2024)",
             "ico": "https://image.tmdb.org/t/p/original/Adh7xmtgSIUGZBaMj9VLTmq2G8z.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1JtvCu+s6OiEPAXG8gGVPJpFDL5NfWuKS3Zoe+CYuqbQ==",
@@ -940,6 +1058,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Furiosa de la saga mad max (2024)",
             "ico": "https://image.tmdb.org/t/p/original/txUUoowOD2MrGXAtI3pWifLR9p6.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Pu/stFLIeWRj8J+M8uu9Z2MAWjzQBOjub63qyUFWiTAIKcf+NwAa7aviJvI0qF4CefkK5fVqS4r6lkvaWpv6A",
@@ -947,6 +1066,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El planeta de los simios nuevo reino (2024)",
             "ico": "https://image.tmdb.org/t/p/original/p2wJF2CtbHhtQtnAxoHeptoSv1E.jpg",
             "uri": "vrpcnBq6d2If9cTqGYOUOoAwiVPCPLMNO1FVdS+bxtNahs+kE/XFANJ9Guy4i71Cgwri7HY7kz1DshfDfothuI7Y800BZx06QrlvwoE1fjtfRQP3+wPTo8mk4qSWkDp/",
@@ -954,6 +1074,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Nahir (2024)",
             "ico": "https://image.tmdb.org/t/p/original/w4TcFexTfo5X7NkvNSeTrRSu9Sj.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2R0L2Dj4oLl74PnfiZgdNgRpM1jCZqZpG+Nguzy5WFgA==",
@@ -961,6 +1082,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Wanted man (2024)",
             "ico": "https://image.tmdb.org/t/p/original/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1cpE4Wqv3N8wmxHy0+16Oi95OR78lmVOk22Gxbfuj94A==",
@@ -968,6 +1090,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Godzilla x kong: el nuevo imperio (2024)",
             "ico": "https://image.tmdb.org/t/p/original/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3aUgEp78yGFWf47xBBLvV/cERGT3oBd0el945Nho4nJT1BlpGAnf8cdYp2bb4YrQZop8QYzBGzIvIxs2etOAnA",
@@ -975,6 +1098,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La madre de la novia (2024)",
             "ico": "https://image.tmdb.org/t/p/original/5LUy0JxMlCynStB2pCxTInwtjVx.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2jy+GYooSvpKGr3nbAZ+lxASrMPzbEsJ2Uo5pfZt/P2Ffw9tQpMPKeb8dduhufl5U=",
@@ -982,6 +1106,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Abigail (2024)",
             "ico": "https://image.tmdb.org/t/p/original/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3g0amMfXxvf2NPDT4Q0e49ez8XBchlQ8btcAryeAyOQQ==",
@@ -989,6 +1114,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Ghostbusters: Apocalipsis fantasma (2024)",
             "ico": "https://image.tmdb.org/t/p/original/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1ba/5oyVX4Q1BL73gp47Bl7lCdYYEM8GzLL1XHpX21dMhf2K9h6fZ+pzqUFUEsKTEzWEYL2OXKZttoG4pTmaB2",
@@ -996,6 +1122,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Angeles inesperados (2024)",
             "ico": "https://image.tmdb.org/t/p/original/uhmbTYzE6iKQUwuSgQVPnrgyrBi.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3uH8AYNu63+ViddHh3Q+sXcj5iZaHR8UbmMP3tQ0ce/+dKlrfgeKAF7Zj7/ALRUsk=",
@@ -1003,6 +1130,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La idea de ti (2024)",
             "ico": "https://image.tmdb.org/t/p/original/gDwozlXGEg1bvszDlfEMbLRvPgR.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI34L54FJH44OJ+SPzb44b/8DGxS2V138O1IZpJq2LBdSyvzWoJ3srJuIgDOIXR82ys=",
@@ -1010,6 +1138,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Miller's Girl (2024)",
             "ico": "https://image.tmdb.org/t/p/original/bqxgqG4C4kOOUiJQwQc6xZOu3A3.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1TcZoMQ217hIQIB6AOVw2OYmP9ZJf6iv1fuJdv8xONitE0qSv/JdyhHbfsNBYi0gw=",
@@ -1017,6 +1146,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "En esa direccion (2024)",
             "ico": "https://image.tmdb.org/t/p/original/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0p3PeK5fvWZSOF3G0prkda5ulRf8idSIcZ2Qkiq+MOcqRebNvPtjZJo90dC0mUYsg=",
@@ -1024,6 +1154,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Operacion esperanza: los niños perdidos en el amazonas (2024)",
             "ico": "https://image.tmdb.org/t/p/original/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0T52ZM1DRlYCf9Bk6RHoM2ziOAeqwAbGV5J2SQg3pfbIJvS76cmwiMW8WymdVtczYmrCZlhFViBgXlq4d2mZPES2sC00Sa53Dyu9eb3DduBg==",
@@ -1031,6 +1162,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Atrapados en lo profundo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2zRG1Srldc45aWTIWdU+blS/wX2szqyq5c97OW6+9/JQ==",
@@ -1038,6 +1170,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "City Hunter (2024)",
             "ico": "https://image.tmdb.org/t/p/original/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg",
             "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzemvyZ7bxpWSY9xJcY3d8mH2VUZODlUVIk+ONatYb9in8w==",
@@ -1045,6 +1178,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Liga de la Justicia: Crisis en Tierras Infinitas Parte 2 (2024)",
             "ico": "https://image.tmdb.org/t/p/original/aOT8n3YOOkInZ5VHJN4FffHrm43.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1SON3xYI1zxJ9vIMjmQQ+1Uxt4oxWAKJh0ZvDRGHQU/KB59cMf4i1E16UHdRY4ll5t0IbOxYbHbiQPXDoWJu6JKfaimi+R2OqKqFBTfVRE9WEAXuZ72vdrDKZphg5HKV8=",
@@ -1052,6 +1186,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Rebel moon parte dos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/ivhOeG5S2CzKjcKhureKAtfonHg.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2yIZnFmK1iJRUu7dTwIJl4MP1kkzhMWgoRc53LgocvcWZ9Fx0Cxzuxx+ud3OrebbmXK3luAwLuRe2PHjIe7wNe",
@@ -1059,6 +1194,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Duna parte dos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/6o5cJjA4srfvU52UKWaqPUuPPgl.jpg",
             "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzekrPVuTKilD2zOoKyMZFace6Pper6YbuOsSbXsAaBp9qg==",
@@ -1066,6 +1202,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El pajaro loco se va de campamento (2024)",
             "ico": "https://image.tmdb.org/t/p/original/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg",
             "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzeneS4Yyx0SBl+Xc0HAHgdg9qmJdduMJA1n9eJFMQU7yxQKRLvzlz744GVsBcW/yFOiofsTwe12KhIIaBRmKTEYW",
@@ -1073,6 +1210,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Rescate imposible (2024)",
             "ico": "https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2fziP/Pt6KO/6dHudDTgjWSa6OnB4g9jfhVsEZa10EN0rIOD54jXLRVeg+vYdpuXs=",
@@ -1080,6 +1218,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Baghead: contacto con la muerte (2024)",
             "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0St3uZflO6iP7mJqrkCs8OkvvAAAt8gQxmzizd6JsDEQ==",
@@ -1087,6 +1226,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Fabricante de lagrimas (2024)",
             "ico": "https://image.tmdb.org/t/p/original/i91SgC0uQa3fb68foFS3zgaMUuD.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2bw3wA1fD7/nQaUkQbcHPQK2s2tb0OgGU173BN8z2VPXf8SH+I5T/ieU8YXn9rNeg=",
@@ -1094,6 +1234,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Musica (2024)",
             "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1D/gq3svH1v41puaApyRbEBOpOSV4G52/ZTGZ0qNbtpg==",
@@ -1101,6 +1242,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Jade (2024)",
             "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1z3CYWv3mdlRUWzRGGxRZiHBFPWR29529NPAYZzmhygA==",
@@ -1108,6 +1250,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Imaginario: juguete diabolico (2024)",
             "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0F1/gsDjYW5Zjnaauqu+cXd5a4kr3550FN4NNw8OlFRQ==",
@@ -1115,6 +1258,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Lisa frankenstein (2024)",
             "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2AJAloDA9uzwIJSBTM8NMqwHY67OIey7qHnExjYlXp8SZAooEKsK0xxy+mj7U4hao=",
@@ -1122,6 +1266,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El duro (2024)",
             "ico": "https://image.tmdb.org/t/p/original/lXJK3E3EPcT2i7mev2ilHlTIvTR.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0Vw1Sj/xKAEVwnTmZkRWcEBuYlN7t47hh9z7EebWRwSw==",
@@ -1129,6 +1274,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Bob marley la leyenda (2024)",
             "ico": "https://image.tmdb.org/t/p/original/ayaApnFGwc6hHJHry59GjfWuTSK.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1AUyCOQTRnIjY38625p2DhWrlSYvs4boIOkSq2c3vUcTjkhSVeQuOicGrv0Dt/HUA=",
@@ -1136,6 +1282,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Kung fu Panda 4 (2024)",
             "ico": "https://www.bizcochito.es/Films/Poster/tt21692408.webp",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2f4B6xinaJ1GtLQWZxCUfVViR5tnF7RWqNGM4V62JMMQFl0rKHOdDv+3ZBpEIUr4g=",
@@ -1143,6 +1290,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Madame Web (2024)",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1LpWchmVewQ1O19sXhMYaBfNIYuBk4TA2wPYNyk5Ar1A==",
@@ -1150,6 +1298,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Dos chicas a la fuga (2024)",
             "ico": "https://image.tmdb.org/t/p/original/xdfjyWWdc6Ubq4LP5HBSAsdl8ZQ.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0mjvNtOXG3DWrV3hYAuT73DzmPe45Q9I82VOItI+nOSxC2UaL/RVdZx+7rr/0REPw=",
@@ -1157,6 +1306,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Damsel (2024)",
             "ico": "https://image.tmdb.org/t/p/original/AgHbB9DCE9aE57zkHjSmseszh6e.jpg",
             "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzenTd2YRv2frdq5uP3buL6mc",
@@ -1164,6 +1314,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El retorno de Los Thundermans (2024)",
             "ico": "https://image.tmdb.org/t/p/original/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3Pz6bnvdEJSDJEpHmzNT7rd0YH0rz3rP39C//5JleB40ZxUXO9ddVUm51frGhjY5Q=",
@@ -1171,6 +1322,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Ricky Stanicky: El impostor (2024)",
             "ico": "https://image.tmdb.org/t/p/original/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3PUqtSiwzOzH1JQxFSC6WP1l6KyXTDQNSWN+H3mM1KeP+IXy8oEkrIg0OP7HkvdzY=",
@@ -1178,6 +1330,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Argylle: Agente secreto (2024)",
             "ico": "https://image.tmdb.org/t/p/original/tshllXJDIctUlD1kMPQdIh37L2V.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0lKpT8hR9503t2qAcXgkhLV2Tcjte/a5XQ2zEaB9QICw==",
@@ -1185,6 +1338,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Los desfiles (2024)",
             "ico": "https://image.tmdb.org/t/p/original/vdEtrHGY7wuJ9WTnlYkTsnklAdF.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3koJDVtAcp6JJkCTLPkh/FR7epRvG/JAZ1lVd09Ojr5g==",
@@ -1192,6 +1346,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Me llamo Loh Ki-wan (2024)",
             "ico": "https://image.tmdb.org/t/p/original/4ByoFXdgZ8SGddSHxBfdsy4HjZw.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1rkUmh0qAHsQeuR8El1531YPwirWq9iegyH5WChi9+ctYaXHNNQe3fZYTWOUp/hDw=",
@@ -1199,6 +1354,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El astronauta (2024)",
             "ico": "https://image.tmdb.org/t/p/original/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI04L/zNHOYYEcKQT93m3Ep09U/03ahdnQVjBV71HfKtpQ==",
@@ -1206,6 +1362,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Beekeeper: Sentencia de Muerte (2024)",
             "ico": "https://image.tmdb.org/t/p/original/lINM7cYGwWY6pl7aQXazrfNpw3S.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3+kMlPoHmd82yNPf1bTafLzUg9NZNSc5VCrp1lAV3dsYTiBwX85KqBb0mIpl1dVis=",
@@ -1213,6 +1370,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Código 8: Renegados (Parte II) (2024)",
             "ico": "https://image.tmdb.org/t/p/original/dg6WrJUIQLU4pssA4ZucGfdOj8.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Eki1oyuLiqfppw5UuZzSYip9eO/tg1kjjT0KM/GLNs8jsan0z4LM5RA9435ga8zM=",
@@ -1220,6 +1378,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Chicas pesadas (2024)",
             "ico": "https://image.tmdb.org/t/p/original/pEIBWFDzFtVSVl5MO7zyAXpKvwX.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1gp2WJWSkKrCuywcyezQWdYB2FKH8SEfC+4UtwkRgI6A==",
@@ -1227,6 +1386,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "A través de tu mirada (2024)",
             "ico": "https://image.tmdb.org/t/p/original/1RxPBKMpHlcm5PORiPo6LHUV2ft.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0/cXjsHVSxuKKH1qXbLhCe86J0TxZjQ1sVNqKjNWKTemsZkRM7R0GWHF6bFUUmuRE=",
@@ -1234,6 +1394,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Mea Culpa (2024)",
             "ico": "https://image.tmdb.org/t/p/original/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3zOmmLMpphr4/2IEZXgGqH0MKjO/cYme2vH6wqoQHdMQ==",
@@ -1241,6 +1402,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Combate clandestino (2024)",
             "ico": "https://image.tmdb.org/t/p/original/ajp91apA8TRvGRHFKIDQeix2xKx.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1UDb5yruldO65b+/e4XX5pbC9cgI9GJgKPTeLFTFQ5AA==",
@@ -1248,6 +1410,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Snoopy presenta: Bienvenido a casa, Franklin (2024)",
             "ico": "https://image.tmdb.org/t/p/original/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1U4IzXufvV4VLNahkglNPANgWHuTflX0Fgq7qe0ZsrEuDVeOJ/YZnOn9Gf5vHaSFRsx+T99x4D0gngCMjtejK+",
@@ -1255,6 +1418,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Los juegos del amor (2024)",
             "ico": "https://image.tmdb.org/t/p/original/sZSf89I56LeFdBg2AugV0tDk4Qu.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0cDbyJLP0bpskruSmIgrNPKBx8asKLzYR18I2MCGrKfQ==",
@@ -1262,6 +1426,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Suncoast (2024)",
             "ico": "https://image.tmdb.org/t/p/original/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Vr49nVOQrRNvmZQndPVY5tVFzPv71LfS6UFvopOxL4Q==",
@@ -1269,6 +1434,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Ascenso (2024)",
             "ico": "https://image.tmdb.org/t/p/original/rlrmLtl8MiQ2b1oMu9AL8ME9Alv.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0oHEQ9IPMJFx2naRoeOPOUs57nkegDsUf5DfSNQXjRYw==",
@@ -1276,6 +1442,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El aprendiz del tigre (2024)",
             "ico": "https://image.tmdb.org/t/p/original/zjmRuNZcLZAKWk5WE5wM57Js5xk.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2/XEXK5mZmgdHEgmsrekTmAzq5laVZX8SMRpkdceOVbUwINT2fM9HdTkWn9mZkCAU=",
@@ -1283,6 +1450,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Bosco (2024)",
             "ico": "https://image.tmdb.org/t/p/original/erMuYacJlYavKuUrJAX5hsBp3nT.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3y6s86m7/yB9tVlw8V8yW0VQGaxZwaH6i5BXcm8nVLPA==",
@@ -1290,6 +1458,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Orión y la oscuridad (2024)",
             "ico": "https://image.tmdb.org/t/p/original/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3aHD1MqheNUhABs2jh/NShicXRhpM8t//FOy5kWRVOuGBtXUsVdILQo0Ghoa+gInE=",
@@ -1297,6 +1466,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Cazadores en tierra inhóspita (2024)",
             "ico": "https://image.tmdb.org/t/p/original/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0iiaa4YAOpOahfj4vqWR5rlbNu572GPvldRhdFo4DEcAwniD4JwdkHpwCTCL4qBXQ=",
@@ -1304,6 +1474,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Los menospreciados (2024)",
             "ico": "https://image.tmdb.org/t/p/original/qjx6CMGEqYheoOhwUrDDAyke9z1.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3IGG14YMkKwWqj9GNaVpYcwWmmOyHLGpyxzeLD57PTZTUT2BoX00rdmpKmQ32wFZw=",
@@ -1311,6 +1482,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Aguas siniestras (2024)",
             "ico": "https://image.tmdb.org/t/p/original/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2VBSzVKAeMMc/jyS4H/FT7gLmvF2RQVs9cMpQod/HV2g==",
@@ -1318,6 +1490,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Monsters: El infierno del dragón (2024)",
             "ico": "https://image.tmdb.org/t/p/original/6Isg2ASUQXzFwLBTFnItfkOlqo9.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3gbFjV4HYmzkPxchO9otk3yKcEvxbl00KJ9imyUf+wnVnncLRyK5D9c89Dm2DWXL54UjwyHG3aeqkaXL1wSE7e",
@@ -1325,6 +1498,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La Cocina (2024)",
             "ico": "https://image.tmdb.org/t/p/original/wOO5GedFLfbm3Ssxt3VrNO2fAIg.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1D4KBCw5xnPL4+9Y1077+4v3liVK61E/AZ9kZ6r0qcAg==",
@@ -1332,6 +1506,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "60 Minutos (2024)",
             "ico": "https://image.tmdb.org/t/p/original/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI10F8izGXOXCi3qXH5ikYkYUkRZznCeaKWK6tUFKBS7hv/YqLYO2h4FQ3ZsmPCXIo4=",
@@ -1339,6 +1514,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Lift: Un robo de primera clase (2024)",
             "ico": "https://image.tmdb.org/t/p/original/veUHao6XPxcb5MeRDdhokevxiz5.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2ZZfhWxK8C1I0Jv/ZWMgcL4yXhy5/qisXSo8FxqBAyww==",
@@ -1346,6 +1522,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Napoleon (2024)",
             "ico": "https://image.tmdb.org/t/p/original/re6SSQS1HgBGG9AMiNuPGISOfMx.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1MgckmKkkkDcjm2tu5AYa8TLElTaGB5qqhurHAjXIyXg==",
@@ -1353,6 +1530,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Despertar del duelo (2024)",
             "ico": "https://image.tmdb.org/t/p/original/9Xr2PiUlJeDdSHLxSiXQZruygVg.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2R56NZAFiCxkWEe70BW3Eo+UwLh7xYYXHhbgCviyDWzw==",
@@ -1360,6 +1538,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Foe (2024)",
             "ico": "https://image.tmdb.org/t/p/original/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3HojW5Tf+jWD8djM3vSycM2fgJcuEt/Xy7i7i6NVwj9Q==",
@@ -1367,6 +1546,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La sociedad de la nieve (2024)",
             "ico": "https://image.tmdb.org/t/p/original/lpnRQzopVI4rPRE0aiXG3lOwjqq.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1iLD8acpQU4SsMqqIKV3JtRxHavaAflwqLys38WUh/ye7in7gJwM2VS6LOBq7DOjs=",
@@ -1380,6 +1560,7 @@
         "mode": false,
         "lista": [
           {
+            "tipo": "HD",
             "name": "Lazos de vida (2023)",
             "ico": "https://image.tmdb.org/t/p/original/uWv2mJaqnMJFGNRpCwg9UtbLg2i.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Lah4+GUGmYQPjmzLc4GZ5VnWTKVobUQz3VAEc1qNLbA==",
@@ -1387,6 +1568,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Garra de hierro (2023)",
             "ico": "https://image.tmdb.org/t/p/original/rZ8j1LnAPxIwsGEN7oC7gOHUQK1.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2oZS+p7mBxoT6+JD8yDwMVBEahXjwlVjhYmDHL+2fC8XtwuLdUCIXmDMGO94qiYmY=",
@@ -1394,6 +1576,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Heroe por encargo (2023)",
             "ico": "https://image.tmdb.org/t/p/original/AbOgZFAKSrYfnfMHd4vUq61J0LV.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3bF6BL3OYyoY4U9oETQVFODHJmbCf9APFR4bJFGoRtSg==",
@@ -1401,6 +1584,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La biblia de clarence (2023)",
             "ico": "https://image.tmdb.org/t/p/original/rwWtGSS0Bx0oIpfJxQjJOuaHMkj.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI348XHVKJQvfPPwkGCAHMYVYprRiW+5OsNlykNHHInIfQ2/JPhh4wyJQgEILl1iZK0=",
@@ -1408,6 +1592,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Sobrevivientes después del terremoto (2023)",
             "ico": "https://image.tmdb.org/t/p/original/rmx6bCD4w8Fanqat2kdv7zaHJad.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI11Vqton0mbfDEMF1GEDCb03lneeKlDh6D2+v1ycIkoIwIMWx0XlDCQadZIOeZnF3c=",
@@ -1415,6 +1600,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Simón (2023)",
             "ico": "https://image.tmdb.org/t/p/original/sllxb3Ydr9Rgjl1MuL7tT37ap35.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0bAMgwDbTY9z0YX3vYP7gHruBQ9m88Z9cpdRsVaajObg==",
@@ -1422,6 +1608,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Pobres criaturas (2023)",
             "ico": "https://image.tmdb.org/t/p/original/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0IQA9zXLf8acFcrfmq8TUGOrY3LnUC8dlS/m+IcsATXQ==",
@@ -1429,6 +1616,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Good Burger 2 (2023)",
             "ico": "https://image.tmdb.org/t/p/original/pcwOHNTIy6pVOLj6Tjp8tSL9bwF.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI32PEPFq1hm+SyytpRN/mURs4suHJcyVBavWiD6wkB3U9VHE7T6bR++NVNoe+WDvIc=",
@@ -1436,6 +1624,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Trafficking (2023)",
             "ico": "https://image.tmdb.org/t/p/original/9Dz3H25Th3DrhsQFpXkaupm94qK.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1oefuSd55EgRoM84sHyoEi4VEb6DJhEjk1H3vJlWz+fg==",
@@ -1443,6 +1632,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Ritos Ocultos (2023)",
             "ico": "https://image.tmdb.org/t/p/original/r9YVidx1PEohZLNtyJm05OMiPuD.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI11+nGwF44NUSJVoz+f/j++RrLP/jbUQIJ6Snxa51JNEbpv38Sw/g5af7/POszkYoU=",
@@ -1450,6 +1640,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "American Fiction (2023)",
             "ico": "https://image.tmdb.org/t/p/original/vf1bpbpCUL7orMx36pqJ5yZrFwr.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1U9hwKG43dUf8p6OmHkh0vb9cQ9CrAGizcLamb0WaaniOElu9OPKIg+vnBjja35aA=",
@@ -1457,6 +1648,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Manodrome (2023)",
             "ico": "https://image.tmdb.org/t/p/original/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI38wqV3IRvBjHnEMdvp3VtLCCZHcEf2K0hYc/D4FTI0Kw==",
@@ -1464,6 +1656,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La Maldición del Queen Mary (2023)",
             "ico": "https://image.tmdb.org/t/p/original/bXjhXARVzXuh1H9AtMOo8yfF2AQ.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0Y1Cqk2YceZFEv2EEu07XMjcjHiL2qDhvtV/Byp58vZbBtCq9mOmJZKQw8F7q0/jP1QJPZ8y7LasyqjzXuVbes",
@@ -1471,6 +1664,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Noche de paz (2023)",
             "ico": "https://image.tmdb.org/t/p/original/u5rCDIvbAMlBr3fMt57tDfkrV1o.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI01fgQ9qm9uNAmSgOapnxMIbO6HSVQ51sJjLQwSGI0BX+kQGwcIj3tqMMgsKWTSZRA=",
@@ -1478,6 +1672,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "¡Patos! (2023)",
             "ico": "https://image.tmdb.org/t/p/original/x2y9b57WxrbPATlyeOr7BesmUem.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0UqLWLM10q3zV35TIllWmiPE4spvsD3FUzBRc8+SH1TA==",
@@ -1485,6 +1680,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Wish: El poder de los deseos (2023)",
             "ico": "https://image.tmdb.org/t/p/original/1VXMrUioKfPAPSsezHKexx77Dbz.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI17GEs9TqivpCQejEpJAjaWO6ogniRghjB6+uKOY7AcZg==",
@@ -1492,6 +1688,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "CAMHD",
             "name": "Aquaman y el reino perdido (2023)",
             "ico": "https://image.tmdb.org/t/p/original/a0QwtpUNIKjOlNoOVmk7d2LFnQW.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0v9Sz6ZSudGjv0NAltkKEqGsDk7KXhKSfsQplW1xAOh8+bPquKGricqHekOpSKFyjacxIxZQClEBzJJmup4LXa",
@@ -1499,6 +1696,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Wonka (2023)",
             "ico": "https://image.tmdb.org/t/p/original/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3djGRKWwayyXObvQXUuXK6O/a3GUy/k0Axf50dOZc/Kg==",
@@ -1506,6 +1704,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Camino a Belén (2023)",
             "ico": "https://image.tmdb.org/t/p/original/nBNm7WgAYeGLSrQz1PoNB94CS1Q.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0psoNbFQPHqc47XpPTHvtCLU0W1n7etmje0+4P2KkZvJXNObRg9OfXofK8aPQJMVU=",
@@ -1513,6 +1712,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Gol gana (2023)",
             "ico": "https://image.tmdb.org/t/p/original/6zb7wUmWQ8HogqyILJy2eEtDHL7.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0eZhkDw+g0hErbA8pbk571QWITFfnHQjw4FLv/9mypHF9VDpnyzGzMM2rJL2oUwy4=",
@@ -1520,6 +1720,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Remando como un solo hombre (2023)",
             "ico": "https://image.tmdb.org/t/p/original/2by4DHPmfaTqJ9YJZJK5tPxHpuk.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3jTOmE4IX1RmDPDAlgu+x8k0CBvaptTZYafNrzF0OyTdKVyT5F0Quy5ySCTzGixNo=",
@@ -1527,6 +1728,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El color púrpura (2023)",
             "ico": "https://image.tmdb.org/t/p/original/uYz9QfhgluTNnoV2NGFhault0dL.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1OteaOIwp6igAVF9QUfX87szQ8vREBXko7tQrRADlX8lc2LCZtkUyomk28nhP0eDc=",
@@ -1534,6 +1736,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "The Marvels (2023)",
             "ico": "https://image.tmdb.org/t/p/original/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3EY1F1Aa9cur/bkXvLA+X9/6Q6dFZYq9S6xhkmSOckDg==",
@@ -1541,6 +1744,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Elijo Creer: El Camino del Campeón (2023)",
             "ico": "https://image.tmdb.org/t/p/original/eLbDSu14EZ2VldIgDDGrt5pJkoL.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0sHEcLndqXmVciVKM+PUUMEQubTb36ncYGRKYgoesw6w==",
@@ -1548,6 +1752,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Muchachos, la película de la gente (2023)",
             "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lb7Lpwzu908fbph9enKN0axiYy.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI28Eh1F3TG+IqGfHz5vGE5SkIuqnLrDrx3RwPqLUJmgmw==",
@@ -1555,13 +1760,15 @@
             "drm_license_url": ""
           },
           {
-            "name": "Muchachos 1080P (2023)",
+            "tipo": "1080P",
+            "name": "Muchachos (2023)",
             "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lb7Lpwzu908fbph9enKN0axiYy.jpg",
             "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzelzYBL+l0QQD7zjEAcNhsBFBtdazfqVGR9UvLHIAt2e/bJOId8N5vQL/roi9uDx3mW4DsXt/Lu43C71dXQtE8Ga",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "South Park (No Apto Para Menores) (2023)",
             "ico": "https://image.tmdb.org/t/p/original/2OWYKGC3XmWOhcw66WkgUV0IV3g.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3HtMX4PIvBl/02wdDPWNX7IIPe7o3Kzt49ARdCosY+f0vFeNwXa67w5O6nLyvYNxtryqoMRdxbKOmmQLK+pLVHzP7nTdsQsBbhJaArvTcB0g==",
@@ -1569,6 +1776,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Saltburn (2023)",
             "ico": "https://image.tmdb.org/t/p/original/7Z9msb7PzlnvTow8F0bv1yTQesq.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0C26zR5N+QL3aj1GPhvBh8vtAhYaYgscAtPDjc9Cj97g==",
@@ -1576,6 +1784,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Viernes negro (2023)",
             "ico": "https://image.tmdb.org/t/p/original/z4LWnCBeAl6ifC9MCL20P80rxv8.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0sBe0k6L5L3LLpGJTAAAHpKHqwJACDgyLFis62yrh9+w==",
@@ -1583,6 +1792,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Su unico hijo (2023)",
             "ico": "https://image.tmdb.org/t/p/original/1MvQXCBJtC34yI16QS276ZjWKY1.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI20nk2+tuPYm6TM5IGrbJ9CbrgbYNJWqLMlk07egjYetW4amxXOA8ET7Md8PGKbXu4=",
@@ -1590,6 +1800,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Maestro (2023)",
             "ico": "https://image.tmdb.org/t/p/original/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2EVm7dn+UdSS6YPZXtG0lhvaCWhKIlmB5wuy3sEh3hMQ==",
@@ -1597,6 +1808,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Los juegos del hambre: La balada de pájaros cantores y serpientes (2023)",
             "ico": "https://image.tmdb.org/t/p/original/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2mj6uLc+YraUTA76uF9XpRfnKJc+76pUfPpEnsenr+DltVBu5HcEhsiMzZEP7ZuGU33YCz1cfRX+VY5gcJ5j3YxcvlgNy0SDEYj/4tr2IUICJnFaiprih68fvqgaTOjgY=",
@@ -1604,6 +1816,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El bufon (2023)",
             "ico": "https://image.tmdb.org/t/p/original/6a6PmabZ32a0xIn2TJx4MGKN6Q6.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI28mTBmThePaiRFrfJV5GHU4V6pKuewo7VOJpt88ZI4HA==",
@@ -1611,6 +1824,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Finestkind (2023)",
             "ico": "https://image.tmdb.org/t/p/original/3XDp10H0Gpi0DIrnsXY1WCSFh48.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI03uXJmz7SLdNtwtj5S63C4KUQra5AKD8+aBt6/yQiVQQ==",
@@ -1618,6 +1832,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Plan familiar (2023)",
             "ico": "https://image.tmdb.org/t/p/original/mBiylEUJgWikljJJNB61u7dDPON.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0NN1P/IsV0RKymBQZlQ8iafzEzJDZcLGhAi9U303CzjLWzcuscVpGIt2IrqOV3nsI=",
@@ -1625,6 +1840,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Pollitos en fuga: El origen de los nuggets (2023)",
             "ico": "https://image.tmdb.org/t/p/original/ctTchAvGFiVZbLeUallYUqKaw0l.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0tjdZ8KmKFwMSUO9ZPnHLPlfUGGcn4K0ONQYSrIVR2Ykn4QXC5X7AL9yoRP0SNXXNRScgTEzKf7YZhyaPSQhMI",
@@ -1632,6 +1848,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "The lesson (2023)",
             "ico": "https://image.tmdb.org/t/p/original/fWpaNoG51k3ZbDYnSS3ZazDCRxm.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3+m2oxpDULpSveVqPygEfIwYJrLnJkzSO3rNf7ey+WZQ==",
@@ -1639,6 +1856,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Tu navidad o la mia 2 (2023)",
             "ico": "https://image.tmdb.org/t/p/original/1Pfxk2XiO1NlifAjOthpmwSectF.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1wPDWrroZRYPEOncv5uIg/D0nE34xA4clx+QLDwrm2Mwd+CTGrJVk7w0euH6WurgCgjPGBkSG3hZBcMRcrrwPI",
@@ -1646,6 +1864,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Dejar el mundo atras (2023)",
             "ico": "https://image.tmdb.org/t/p/original/3sPMGyUvwNdlCgceuBvb50jC7mN.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2cM7dNDyWjTNyOqtNjbWnOSmCpcsoKYOZmT/+iWwelAL5bHn44FiGNrh33gLZRlAI=",
@@ -1653,6 +1872,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Los archies (2023)",
             "ico": "https://image.tmdb.org/t/p/original/wNBxKUcTONyVCqbEqWWGUYS1J7D.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0aM8KAlBm4KU/YmMShOgMLYunVlsHMpB0DBZo/WxrAMA==",
@@ -1660,6 +1880,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "La navidad del pequeño batman (2023)",
             "ico": "https://image.tmdb.org/t/p/original/55EctBjIeTsCK6QGtja9cddKL78.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI12htQ6IiJa+8iA2BOYSgQQvpJIB45v6CFWCoea2TI7LNNF0zYOoU9ygpdtFSmdVpg=",
@@ -1667,6 +1888,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Mavka guardiana del bosque (2023)",
             "ico": "https://image.tmdb.org/t/p/original/7y2MqycqOzK8V8axtRLF6BERWoG.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1BJZz9EGMFrcoqi+sCxJ6FiqhIHZbZieGxOb+yNRiXCHU40hhOfSgQsJ5YDUeqLQM=",
@@ -1674,6 +1896,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Blackberry (2023)",
             "ico": "https://image.tmdb.org/t/p/original/mfTWiM8hAMpcgGxt5UNAjcBTcVJ.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0ecB9ZMGxFuoergItc8ZLTqNSrrehUymgjgKrCVy9E1g==",
@@ -1681,6 +1904,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Los asesinos de la luna (2023)",
             "ico": "https://image.tmdb.org/t/p/original/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI27z4HN8fRosjYKU+sZOoQycZESED5rcX2cD6Qzp0fi2SOeby20FB9EIvkn9LnWWo6hVn7divPpwFORqYB/CPyi",
@@ -1688,6 +1912,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Trolls 3 (2023)",
             "ico": "https://image.tmdb.org/t/p/original/saGpA6u71TPA8DyTYoAqSBGVZW.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0YAxfUQ/j1QlwJJ5HoYzNpZkV9tiUOo/y3vqZnPJxM6GgY21CZOIGm/5xTENyv9CU=",
