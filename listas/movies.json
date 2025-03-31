@@ -4,6 +4,7 @@
         "mode": false,
         "lista": [
           {
+            "tipo": "CAMHD",
             "name": "Rescate implacable (2025)",
             "ico": "https://image.tmdb.org/t/p/original/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvHOwOlyMeENPgMOHpuqzIG2ll+lxzRnvMnSnWwomgnlQ==",
@@ -11,6 +12,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "CAMHD",
             "name": "Codigo Negro (2025)",
             "ico": "https://image.tmdb.org/t/p/original/10mptwEjRHIzCPrQOpoqJsolrKv.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtMYtm40/dY5oApvGoe/LVJMnfMxNVcKMwwrN2K9KydcQ==",
@@ -18,6 +20,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "CAMHD",
             "name": "Blancanieves (2025)",
             "ico": "https://image.tmdb.org/t/p/original/pnTtkDkvcPGn9UO9S7E5R4v6qzn.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUv5+p+bMmqwzrj8/+WJQaDhau60/WuIpNbqXnfNsLTjsw==",
@@ -25,6 +28,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Estado electrico (2025)",
             "ico": "https://image.tmdb.org/t/p/original/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtMMIDtLXAzN1TJ0ds/iPDtjZ4SpkLPtJ7LWqDkOh/O7w==",
@@ -32,6 +36,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Bastion 36 (2025)",
             "ico": "https://image.tmdb.org/t/p/original/19G9YouWQXIIyHiPS4VEAqCr7h1.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUu8fx1EdEfWoaKMnJaIQj877ScSk0gyBFJV3HYDg5+BCw==",
@@ -39,6 +44,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Oni Goroshi (2025)",
             "ico": "https://image.tmdb.org/t/p/original/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsRf8jw3mlycIi3ESITiPx9M2VT7MyjGxnPDOaB2DxnulSqVqwGwWH4OviBSMD/Azo=",
@@ -46,6 +52,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Amor Explosivo (2025)",
             "ico": "https://image.tmdb.org/t/p/original/od7Cj1kM0JBqz0NuGHUumOOE476.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuiOjAcnsIBJAtEka6wHyJMHCfvDQ0p0E8/Ab2B4Sfy5g==",
@@ -53,6 +60,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "El Mono (2025)",
             "ico": "https://image.tmdb.org/t/p/original/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUv0cH+epP0H47RxevZFSxNayDvZgtMPPcXre4BAia8YwA==",
@@ -60,6 +68,7 @@
             "drm_license_url": ""
           },
           {
+            "tipo": "HD",
             "name": "Henry Danger: La pelicula (2025)",
             "ico": "https://image.tmdb.org/t/p/original/o6HP5G2WNV4ZrYOPaRjuzGty7UO.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUt+zxpvdbeFjgO29EzdRZ3EVsvTNFwbOMNmE9igYi5J/aPZOAoWz1S1J1svFJTg9mg=",
