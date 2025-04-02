@@ -735,14 +735,6 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TYC SPORTS",
-        "ico": "https://i.ibb.co/DQCr3ty/tycsports.png",
-        "uri": "xMLhPVUp9IOGE7iEHYSHMmq2VVi0gltD88dxRJKL8K0UOP9FgvZDvgafNbnCu+EDs4xLuJdsz+GDsaufJr/S39fmk+3RDZm6Hly/SQJrQk0=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqltzkOyybhoSJRlwHG7dynWQdPMnDTxqiKywFk6Q1/Og==",
-        "referer": "https://nowtv.express.com.ar/"
-      },
-      {
         "name": "TYC SPORTS INTERNACIONAL",
         "ico": "https://i.ibb.co/DQCr3ty/tycsports.png",
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwe7AceldLK3Q5lp2ICLmkn+BZmDuiCm48wqS/blLc+oQTkzG+hFxPTvzw+FCmMN5WNuVGSk01vM04vE+fUiyrTV",
@@ -913,6 +905,16 @@
     "name": "EVENTOS EN VIVO ⚽",
     "mode": false,
     "lista": [
+      {
+        "tipo": "EVENTOS",
+        "name": "EVENTOS 1 HD",
+        "ico": "https://br.maxvps.top/images/copa_del_rey.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrFguhsXKZVo8fX71r9/50aha5Cr972QzvM4HTN00woZmaf1sqldA9mn6IE4/XSFahVr9XOPZ8XHqUoVxkIIGIz",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqb5aMsDzIED6fqtmS/r4d/N02jjSF/ln5iAFQmF+nbDA==",
+        "origin": "https://portal.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+      },
       {
         "tipo": "EVENTOS",
         "name": "CHAMPIONS ESPN",
@@ -2114,13 +2116,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "SONY COMEDIAS",
-        "ico": "https://br.maxvps.top/images/sonycomedias2.png",
-        "uri": "ECCvcgINOOcTDSFfwhJQ9u+LKOv0Zxxec6D4belUAXDEWfwJhLHLQxkXCAsTp1mUMLeoHxW2diStrGVProq5hg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "CANAL DE LAS ESTRELLAS",
         "ico": "https://br.maxvps.top/images/canaldelasestrellas.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrTxWxbmyje2wJR51vDAPnzN59yFRlBEn3R1G9NpOX+7Uj2CRjIqaxX0l5dNhh12yztVpwS5JVunrNbMfu0rIfQm4lCwXC2XGAA4DFo6SLgLA==",
@@ -2307,15 +2302,6 @@
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrjNtJ9w+0p77ZXI1IfkWpGAk5F1Lf8kyjDXkTe/8DLi5kRCm4s5Y3uBxWHUPuSc/YbXmqXyKBK7+vYh63WwToF",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTp9CoxWfV9fs0ArJX8RePmq/RP27lUqBFSNr2g/4hHKNA==",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "WOBI",
-        "ico": "https://br.maxvps.top/images/wobi.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrpdECnMxhVncTvfQaGkyzrJuVhQcvivlzB6yxAoo2FRqaNGC/n+439MlmZ+kuFRs8=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqGOugfe/0tV1H+OdMLbFqUX4lbp+PjSIwTHCsxsAXJJg==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
@@ -3352,13 +3338,6 @@
         "name": "DORA LA EXPLORADORA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Dora_la_exploradora.png",
         "uri": "q2h4ByaTW9LMzPPIv2ZmfSxGLVcUFIey3/Fb/7GTLwHN2Mrt14ArcI0LX9mgMrfqZLs2Vn90NlpXfwgh9f0ps6g3ijfGwuoaGHZgx3yaN86r13XlZty1hCe84+Psfq1YicUy4jJqhsB8UAMFBVYlyOwoAdyCNyiN1Qz8jfBWkYU3bL54yf5hb2BLFMfppIsNOj7xWgFx9B5F2nyBcTnlVwm9yb9Kt4EBMOjET7U3leo5FPDyx2AYoNEWiloq8NoXE3TZX5ey4XbIyB080npsJCnOuUuMAN3Qv3fC2ZakD65PI6qf1kG6nxlJ/EioKir/+x62u/hABU7R9GHB1RlQaAPZH0Gj20pXXRY+ZPp8D30=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BILLY Y MANDY",
-        "ico": "https://br.maxvps.top/images/billyymandy.png",
-        "uri": "Lkplus0qklETeYWxcZtkXjsJWrtg7T4hzoUcsBev8aCW81jDIGlEMJNwaYhS3+4YC2/M7InASz5bQ7+upb3jkss7PFsAruWnHE/p5kUTqZLYiR66nOqh71ZplcjYgnkxI0tqXzuKLoYwyVKfbsPhLQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
