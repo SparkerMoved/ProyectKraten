@@ -1075,30 +1075,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "Boffe Kick",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
-        "uri": "kd88X8144RyI3yttLh9SRHFzAZVSv/WT3kT01nIPJJI=",
-        "drm_scheme": "",
-        "drm_license_url": "",
-        "web": "HdjVynNkjZXeEm0i5PAklw=="
-      },
-      {
-        "name": "Youtube",
-        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "xLXcGpP9V4n0W3nGs+UNARb9PvYFVmHI3BhKmMPt6KoisD/NVJNWZozLnnmrASCE",
-        "drm_scheme": "",
-        "drm_license_url": "",
-        "web": "m97SBWtTSbZmZ1+W9UGeqw=="
-      },
-      {
-        "name": "Gran Hermano PHP",
-        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "fUVuw0vDfuTDbf/bgjihzfNeVeV6fhJhf1euAh6TUv60qh0wMCoZ6TeLXXwL9gtT1TII24Hx04kYv767r4gHTq8eZQS9LFGre+HRFgSF0ck=",
-        "drm_scheme": "",
-        "drm_license_url": "",
-        "web": "guXcDeX8+aaPB3kDvFP7bw=="
-      },
-      {
         "name": "KRATEN EVENTOS",
         "ico": "https://br.maxvps.top/images/kraten_eventos.png",
         "uri": "o15wFyVZZhzuWlL1vujJObCxM6F4SvQAzeaPlniuB0IM9KVtwWIP88gW8b5pWudelVZVmr6znqE0Y+uDFPCDpeWG7XgeSuF21kSWr7qWaaE=",
@@ -3852,12 +3828,12 @@
     "mode": false,
     "lista": [
       {
-        "name": "los simpson html",
+        "name": "GRAN HERMANO PHP",
         "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "QCrqlcgL0tCvhUQXnO+igQ0kQJRU11xbsaWJB/R9xhWX6DLZqI8No1J0tfiSmtD9",
+        "uri": "3pphz6mi4WZO5MXPE8uS7QlPrHa1fORwvNMRusnx/KZneIpFRSmnYBNqYIXwlSYtU2ZaKTfKjjIqRNFThETsfge2lpsNTnE9gxGMitHx5hM=",
         "drm_scheme": "",
         "drm_license_url": "",
-        "web": "+38bhDYbItcnfNFecoS6mQ=="
+        "web": "PvhkNROHXNdzErcKxU5b+w=="
       }
     ]
   }
