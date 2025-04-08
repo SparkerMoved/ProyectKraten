@@ -4,6 +4,22 @@
         "mode": false,
         "lista": [
           {
+            "tipo": "HD",
+            "name": "Sin oxigeno (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsfJFbqhLbZcBpgMBSo1J6o56n+1hbcPOJIf2jPzVxSQg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "tipo": "HD",
+            "name": "Banger (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/kQo9OqkJY7YrwKUKMZpag7pdCn2.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsdkCO5OPtA4c89HbxGZ4Mu+hMaHCFfR74bH3zJHxv0DA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "tipo": "HDCAM",
             "name": "Minecraft (2025)",
             "ico": "https://image.tmdb.org/t/p/original/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
@@ -20,7 +36,7 @@
             "drm_license_url": ""
           },
           {
-            "tipo": "CAMHD",
+            "tipo": "HD",
             "name": "Rescate implacable (2025)",
             "ico": "https://image.tmdb.org/t/p/original/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUvHOwOlyMeENPgMOHpuqzIG2ll+lxzRnvMnSnWwomgnlQ==",
@@ -28,7 +44,7 @@
             "drm_license_url": ""
           },
           {
-            "tipo": "CAMHD",
+            "tipo": "HD",
             "name": "Codigo Negro (2025)",
             "ico": "https://image.tmdb.org/t/p/original/10mptwEjRHIzCPrQOpoqJsolrKv.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtMYtm40/dY5oApvGoe/LVJMnfMxNVcKMwwrN2K9KydcQ==",
