@@ -1061,6 +1061,15 @@
         "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
+        "name": "TEST",
+        "ico": "https://br.maxvps.top/images/directv_sports.png",
+        "uri": "voEq+STE+yA1YLn1KbnWemiSQkEFPLQ280+ednhJkAxloIZlxhd/MPdn5bAPnPqgq8qk/hjAF0K91fGI2kqVmw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqay65gJEU4v+LSeY58qlu7062Zvo7FUUSmmmZFsfE00A==",
+        "origin": "android_mobile.directvgo.com",
+        "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
+      },
+      {
         "name": "Gol Peru",
         "ico": "http://x.playerlatino.live/golperu.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SU0DVQwmtdT3X8CPZa0b6mr",
