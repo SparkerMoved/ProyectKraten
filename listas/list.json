@@ -1061,12 +1061,12 @@
         "hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
       },
       {
-        "name": "TEST 2",
+        "name": "TEST 3",
         "ico": "https://br.maxvps.top/images/directv_sports.png",
-        "uri": "voEq+STE+yA1YLn1KbnWemiSQkEFPLQ280+ednhJkAxloIZlxhd/MPdn5bAPnPqgq8qk/hjAF0K91fGI2kqVmw==",
+        "uri": "Rtzj08N2sFSMKIXaPDokPJvupkCHVOfOocxkIc5YtQ8CETU3O1Sm2NvrycmP18fj04vHwbvwwm6g+AXQs+Qnd5eNggugpLupdGIeyc1UKRh62s1AiMo/GzwVQmu7Xu9RYl7tuga3+jYS8RV3wmYkQPfN/w30EFAQasohgawYqavQueVdI/i2EqSWHpY8qNasLZ8zIxGdS6uuA7OsH7GsogkCDuMx1BeoajgTkgrUFMbouiYKc4rf6O5XVc9QGYJclE4MA4wSiO1LZSUnTwDuqE/hu2jnNK1gD7OWzEZ8fLp6OQ3qraQdjrY/snsiUH2qoCSUanL+2H5MdMnfZur1vuJnZbv6PjcyN4SbSIvc7G2NjAmGr3qlQdbTFaP/5GjZsVPsZXYwGDNK/W8wm+R/bapvmPho0MR8elqtUghCUgSN9S3zpAjLhN1b2pLb5defpR+L83hkDm6NYku3q02PkWMislBp6Qb3iFBgGpuxfYTwRmCbk2OWSUjott2L3665P4cVsgBPeQUjx0YfV3FiTUOk3QKvDMh/RbIalFN4O1XRzjJ2hK/oH/VI+Gu+EhBwaWY3PcZZOtUEreqzKdfDkB1ZYjpZyXcdEWIONvlpAM30/mXquj/vLlO4Y1/3Ynf+C025HL0wXZvf8UoMPidLuw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqay65gJEU4v+LSeY58qlu7062Zvo7FUUSmmmZFsfE00A==",
-        "origin": "https://android_mobile.directvgo.com",
+        "origin": "android_mobile.directvgo.com",
         "user_agent": "dgo/4.57.0 (Android; Android 7.1.2; samsung; SM-N976N) ExoPlayer/1.5.1"
       },
       {
