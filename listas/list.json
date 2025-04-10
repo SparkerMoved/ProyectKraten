@@ -1071,6 +1071,16 @@
         "cookie": "yfJbU3cfAstLkTbDlAzjgBVV26Lo27QTS7GBXvju4+uL53G+K9G3/6ni8DxFZEFSpPFeUNMxClkCp1ly1t8+XmNeJgpwKFg2sdbT2/Q7HTycEsk5LiNlfYfN9l+wpcvS/uSizIQmZRFjviuO31RjpBG5ulYIynbtJ8N4n4u8gr/m52pd+Sw2E3vfCoHC36qwcjS5H31c/buO90vi5ufq4Q=="
       },
       {
+        "name": "Gran Hermano",
+        "ico": "https://br.maxvps.top/images/GH.png",
+        "uri": "iFT3DuQcomj4tejg9K9M61D0BSHwhh9Sas9l10MfPZM294SCW4SY9/x2eY1p9p3dpVgdyvZl9dNBp6fUVpwLmtocEqDO8slUhOCIzmGQac24Y6rp8eZMkqeOjzvUhtA2",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTphpfusORvWp8WaWDCiZfLICarfhBPNdE1PoxqHuFBliw==",
+        "cookie": "iLbZvQYA8WO6YMq2gJ16IDVaqRqnClRiXg+9KrPx2MK5gY6WZDPhq4kmXADcyN6Nl4xZ9dNAXAy3ZzCu47/wgHGMo/2Y9zmVmxO3w+pYR9E1619VDrgjzyqFzzu/H9eBUpgo5UylefByp7ZfbUVn+3r36NX2E5LcDDcIkgdmPZggWOZcfl6ogg87v0GV+iWPX49UyIz9SlB6vviUE6/Wgw==",
+        "origin": "https://www.directvgo.com",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+      },
+      {
         "name": "Gol Peru",
         "ico": "http://x.playerlatino.live/golperu.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SU0DVQwmtdT3X8CPZa0b6mr",
