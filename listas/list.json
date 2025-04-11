@@ -1081,12 +1081,12 @@
         "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
       },
       {
-        "name": "Dsports fight",
+        "name": "Dsports fight test cookie",
         "ico": "https://br.maxvps.top/images/dsports_fight.png",
         "uri": "DkdyXqwSrNfy7y+hxebhe3jZIdnFNL9o7HYEJykK77Cn4ncxr86BenHBMm4jHXw8m1wefmJyEi0VDrv5tNzTlU2UWgV+C+cnnggr48KbTOz6zyPA8zkIA5bHbHmKYjmx",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqay65gJEU4v+LSeY58qlu7dVc5rgRzusT4Ecc7Yft+AQ==",
-        "cookie": "yfJbU3cfAstLkTbDlAzjgBVV26Lo27QTS7GBXvju4+uL53G+K9G3/6ni8DxFZEFSpPFeUNMxClkCp1ly1t8+XmNeJgpwKFg2sdbT2/Q7HTycEsk5LiNlfYfN9l+wpcvS/uSizIQmZRFjviuO31RjpBG5ulYIynbtJ8N4n4u8gr/m52pd+Sw2E3vfCoHC36qwcjS5H31c/buO90vi5ufq4Q==",
+        "cookie": "http://cdn.tvar.io/cookie.json",
         "origin": "android_mobile.directvgo.com",
         "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
       },
