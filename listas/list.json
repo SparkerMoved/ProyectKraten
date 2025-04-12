@@ -1091,7 +1091,7 @@
         "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
       },
       {
-        "name": "Gran Hermano TEST 2",
+        "name": "Gran Hermano",
         "ico": "https://br.maxvps.top/images/GH.png",
         "uri": "iFT3DuQcomj4tejg9K9M61D0BSHwhh9Sas9l10MfPZM294SCW4SY9/x2eY1p9p3dpVgdyvZl9dNBp6fUVpwLmtocEqDO8slUhOCIzmGQac24Y6rp8eZMkqeOjzvUhtA2",
         "drm_scheme": "clearkey",
@@ -1099,6 +1099,14 @@
         "cookie": "VIj4gzKG9p8aJb+cnfUPDLq2AIqLUgDsOktRwh3vtR4FjCMaWXjT0qXG06lb0GKB",
         "origin": "https://www.directvgo.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TEST 24HS",
+        "ico": "http://x.playerlatino.live/golperu.png",
+        "uri": "7aYY66kgfUd0PMmdN1hOu7aY5GddPkkytgxU4tKFmIBa0yjFPof/PUuL03a142s4",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
       },
       {
         "name": "Gol Peru",
