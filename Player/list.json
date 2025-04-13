@@ -1068,6 +1068,7 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqay65gJEU4v+LSeY58qlu7062Zvo7FUUSmmmZFsfE00A==",
         "cookie": "7aYY66kgfUd0PMmdN1hOu8bD5dF8f3t2HO+XVEp+Ilo=",
         "origin": "android_mobile.directvgo.com",
+        "agente": "qVEx2kKUM75uokX9t0QuEw==",
         "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
       },
       {
@@ -1078,6 +1079,7 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqay65gJEU4v+LSeY58qlu7vvFPv+P3zaNoLaOaAwffog==",
         "cookie": "7aYY66kgfUd0PMmdN1hOu8bD5dF8f3t2HO+XVEp+Ilo=",
         "origin": "android_mobile.directvgo.com",
+        "agente": "qVEx2kKUM75uokX9t0QuEw==",
         "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
       },
       {
@@ -1088,6 +1090,7 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqay65gJEU4v+LSeY58qlu7dVc5rgRzusT4Ecc7Yft+AQ==",
         "cookie": "7aYY66kgfUd0PMmdN1hOu8bD5dF8f3t2HO+XVEp+Ilo=",
         "origin": "android_mobile.directvgo.com",
+        "agente": "qVEx2kKUM75uokX9t0QuEw==",
         "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
       },
       {
@@ -1096,8 +1099,9 @@
         "uri": "iFT3DuQcomj4tejg9K9M61D0BSHwhh9Sas9l10MfPZM294SCW4SY9/x2eY1p9p3dpVgdyvZl9dNBp6fUVpwLmtocEqDO8slUhOCIzmGQac24Y6rp8eZMkqeOjzvUhtA2",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTphpfusORvWp8WaWDCiZfLICarfhBPNdE1PoxqHuFBliw==",
-        "cookie": "VIj4gzKG9p8aJb+cnfUPDLq2AIqLUgDsOktRwh3vtR4FjCMaWXjT0qXG06lb0GKB",
+        "cookie": "7aYY66kgfUd0PMmdN1hOu8bD5dF8f3t2HO+XVEp+Ilo=",
         "origin": "https://www.directvgo.com",
+        "agente": "qVEx2kKUM75uokX9t0QuEw==",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
       },
       {
