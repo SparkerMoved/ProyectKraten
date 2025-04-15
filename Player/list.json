@@ -3927,10 +3927,11 @@
     "mode": false,
     "lista": [
       {
-        "name": "GRAN HERMANO PHP",
+        "name": "GRAN HERMANO",
         "ico": "https://br.maxvps.top/images/kraten_eventos.png",
-        "uri": "3pphz6mi4WZO5MXPE8uS7QlPrHa1fORwvNMRusnx/KZneIpFRSmnYBNqYIXwlSYtU2ZaKTfKjjIqRNFThETsfge2lpsNTnE9gxGMitHx5hM=",
-        "web": "PvhkNROHXNdzErcKxU5b+w=="
+        "uri": "fUVuw0vDfuTDbf/bgjihzfNeVeV6fhJhf1euAh6TUv60qh0wMCoZ6TeLXXwL9gtT1TII24Hx04kYv767r4gHTq8eZQS9LFGre+HRFgSF0ck=",
+        "web": "PvhkNROHXNdzErcKxU5b+w==",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "Dsports la12",
@@ -3938,7 +3939,8 @@
         "uri": "4JpItZ8aemCRNWhA6RGJfK2BXphw3xO+MHugCxn78Aclt1CseC5/BlEkgfnA1f7dxf4CTB52i4FnwNuq69cuwA==",
         "web": "PvhkNROHXNdzErcKxU5b+w==",
         "origin": "https://la12hd.com",
-        "referer": "https://la12hd.com/"
+        "referer": "https://la12hd.com/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TEST VOE STREAM",
