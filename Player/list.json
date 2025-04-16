@@ -3961,9 +3961,13 @@
         "name": "STREAM KICK 2",
         "ico": "https://br.maxvps.top/images/kraten_eventos.png",
         "uri": "kd88X8144RyI3yttLh9SRHiZbpu4SiXZ9lfca9v9Tsg=",
-        "web": "HdjVynNkjZXeEm0i5PAklw==",
-        "referer": "https://kick.com/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        "web": "HdjVynNkjZXeEm0i5PAklw=="
+      },
+      {
+        "name": "STREAM TWITCH",
+        "ico": "https://br.maxvps.top/images/kraten_eventos.png",
+        "uri": "xKEc702YVj5ztktUVW3pKCbFU7dUym+MklFjzE77Y7Q=",
+        "web": "5GFkYEDmkqkaQiNN6/277Q=="
       }
     ]
   }
