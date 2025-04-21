@@ -5,6 +5,30 @@
         "lista": [
           {
             "tipo": "HD",
+            "name": "Novocaine sin dolor (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/miHABFjxMyoKKtFMzqfaD8cU5Sk.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUu1lsnhWUBh8mD4tLJlYSvc5V+TfuvSCltOyNZLW0lh2w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "tipo": "HD",
+            "name": "G20 (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/wv6oWAleCJZUk5htrGg413t3GCy.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUtx142Mcm5tavPhTq2yZr5L",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "tipo": "HD",
+            "name": "Mickey 17 (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/lrCcovGRcuv8Z1v3ae1ZH5Ird05.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsYiWIKxCpmso9Kr1GVy7WVA5ksHSMck58IX1JlCu1Xmg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "tipo": "HD",
             "name": "Sin oxigeno (2025)",
             "ico": "https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUsfJFbqhLbZcBpgMBSo1J6o56n+1hbcPOJIf2jPzVxSQg==",
@@ -7760,7 +7784,7 @@
           },
           {
             "name": "PAPA SE VOLVIO LOCO",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/papasevolvioloco.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/cicouQtJTsTVugMEzwVJhLB53Pl.jpg",
             "uri": "vyfGcsDFWL7qYHr0OJgHs5bA19tTUwOJi9Htyx0FQ/qJ/wZwxEtafPfcghBUhZMrVSxCJh7LsDWD3GIy+xYk8UY3OyxqwW+m/YMqjmB478nxp9aPAPZyCpCdZI9aR/B/",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -9109,14 +9133,14 @@
           },
           {
             "name": "American Pie",
-            "ico": "https://pics.filmaffinity.com/american_pie-192121266-large.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
             "uri": "oHdLGpuOtOseLQsPYBj+IVa+qE+9wrNG7sOZ63a4UOObzUaO0Zrb1JOThT4gFPP1ZF9z/2lBuKGj9s4tkrzA/w==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "American Pie 2",
-            "ico": "https://pics.filmaffinity.com/american_pie_2-872126816-large.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/854ZZxXdeabAs90mrV72NqShJqR.jpg",
             "uri": "oHdLGpuOtOseLQsPYBj+IVa+qE+9wrNG7sOZ63a4UOObzUaO0Zrb1JOThT4gFPP1pM6qwWx5cALwHwpVm9BDLw==",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -10962,7 +10986,7 @@
         "lista": [
           {
             "name": "007 SPECTRE",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/007spectre.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/em0wAK7b3qOFpkx38lv8tFDsq0A.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0ceZ6va2DOL0BpMTvpMYUURgvZLqf3gyZdlU+l3tCHWyHnByharabkzcka+vTnLro=",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -10983,14 +11007,14 @@
           },
           {
             "name": "ABUELA",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/abuela.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/4LW20TF4NfQgHj5rZs0d0cgxRjV.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Lz9V1aQ1FQRXGW8X6yfG8yU3yLr/LGBDpBkk6dmpG6A==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "ACADEMIA DE ESPIAS",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/academiadeespias.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/uWJ3suK86L8PGpNxZEIRIKPMx0S.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3y2OfnwOFbz9yVaO5oPFVy9IcWM9Q9cJu3Q0htU9NsjQ==",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -11004,7 +11028,7 @@
           },
           {
             "name": "A LA MIERDA CON LOS ZOMBIES",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/alamierdaconloszombies.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/22GlDlg23WOSSpo96PhJW8fHoZp.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0VtLyOlB/g6t5r8txjYXbOkpPQ4AQDMjHs2Z8h9v1EXlRLUjeJPPpglaZprfcO1gUa0YrGZXkOrumRipGNfebe",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -12134,21 +12158,21 @@
           },
           {
             "name": "SPIDER-MAN 2",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/spiderman2.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0hRfohQGCDOIr+tLxL2NDFB16DWib1+VJl6EuoczK/7w==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "SPIDER-MAN 3",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/spiderman3.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0hRfohQGCDOIr+tLxL2NDFrU6by3c4QcRjIEe3F/Z3uA==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "THE AMAZING SPIDER-MAN",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/spiderman4.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1bBh7fsgHW1iMQO4ZbZyWDCxzCPo/qItjJ/doRQjnzJ4jNTgRl5uHx4DH+tMaqDuY=",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -12162,21 +12186,21 @@
           },
           {
             "name": "SPIDER-MAN: DE REGRESO A CASA",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/spiderman6.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/81qIJbnS2L0rUAAB55G8CZODpS5.jpg",
             "uri": "681Eojqs0kkbTJPmeYReDmjXV5GLcWSty7mfU5K0MBGojJUkA2OpiAnM770iy7kHRsGCd8cfWrBtoCd1Ypyrgg==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "SPIDER-MAN: LEJOS DE CASA",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/spiderman7.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI04loB8HSmkpGrQKCWiz6tGraJzpaZ3R+IPE0HEnx1fLKDWV5h3moVyWyjk/mtwsfE=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "SPIDER-MAN: NO WAY HOME",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/spiderman8.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI04loB8HSmkpGrQKCWiz6tGNRKecLm5YGbe48QMQY0Rb4qMjJ1+NEB4WhCCYbGfx1g=",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -12189,7 +12213,7 @@
         "lista": [
           {
             "name": "LA MALDICION DEL PERLA NEGRA",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe1.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg",
             "uri": "tUqTt1pfJkll9sZ+5u+MJTGsWbBCWgGHpNF0AjuftShf1cA3OCuQPr1SStSxBO6wW37RiZ+ggJeZV1pw6e3Ipcbl0+vFRK7qEK9neKJiloM=",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -12203,21 +12227,21 @@
           },
           {
             "name": "EN EL FIN DEL MUNDO",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe3.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
             "uri": "tUqTt1pfJkll9sZ+5u+MJTGsWbBCWgGHpNF0AjuftShf1cA3OCuQPr1SStSxBO6wHNBUCkymYl4EMdvROo+TQCEZJCC0TydwB6CjYKH1fyo=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "EN MAREAS MISTERIOSAS",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe4.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/2oOARbiV871kCC27FyKBmYwOM3G.jpg",
             "uri": "tUqTt1pfJkll9sZ+5u+MJTGsWbBCWgGHpNF0AjuftSj5hcwboghJjJhco3azSV88mLnCTUUih8w3FHpFQq/r2okR+8hh36eZL4bh5i8HDd9oxWZKJ8itsTb52i6mE6cq",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "LA VENGANZA DE SALAZAR",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/piratasdelcaribe5.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/net3hZOe33XbieLzVkfJsQEdig2.jpg",
             "uri": "tUqTt1pfJkll9sZ+5u+MJTGsWbBCWgGHpNF0AjuftShf1cA3OCuQPr1SStSxBO6wsXjcSZM4SCNeY1UcMb7VFDGVyVk6DQj7nE1W3K/L2Kg=",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -12710,7 +12734,7 @@
         "lista": [
           {
             "name": "JURASSIC WORLD",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/jurassicworld.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0Z06LpABnFb0gyZKU1f1+s47HYYwjEdB2ejbxxjB5qqw==",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -12724,70 +12748,70 @@
           },
           {
             "name": "007: SPECTRE",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/007spectre.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0hfjrspzQwNRXPwX/gJgUDpNujE5D+ACThv/ahUq93Yw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "ALIEN COVENANT",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/aliencovenant.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0rsutqrKgvDP7jOkVczeGNEcL4/b+x1gNKVZbJ4Q+QKA==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "ASSASSINS CREED",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/assassingcreed.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/nhiShTvoga8fyGX8468hLj6pCtW.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1DBERtFQkT8WVPBb4kgywjCT55eYxUf43PhIuQfIZCdg==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "AVATAR",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/avatar.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2NaJd1bN/AHCtVrSx0beSU",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "BATTLESHIP",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/battleship.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0/A4Ttxut2VnlFXay6FpO6XaYBnK0uEyM1qvNxtAST2Q==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "CAPITÁN AMERICA: CIVIL WAR",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/capitanamericacivilwar.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/uymMGErUAUXElLJE4jTUrDMT7wr.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2H6Lk4jXdO064p4WahrwAPisvGC48q02s9lhJf+PAhhXow+2cWDouL4w63AimnG0w=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "CARRIE",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/carrie.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI204tyrRsu9E9/HP58ExG1O",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "DEPREDADOR",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/depredador.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/elmVECDoeLik3eRwfVsyfDfd6iB.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0SqvRyPVx8+JjstnoxHZxSMJgEmOCXgwysuTBxDB/1gw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "DOCTOR STRANGE",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/doctorstrange.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0rD8754NRjdkROnNujXuZE8YlkO24Mr+Gvt+nO7AwckQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "EL CÓDIGO DA VINCI",
-            "ico": "https://panelssh.com.ar/Local/ext/img_movies/elcodigodavinci.jpg",
+            "ico": "https://image.tmdb.org/t/p/original/vaLu2RUOw8EGkYLqdJWTCn6Xsm5.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI38gnUN2bWwJv/RmGHBarrWKLdgCkxTjA0NzACQgXWA9GpWtlBJu/JN+PlV42JQsjk=",
             "drm_scheme": "",
             "drm_license_url": ""
