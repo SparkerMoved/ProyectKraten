@@ -160,5 +160,35 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTq+cnS3qEOlFE0iEjWOLS7C/ccsXZAoWHBP2oTuN+6Ixw==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "PLAYBOY",
+        "ico": "https://br.maxvps.top/images/playboy.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfogRYw1k7rrBBqWHhVux3zmmGipFOoUcEg2AzEDQC5sbQFCpOU4me0+EfTx270ybtL62JkrPgMWuKH+0DFs1JZ6",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqCmkFl0MsaOx7spM3EW3VIijJppKxgb7R1vox1yYN0HA==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "prot": "1"
+      },
+      {
+        "name": "SEXTREME",
+        "ico": "https://br.maxvps.top/images/sextreme.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrOtTWl3saiURxV3+HEdD/NXAUeV5EGCUlikk8ubivcocUhCvIoYc/MfI0MxVKzyk/khB2wvLaUfZzwgAazrRG4",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTocb9ffsMrBZf6O3QVf/PWPWa1+bxN5AX+p02K8/R+ftg==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "prot": "1"
+      },
+      {
+        "name": "VENUS",
+        "ico": "https://br.maxvps.top/images/venus.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfojLFhg1WvBrhWBgFm+Ct023cFVRozqop69iN0el0MsbRMbe1ppFGWqfcpZOYTxLwU=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDPsWE0uy/zqt/FZGFziYvTqr8iskNrSfkT0JK2rbNnv0nI4R5KEG/TQA7XaePTMzdQ==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "prot": "1"
       }
 ]
