@@ -4,21 +4,13 @@
     "icon": "https://br.maxvps.top/images/mix_tv.png",
     "uri": "https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_url": "https://panelssh.com.ar/Local/ext/licence/mixtv.json",
-    "cookie_url": "",
-    "headers": "",
-    "regex_pattern": "",
-    "transmission_html": ""
+    "drm_license_url": "https://panelssh.com.ar/Local/ext/licence/mixtv.json"
   },
   {
     "name": "AMERICA TV",
     "icon": "https://br.maxvps.top/images/americatv.png",
     "uri": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=xxx&key=yyy",
-    "cookie_url": "",
-    "headers": "",
-    "regex_pattern": "",
-    "transmission_html": ""
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=xxx&key=yyy"
   }
 ]
