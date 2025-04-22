@@ -1595,6 +1595,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "GRJNGO",
+        "ico": "http://br.maxvps.top/images/grjngo.png",
+        "uri": "CVwJw9dTtQpmJ6ef7kxnvELWt6nRzPpOOknXPfOC9HW4RUH5jAYuF1gdiljmrOxJExAbY6Px2L/Wb6kxlT5NrQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "MultiPremier",
         "ico": "http://x.playerlatino.live/multipremier.png",
         "uri": "H31X1btKxF+3wKNjvvjnooTD0JBV41g8yer2zzWU9SWm9qUDLHrVJ0uFHuj78Vn4",
