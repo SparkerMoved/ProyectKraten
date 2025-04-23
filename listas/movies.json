@@ -5,6 +5,22 @@
         "lista": [
           {
             "tipo": "HD",
+            "name": "iRehén (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/xduStDf3yiIL6WDIuhIdLX5rRGv.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuZPbpSJHidlt7+18X3+Am+JRpjNkg08deTV00DRUeiug==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "tipo": "HD",
+            "name": "La mujer de las sombras (2025)",
+            "ico": "https://image.tmdb.org/t/p/original/7EqXQpRpDLJA09ufah6Vsr487WW.jpg",
+            "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUv4rZL6z2CLInad32DXb0QLFdd1l/gIwOOTJcCLQIi6NpMeBIKqiY8VEK9JVZgWknU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "tipo": "HD",
             "name": "Novocaine sin dolor (2025)",
             "ico": "https://image.tmdb.org/t/p/original/miHABFjxMyoKKtFMzqfaD8cU5Sk.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUu1lsnhWUBh8mD4tLJlYSvc5V+TfuvSCltOyNZLW0lh2w==",
@@ -148,7 +164,7 @@
             "drm_license_url": ""
           },
           {
-            "tipo": "720P",
+            "tipo": "HD",
             "name": "Capitan america un nuevo mundo (2025)",
             "ico": "https://image.tmdb.org/t/p/original/xVwP4GCbEfO66JSSyonnAhU3Fad.jpg",
             "uri": "Vg3dUoWfpNEAscKcZbhFDj8vN0SMgsTVK4dgdI5WgUuiLtugjt6R+aLcJSnWegja4gZiFNPnyyIvccA26zFxyiDcOw8hkAEtaOZxbD7HJNE=",
